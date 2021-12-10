@@ -15,7 +15,8 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 2
 			},
 			{
@@ -23,11 +24,13 @@ var games = {
 				"value": 3
 			},
 			{
-				"name": "Route 22",
+				// "name": "Route 22",
+				"name": "Percorso 22",
 				"value": 4
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 5
 			},
 			{
@@ -35,11 +38,13 @@ var games = {
 				"value": 6
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 7
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 8
 			},
 			{
@@ -51,19 +56,23 @@ var games = {
 				"value": 10
 			},
 			{
-				"name": "Route 24",
+				// "name": "Route 24",
+				"name": "Percorso 24",
 				"value": 11
 			},
 			{
-				"name": "Route 25",
+				// "name": "Route 25",
+				"name": "Percorso 25",
 				"value": 12
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 13
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 14
 			},
 			{
@@ -71,7 +80,8 @@ var games = {
 				"value": 15
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 16
 			},
 			{
@@ -79,11 +89,13 @@ var games = {
 				"value": 17
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 18
 			},
 			{
-				"name": "Route 10",
+				// "name": "Route 10",
+				"name": "Percorso 10",
 				"value": 19
 			},
 			{
@@ -95,15 +107,18 @@ var games = {
 				"value": 21
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 22
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 23
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 24
 			},
 			{
@@ -111,15 +126,18 @@ var games = {
 				"value": 25
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 26
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 27
 			},
 			{
-				"name": "Route 18",
+				// "name": "Route 18",
+				"name": "Percorso 18",
 				"value": 28
 			},
 			{
@@ -131,15 +149,18 @@ var games = {
 				"value": 30
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 31
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 32
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 33
 			},
 			{
@@ -147,11 +168,13 @@ var games = {
 				"value": 34
 			},
 			{
-				"name": "Route 19",
+				// "name": "Route 19",
+				"name": "Percorso 19",
 				"value": 35
 			},
 			{
-				"name": "Route 20",
+				// "name": "Route 20",
+				"name": "Percorso 20",
 				"value": 36
 			},
 			{
@@ -167,11 +190,13 @@ var games = {
 				"value": 39
 			},
 			{
-				"name": "Route 21",
+				// "name": "Route 21",
+				"name": "Percorso 21",
 				"value": 40
 			},
 			{
-				"name": "Route 23",
+				// "name": "Route 23",
+				"name": "Percorso 23",
 				"value": 41
 			},
 			{
@@ -200,7 +225,8 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 29",
+				// "name": "Route 29",
+				"name": "Percorso 29",
 				"value": 2
 			},
 			{
@@ -208,11 +234,13 @@ var games = {
 				"value": 3
 			},
 			{
-				"name": "Route 30",
+				// "name": "Route 30",
+				"name": "Percorso 30",
 				"value": 4
 			},
 			{
-				"name": "Route 31",
+				// "name": "Route 31",
+				"name": "Percorso 31",
 				"value": 5
 			},
 			{
@@ -228,7 +256,8 @@ var games = {
 				"value": 8
 			},
 			{
-				"name": "Route 32",
+				// "name": "Route 32",
+				"name": "Percorso 32",
 				"value": 9
 			},
 			{
@@ -240,7 +269,8 @@ var games = {
 				"value": 11
 			},
 			{
-				"name": "Route 33",
+				// "name": "Route 33",
+				"name": "Percorso 33",
 				"value": 12
 			},
 			{
@@ -256,7 +286,8 @@ var games = {
 				"value": 15
 			},
 			{
-				"name": "Route 34",
+				// "name": "Route 34",
+				"name": "Percorso 34",
 				"value": 16
 			},
 			{
@@ -264,7 +295,8 @@ var games = {
 				"value": 17
 			},
 			{
-				"name": "Route 35",
+				// "name": "Route 35",
+				"name": "Percorso 35",
 				"value": 18
 			},
 			{
@@ -272,11 +304,13 @@ var games = {
 				"value": 19
 			},
 			{
-				"name": "Route 36",
+				// "name": "Route 36",
+				"name": "Percorso 36",
 				"value": 20
 			},
 			{
-				"name": "Route 37",
+				// "name": "Route 37",
+				"name": "Percorso 37",
 				"value": 21
 			},
 			{
@@ -292,11 +326,13 @@ var games = {
 				"value": 24
 			},
 			{
-				"name": "Route 38",
+				// "name": "Route 38",
+				"name": "Percorso 38",
 				"value": 25
 			},
 			{
-				"name": "Route 39",
+				// "name": "Route 39",
+				"name": "Percorso 39",
 				"value": 26
 			},
 			{
@@ -304,11 +340,13 @@ var games = {
 				"value": 27
 			},
 			{
-				"name": "Route 40",
+				// "name": "Route 40",
+				"name": "Percorso 40",
 				"value": 28
 			},
 			{
-				"name": "Route 41",
+				// "name": "Route 41",
+				"name": "Percorso 41",
 				"value": 29
 			},
 			{
@@ -320,7 +358,8 @@ var games = {
 				"value": 31
 			},
 			{
-				"name": "Route 42",
+				// "name": "Route 42",
+				"name": "Percorso 42",
 				"value": 32
 			},
 			{
@@ -336,7 +375,8 @@ var games = {
 				"value": 35
 			},
 			{
-				"name": "Route 43",
+				// "name": "Route 43",
+				"name": "Percorso 43",
 				"value": 36
 			},
 			{
@@ -344,7 +384,8 @@ var games = {
 				"value": 37
 			},
 			{
-				"name": "Route 44",
+				// "name": "Route 44",
+				"name": "Percorso 44",
 				"value": 38
 			},
 			{
@@ -360,7 +401,8 @@ var games = {
 				"value": 41
 			},
 			{
-				"name": "Route 45",
+				// "name": "Route 45",
+				"name": "Percorso 45",
 				"value": 42
 			},
 			{
@@ -368,11 +410,13 @@ var games = {
 				"value": 43
 			},
 			{
-				"name": "Route 46",
+				// "name": "Route 46",
+				"name": "Percorso 46",
 				"value": 44
 			},
 			{
-				"name": "Route 27",
+				// "name": "Route 27",
+				"name": "Percorso 27",
 				"value": 45
 			},
 			{
@@ -380,7 +424,8 @@ var games = {
 				"value": 46
 			},
 			{
-				"name": "Route 26",
+				// "name": "Route 26",
+				"name": "Percorso 26",
 				"value": 47
 			},
 			{
@@ -396,7 +441,8 @@ var games = {
 				"value": 50
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 51
 			},
 			{
@@ -404,19 +450,23 @@ var games = {
 				"value": 52
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 53
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 54
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 55
 			},
 			{
-				"name": "Route 10",
+				// "name": "Route 10",
+				"name": "Percorso 10",
 				"value": 56
 			},
 			{
@@ -424,7 +474,8 @@ var games = {
 				"value": 57
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 58
 			},
 			{
@@ -432,27 +483,33 @@ var games = {
 				"value": 59
 			},
 			{
-				"name": "Route 24",
+				// "name": "Route 24",
+				"name": "Percorso 24",
 				"value": 60
 			},
 			{
-				"name": "Route 25",
+				// "name": "Route 25",
+				"name": "Percorso 25",
 				"value": 61
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 62
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 63
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 64
 			},
 			{
-				"name": "Route 18",
+				// "name": "Route 18",
+				"name": "Percorso 18",
 				"value": 65
 			},
 			{
@@ -460,23 +517,28 @@ var games = {
 				"value": 66
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 67
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 68
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 69
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 70
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 71
 			},
 			{
@@ -484,7 +546,8 @@ var games = {
 				"value": 72
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 73
 			},
 			{
@@ -492,7 +555,8 @@ var games = {
 				"value": 74
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 75
 			},
 			{
@@ -504,7 +568,8 @@ var games = {
 				"value": 77
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 78
 			},
 			{
@@ -512,7 +577,8 @@ var games = {
 				"value": 79
 			},
 			{
-				"name": "Route 21",
+				// "name": "Route 21",
+				"name": "Percorso 21",
 				"value": 80
 			},
 			{
@@ -520,19 +586,23 @@ var games = {
 				"value": 81
 			},
 			{
-				"name": "Route 20",
+				// "name": "Route 20",
+				"name": "Percorso 20",
 				"value": 82
 			},
 			{
-				"name": "Route 19",
+				// "name": "Route 19",
+				"name": "Percorso 19",
 				"value": 83
 			},
 			{
-				"name": "Route 22",
+				// "name": "Route 22",
+				"name": "Percorso 22",
 				"value": 84
 			},
 			{
-				"name": "Route 28",
+				// "name": "Route 28",
+				"name": "Percorso 28",
 				"value": 85
 			},
 			{
@@ -557,15 +627,18 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 101",
+				// "name": "Route 101",
+				"name": "Percorso 101",
 				"value": 2
 			},
 			{
-				"name": "Route 102",
+				// "name": "Route 102",
+				"name": "Percorso 102",
 				"value": 3
 			},
 			{
-				"name": "Route 103",
+				// "name": "Route 103",
+				"name": "Percorso 103",
 				"value": 4
 			},
 			{
@@ -573,7 +646,8 @@ var games = {
 				"value": 5
 			},
 			{
-				"name": "Route 104",
+				// "name": "Route 104",
+				"name": "Percorso 104",
 				"value": 6
 			},
 			{
@@ -585,11 +659,13 @@ var games = {
 				"value": 8
 			},
 			{
-				"name": "Route 115",
+				// "name": "Route 115",
+				"name": "Percorso 115",
 				"value": 9
 			},
 			{
-				"name": "Route 116",
+				// "name": "Route 116",
+				"name": "Percorso 116",
 				"value": 10
 			},
 			{
@@ -601,7 +677,8 @@ var games = {
 				"value": 12
 			},
 			{
-				"name": "Route 106",
+				// "name": "Route 106",
+				"name": "Percorso 106",
 				"value": 13
 			},
 			{
@@ -609,7 +686,8 @@ var games = {
 				"value": 14
 			},
 			{
-				"name": "Route 107",
+				// "name": "Route 107",
+				"name": "Percorso 107",
 				"value": 15
 			},
 			{
@@ -617,7 +695,8 @@ var games = {
 				"value": 16
 			},
 			{
-				"name": "Route 110",
+				// "name": "Route 110",
+				"name": "Percorso 110",
 				"value": 17
 			},
 			{
@@ -629,11 +708,13 @@ var games = {
 				"value": 19
 			},
 			{
-				"name": "Route 117",
+				// "name": "Route 117",
+				"name": "Percorso 117",
 				"value": 20
 			},
 			{
-				"name": "Route 111",
+				// "name": "Route 111",
+				"name": "Percorso 111",
 				"value": 21
 			},
 			{
@@ -641,7 +722,8 @@ var games = {
 				"value": 22
 			},
 			{
-				"name": "Route 112",
+				// "name": "Route 112",
+				"name": "Percorso 112",
 				"value": 23
 			},
 			{
@@ -649,11 +731,13 @@ var games = {
 				"value": 24
 			},
 			{
-				"name": "Route 113",
+				// "name": "Route 113",
+				"name": "Percorso 113",
 				"value": 25
 			},
 			{
-				"name": "Route 114",
+				// "name": "Route 114",
+				"name": "Percorso 114",
 				"value": 26
 			},
 			{
@@ -673,11 +757,13 @@ var games = {
 				"value": 30
 			},
 			{
-				"name": "Route 118",
+				// "name": "Route 118",
+				"name": "Percorso 118",
 				"value": 31
 			},
 			{
-				"name": "Route 119",
+				// "name": "Route 119",
+				"name": "Percorso 119",
 				"value": 32
 			},
 			{
@@ -685,11 +771,13 @@ var games = {
 				"value": 33
 			},
 			{
-				"name": "Route 120",
+				// "name": "Route 120",
+				"name": "Percorso 120",
 				"value": 34
 			},
 			{
-				"name": "Route 121",
+				// "name": "Route 121",
+				"name": "Percorso 121",
 				"value": 35
 			},
 			{
@@ -701,7 +789,8 @@ var games = {
 				"value": 37
 			},
 			{
-				"name": "Route 122",
+				// "name": "Route 122",
+				"name": "Percorso 122",
 				"value": 38
 			},
 			{
@@ -709,7 +798,8 @@ var games = {
 				"value": 39
 			},
 			{
-				"name": "Route 123",
+				// "name": "Route 123",
+				"name": "Percorso 123",
 				"value": 40
 			},
 			{
@@ -717,7 +807,8 @@ var games = {
 				"value": 41
 			},
 			{
-				"name": "Route 124",
+				// "name": "Route 124",
+				"name": "Percorso 124",
 				"value": 42
 			},
 			{
@@ -725,7 +816,8 @@ var games = {
 				"value": 43
 			},
 			{
-				"name": "Route 125",
+				// "name": "Route 125",
+				"name": "Percorso 125",
 				"value": 44
 			},
 			{
@@ -733,11 +825,13 @@ var games = {
 				"value": 45
 			},
 			{
-				"name": "Route 127",
+				// "name": "Route 127",
+				"name": "Percorso 127",
 				"value": 46
 			},
 			{
-				"name": "Route 128",
+				// "name": "Route 128",
+				"name": "Percorso 128",
 				"value": 47
 			},
 			{
@@ -745,7 +839,8 @@ var games = {
 				"value": 48
 			},
 			{
-				"name": "Route 126",
+				// "name": "Route 126",
+				"name": "Percorso 126",
 				"value": 49
 			},
 			{
@@ -757,15 +852,18 @@ var games = {
 				"value": 51
 			},
 			{
-				"name": "Route 129",
+				// "name": "Route 129",
+				"name": "Percorso 129",
 				"value": 52
 			},
 			{
-				"name": "Route 130",
+				// "name": "Route 130",
+				"name": "Percorso 130",
 				"value": 53
 			},
 			{
-				"name": "Route 131",
+				// "name": "Route 131",
+				"name": "Percorso 131",
 				"value": 54
 			},
 			{
@@ -781,11 +879,13 @@ var games = {
 				"value": 57
 			},
 			{
-				"name": "Route 105",
+				// "name": "Route 105",
+				"name": "Percorso 105",
 				"value": 58
 			},
 			{
-				"name": "Route 108",
+				// "name": "Route 108",
+				"name": "Percorso 108",
 				"value": 59
 			},
 			{
@@ -793,19 +893,23 @@ var games = {
 				"value": 60
 			},
 			{
-				"name": "Route 109",
+				// "name": "Route 109",
+				"name": "Percorso 109",
 				"value": 61
 			},
 			{
-				"name": "Route 132",
+				// "name": "Route 132",
+				"name": "Percorso 132",
 				"value": 62
 			},
 			{
-				"name": "Route 133",
+				// "name": "Route 133",
+				"name": "Percorso 133",
 				"value": 63
 			},
 			{
-				"name": "Route 134",
+				// "name": "Route 134",
+				"name": "Percorso 134",
 				"value": 64
 			},
 			{
@@ -845,7 +949,8 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 2
 			},
 			{
@@ -853,11 +958,13 @@ var games = {
 				"value": 3
 			},
 			{
-				"name": "Route 22",
+				// "name": "Route 22",
+				"name": "Percorso 22",
 				"value": 4
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 5
 			},
 			{
@@ -865,11 +972,13 @@ var games = {
 				"value": 6
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 7
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 8
 			},
 			{
@@ -881,19 +990,23 @@ var games = {
 				"value": 10
 			},
 			{
-				"name": "Route 24",
+				// "name": "Route 24",
+				"name": "Percorso 24",
 				"value": 11
 			},
 			{
-				"name": "Route 25",
+				// "name": "Route 25",
+				"name": "Percorso 25",
 				"value": 12
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 13
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 14
 			},
 			{
@@ -901,7 +1014,8 @@ var games = {
 				"value": 15
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 16
 			},
 			{
@@ -909,11 +1023,13 @@ var games = {
 				"value": 17
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 18
 			},
 			{
-				"name": "Route 10",
+				// "name": "Route 10",
+				"name": "Percorso 10",
 				"value": 19
 			},
 			{
@@ -925,15 +1041,18 @@ var games = {
 				"value": 21
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 22
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 23
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 24
 			},
 			{
@@ -941,15 +1060,18 @@ var games = {
 				"value": 25
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 26
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 27
 			},
 			{
-				"name": "Route 18",
+				// "name": "Route 18",
+				"name": "Percorso 18",
 				"value": 28
 			},
 			{
@@ -961,15 +1083,18 @@ var games = {
 				"value": 30
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 31
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 32
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 33
 			},
 			{
@@ -977,11 +1102,13 @@ var games = {
 				"value": 34
 			},
 			{
-				"name": "Route 19",
+				// "name": "Route 19",
+				"name": "Percorso 19",
 				"value": 35
 			},
 			{
-				"name": "Route 20",
+				// "name": "Route 20",
+				"name": "Percorso 20",
 				"value": 36
 			},
 			{
@@ -997,7 +1124,8 @@ var games = {
 				"value": 39
 			},
 			{
-				"name": "Route 21",
+				// "name": "Route 21",
+				"name": "Percorso 21",
 				"value": 40
 			},
 			{
@@ -1033,7 +1161,8 @@ var games = {
 				"value": 48
 			},
 			{
-				"name": "Route 23",
+				// "name": "Route 23",
+				"name": "Percorso 23",
 				"value": 49
 			},
 			{
@@ -1134,7 +1263,8 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 201",
+				// "name": "Route 201",
+				"name": "Percorso 201",
 				"value": 2
 			},
 			{
@@ -1142,11 +1272,13 @@ var games = {
 				"value": 3
 			},
 			{
-				"name": "Route 202",
+				// "name": "Route 202",
+				"name": "Percorso 202",
 				"value": 4
 			},
 			{
-				"name": "Route 203",
+				// "name": "Route 203",
+				"name": "Percorso 203",
 				"value": 5
 			},
 			{
@@ -1162,11 +1294,13 @@ var games = {
 				"value": 8
 			},
 			{
-				"name": "Route 207",
+				// "name": "Route 207",
+				"name": "Percorso 207",
 				"value": 9
 			},
 			{
-				"name": "Route 204",
+				// "name": "Route 204",
+				"name": "Percorso 204",
 				"value": 10
 			},
 			{
@@ -1178,7 +1312,8 @@ var games = {
 				"value": 12
 			},
 			{
-				"name": "Route 205",
+				// "name": "Route 205",
+				"name": "Percorso 205",
 				"value": 13
 			},
 			{
@@ -1198,7 +1333,8 @@ var games = {
 				"value": 17
 			},
 			{
-				"name": "Route 206",
+				// "name": "Route 206",
+				"name": "Percorso 206",
 				"value": 18
 			},
 			{
@@ -1210,7 +1346,8 @@ var games = {
 				"value": 20
 			},
 			{
-				"name": "Route 208",
+				// "name": "Route 208",
+				"name": "Percorso 208",
 				"value": 21
 			},
 			{
@@ -1218,7 +1355,8 @@ var games = {
 				"value": 22
 			},
 			{
-				"name": "Route 209",
+				// "name": "Route 209",
+				"name": "Percorso 209",
 				"value": 23
 			},
 			{
@@ -1230,11 +1368,13 @@ var games = {
 				"value": 25
 			},
 			{
-				"name": "Route 210",
+				// "name": "Route 210",
+				"name": "Percorso 210",
 				"value": 26
 			},
 			{
-				"name": "Route 215",
+				// "name": "Route 215",
+				"name": "Percorso 215",
 				"value": 27
 			},
 			{
@@ -1242,7 +1382,8 @@ var games = {
 				"value": 28
 			},
 			{
-				"name": "Route 212",
+				// "name": "Route 212",
+				"name": "Percorso 212",
 				"value": 29
 			},
 			{
@@ -1258,7 +1399,8 @@ var games = {
 				"value": 32
 			},
 			{
-				"name": "Route 213",
+				// "name": "Route 213",
+				"name": "Percorso 213",
 				"value": 33
 			},
 			{
@@ -1270,7 +1412,8 @@ var games = {
 				"value": 35
 			},
 			{
-				"name": "Route 214",
+				// "name": "Route 214",
+				"name": "Percorso 214",
 				"value": 36
 			},
 			{
@@ -1294,15 +1437,18 @@ var games = {
 				"value": 41
 			},
 			{
-				"name": "Route 220",
+				// "name": "Route 220",
+				"name": "Percorso 220",
 				"value": 42
 			},
 			{
-				"name": "Route 221",
+				// "name": "Route 221",
+				"name": "Percorso 221",
 				"value": 43
 			},
 			{
-				"name": "Route 218",
+				// "name": "Route 218",
+				"name": "Percorso 218",
 				"value": 44
 			},
 			{
@@ -1314,15 +1460,18 @@ var games = {
 				"value": 46
 			},
 			{
-				"name": "Route 211",
+				// "name": "Route 211",
+				"name": "Percorso 211",
 				"value": 47
 			},
 			{
-				"name": "Route 216",
+				// "name": "Route 216",
+				"name": "Percorso 216",
 				"value": 48
 			},
 			{
-				"name": "Route 217",
+				// "name": "Route 217",
+				"name": "Percorso 217",
 				"value": 49
 			},
 			{
@@ -1338,7 +1487,8 @@ var games = {
 				"value": 52
 			},
 			{
-				"name": "Route 222",
+				// "name": "Route 222",
+				"name": "Percorso 222",
 				"value": 53
 			},
 			{
@@ -1346,7 +1496,8 @@ var games = {
 				"value": 54
 			},
 			{
-				"name": "Route 223",
+				// "name": "Route 223",
+				"name": "Percorso 223",
 				"value": 55
 			},
 			{
@@ -1358,15 +1509,18 @@ var games = {
 				"value": 57
 			},
 			{
-				"name": "Route 224",
+				// "name": "Route 224",
+				"name": "Percorso 224",
 				"value": 58
 			},
 			{
-				"name": "Route 230",
+				// "name": "Route 230",
+				"name": "Percorso 230",
 				"value": 59
 			},
 			{
-				"name": "Route 229",
+				// "name": "Route 229",
+				"name": "Percorso 229",
 				"value": 60
 			},
 			{
@@ -1374,15 +1528,18 @@ var games = {
 				"value": 61
 			},
 			{
-				"name": "Route 228",
+				// "name": "Route 228",
+				"name": "Percorso 228",
 				"value": 62
 			},
 			{
-				"name": "Route 226",
+				// "name": "Route 226",
+				"name": "Percorso 226",
 				"value": 63
 			},
 			{
-				"name": "Route 227",
+				// "name": "Route 227",
+				"name": "Percorso 227",
 				"value": 64
 			},
 			{
@@ -1390,7 +1547,8 @@ var games = {
 				"value": 65
 			},
 			{
-				"name": "Route 225",
+				// "name": "Route 225",
+				"name": "Percorso 225",
 				"value": 66
 			},
 			{
@@ -1439,7 +1597,8 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 29",
+				// "name": "Route 29",
+				"name": "Percorso 29",
 				"value": 2
 			},
 			{
@@ -1447,11 +1606,13 @@ var games = {
 				"value": 3
 			},
 			{
-				"name": "Route 30",
+				// "name": "Route 30",
+				"name": "Percorso 30",
 				"value": 4
 			},
 			{
-				"name": "Route 31",
+				// "name": "Route 31",
+				"name": "Percorso 31",
 				"value": 5
 			},
 			{
@@ -1467,7 +1628,8 @@ var games = {
 				"value": 8
 			},
 			{
-				"name": "Route 32",
+				// "name": "Route 32",
+				"name": "Percorso 32",
 				"value": 9
 			},
 			{
@@ -1479,7 +1641,8 @@ var games = {
 				"value": 11
 			},
 			{
-				"name": "Route 33",
+				// "name": "Route 33",
+				"name": "Percorso 33",
 				"value": 12
 			},
 			{
@@ -1495,7 +1658,8 @@ var games = {
 				"value": 15
 			},
 			{
-				"name": "Route 34",
+				// "name": "Route 34",
+				"name": "Percorso 34",
 				"value": 16
 			},
 			{
@@ -1503,7 +1667,8 @@ var games = {
 				"value": 17
 			},
 			{
-				"name": "Route 35",
+				// "name": "Route 35",
+				"name": "Percorso 35",
 				"value": 18
 			},
 			{
@@ -1511,11 +1676,13 @@ var games = {
 				"value": 19
 			},
 			{
-				"name": "Route 36",
+				// "name": "Route 36",
+				"name": "Percorso 36",
 				"value": 20
 			},
 			{
-				"name": "Route 37",
+				// "name": "Route 37",
+				"name": "Percorso 37",
 				"value": 21
 			},
 			{
@@ -1531,11 +1698,13 @@ var games = {
 				"value": 24
 			},
 			{
-				"name": "Route 38",
+				// "name": "Route 38",
+				"name": "Percorso 38",
 				"value": 25
 			},
 			{
-				"name": "Route 39",
+				// "name": "Route 39",
+				"name": "Percorso 39",
 				"value": 26
 			},
 			{
@@ -1543,11 +1712,13 @@ var games = {
 				"value": 27
 			},
 			{
-				"name": "Route 40",
+				// "name": "Route 40",
+				"name": "Percorso 40",
 				"value": 28
 			},
 			{
-				"name": "Route 41",
+				// "name": "Route 41",
+				"name": "Percorso 41",
 				"value": 29
 			},
 			{
@@ -1563,7 +1734,8 @@ var games = {
 				"value": 32
 			},
 			{
-				"name": "Route 47",
+				// "name": "Route 47",
+				"name": "Percorso 47",
 				"value": 33
 			},
 			{
@@ -1571,7 +1743,8 @@ var games = {
 				"value": 34
 			},
 			{
-				"name": "Route 48",
+				// "name": "Route 48",
+				"name": "Percorso 48",
 				"value": 35
 			},
 			{
@@ -1583,7 +1756,8 @@ var games = {
 				"value": 37
 			},
 			{
-				"name": "Route 42",
+				// "name": "Route 42",
+				"name": "Percorso 42",
 				"value": 38
 			},
 			{
@@ -1599,7 +1773,8 @@ var games = {
 				"value": 41
 			},
 			{
-				"name": "Route 43",
+				// "name": "Route 43",
+				"name": "Percorso 43",
 				"value": 42
 			},
 			{
@@ -1607,7 +1782,8 @@ var games = {
 				"value": 43
 			},
 			{
-				"name": "Route 44",
+				// "name": "Route 44",
+				"name": "Percorso 44",
 				"value": 44
 			},
 			{
@@ -1623,7 +1799,8 @@ var games = {
 				"value": 47
 			},
 			{
-				"name": "Route 45",
+				// "name": "Route 45",
+				"name": "Percorso 45",
 				"value": 48
 			},
 			{
@@ -1631,11 +1808,13 @@ var games = {
 				"value": 49
 			},
 			{
-				"name": "Route 46",
+				// "name": "Route 46",
+				"name": "Percorso 46",
 				"value": 50
 			},
 			{
-				"name": "Route 27",
+				// "name": "Route 27",
+				"name": "Percorso 27",
 				"value": 51
 			},
 			{
@@ -1643,7 +1822,8 @@ var games = {
 				"value": 52
 			},
 			{
-				"name": "Route 26",
+				// "name": "Route 26",
+				"name": "Percorso 26",
 				"value": 53
 			},
 			{
@@ -1659,7 +1839,8 @@ var games = {
 				"value": 56
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 57
 			},
 			{
@@ -1667,19 +1848,23 @@ var games = {
 				"value": 58
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 59
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 60
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 61
 			},
 			{
-				"name": "Route 10",
+				// "name": "Route 10",
+				"name": "Percorso 10",
 				"value": 62
 			},
 			{
@@ -1691,7 +1876,8 @@ var games = {
 				"value": 64
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 65
 			},
 			{
@@ -1699,27 +1885,33 @@ var games = {
 				"value": 66
 			},
 			{
-				"name": "Route 24",
+				// "name": "Route 24",
+				"name": "Percorso 24",
 				"value": 67
 			},
 			{
-				"name": "Route 25",
+				// "name": "Route 25",
+				"name": "Percorso 25",
 				"value": 68
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 69
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 70
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 71
 			},
 			{
-				"name": "Route 18",
+				// "name": "Route 18",
+				"name": "Percorso 18",
 				"value": 72
 			},
 			{
@@ -1727,23 +1919,28 @@ var games = {
 				"value": 73
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 74
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 75
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 76
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 77
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 78
 			},
 			{
@@ -1751,7 +1948,8 @@ var games = {
 				"value": 79
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 80
 			},
 			{
@@ -1759,7 +1957,8 @@ var games = {
 				"value": 81
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 82
 			},
 			{
@@ -1771,7 +1970,8 @@ var games = {
 				"value": 84
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 85
 			},
 			{
@@ -1779,7 +1979,8 @@ var games = {
 				"value": 86
 			},
 			{
-				"name": "Route 21",
+				// "name": "Route 21",
+				"name": "Percorso 21",
 				"value": 87
 			},
 			{
@@ -1787,19 +1988,23 @@ var games = {
 				"value": 88
 			},
 			{
-				"name": "Route 20",
+				// "name": "Route 20",
+				"name": "Percorso 20",
 				"value": 89
 			},
 			{
-				"name": "Route 19",
+				// "name": "Route 19",
+				"name": "Percorso 19",
 				"value": 90
 			},
 			{
-				"name": "Route 22",
+				// "name": "Route 22",
+				"name": "Percorso 22",
 				"value": 91
 			},
 			{
-				"name": "Route 28",
+				// "name": "Route 28",
+				"name": "Percorso 28",
 				"value": 92
 			},
 			{
@@ -1824,195 +2029,243 @@ var games = {
 				"value": 0
 			},
 			{
-				"name": "Nuvema Town",
+				// "name": "Nuvema Town",
+				"name": "Soffiolieve",
 				"value": 1
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 2
 			},
 			{
-				"name": "Accumula Town",
+				// "name": "Accumula Town",
+				"name": "Quattroventi",
 				"value": 3
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 4
 			},
 			{
-				"name": "Striaton City",
+				// "name": "Striaton City",
+				"name": "Levantopoli",
 				"value": 5
 			},
 			{
-				"name": "Dreamyard",
+				// "name": "Dreamyard",
+				"name": "Cantiere dei Sogni",
 				"value": 6
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 7
 			},
 			{
-				"name": "Wellspring Cave",
+				// "name": "Wellspring Cave",
+				"name": "Falda Sotterranea",
 				"value": 8
 			},
 			{
-				"name": "Nacrene City",
+				// "name": "Nacrene City",
+				"name": "Zefiropoli",
 				"value": 9
 			},
 			{
-				"name": "Pinwheel Forest",
+				// "name": "Pinwheel Forest",
+				"name": "Bosco Girandola",
 				"value": 10
 			},
 			{
-				"name": "Castelia City",
+				// "name": "Castelia City",
+				"name": "Austropoli",
 				"value": 11
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 12
 			},
 			{
-				"name": "Desert Resort",
+				// "name": "Desert Resort",
+				"name": "Deserto della Quiete",
 				"value": 13
 			},
 			{
-				"name": "Relic Castle",
+				// "name": "Relic Castle",
+				"name": "Castello Sepolto",
 				"value": 14
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 15
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 16
 			},
 			{
-				"name": "Driftveil Drawbridge",
+				// "name": "Driftveil Drawbridge",
+				"name": "Ponte Libecciopoli",
 				"value": 17
 			},
 			{
-				"name": "Driftveil City",
+				// "name": "Driftveil City",
+				"name": "Libecciopoli",
 				"value": 18
 			},
 			{
-				"name": "Cold Storage",
+				// "name": "Cold Storage",
+				"name": "Deposito Frigo",
 				"value": 19
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 20
 			},
 			{
-				"name": "Mistralton Cave",
+				// "name": "Mistralton Cave",
+				"name": "Cava Ponentopoli",
 				"value": 21
 			},
 			{
-				"name": "Chargestone Cave",
+				// "name": "Chargestone Cave",
+				"name": "Cava Pietrelettrica",
 				"value": 22
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 23
 			},
 			{
-				"name": "Celestial Tower",
+				// "name": "Celestial Tower",
+				"name": "Torre Cielo",
 				"value": 24
 			},
 			{
-				"name": "Twist Mountain",
+				// "name": "Twist Mountain",
+				"name": "Monte Vite",
 				"value": 25
 			},
 			{
-				"name": "Iccirus City",
+				// "name": "Iccirus City",
+				"name": "Mistralopoli",
 				"value": 26
 			},
 			{
-				"name": "Dragonspiral Tower",
+				// "name": "Dragonspiral Tower",
+				"name": "Torre Dragospira",
 				"value": 27
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 28
 			},
 			{
-				"name": "Moor of Icirrus",
+				// "name": "Moor of Icirrus",
+				"name": "Palude Mistralopoli",
 				"value": 29
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 30
 			},
 			{
-				"name": "Route 10",
+				// "name": "Route 10",
+				"name": "Percorso 10",
 				"value": 31
 			},
 			{
-				"name": "Victory Road",
+				// "name": "Victory Road",
+				"name": "Via Vittoria",
 				"value": 32
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 33
 			},
 			{
-				"name": "Village Bridge",
+				// "name": "Village Bridge",
+				"name": "Ponte Villaggio",
 				"value": 34
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 35
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 36
 			},
 			{
-				"name": "Undella Town",
+				// "name": "Undella Town",
+				"name": "Spiraria",
 				"value": 37
 			},
 			{
-				"name": "Undella Bay",
+				// "name": "Undella Bay",
+				"name": "Baia Spiraria",
 				"value": 38
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 39
 			},
 			{
-				"name": "Abundant Shrine",
+				// "name": "Abundant Shrine",
+				"name": "Tempio dell'Abbondanza",
 				"value": 40
 			},
 			{
-				"name": "White Forest",
+				// "name": "White Forest",
+				"name": "Foresta Bianca/Città Nera",
 				"value": 41
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 42
 			},
 			{
-				"name": "Marvelous Bridge",
+				// "name": "Marvelous Bridge",
+				"name": "Ponte Meraviglie",
 				"value": 43
 			},
 			{
-				"name": "Lostlorn Forest",
+				// "name": "Lostlorn Forest",
+				"name": "Bosco Smarrimento",
 				"value": 44
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 45
 			},
 			{
-				"name": "Route 18",
+				// "name": "Route 18",
+				"name": "Percorso 18",
 				"value": 46
 			},
 			{
-				"name": "P2 Laboratory",
+				// "name": "P2 Laboratory",
+				"name": "Laboratorio P&P",
 				"value": 47
 			},
 			{
-				"name": "Liberty Garden",
+				// "name": "Liberty Garden",
+				"name": "Isola Libertà",
 				"value": 48
 			}
 		]
@@ -2033,7 +2286,8 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 19",
+				// "name": "Route 19",
+				"name": "Percorso 19",
 				"value": 2
 			},
 			{
@@ -2041,7 +2295,8 @@ var games = {
 				"value": 3
 			},
 			{
-				"name": "Route 20",
+				// "name": "Route 20",
+				"name": "Percorso 20",
 				"value": 4
 			},
 			{
@@ -2073,7 +2328,8 @@ var games = {
 				"value": 11
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 12
 			},
 			{
@@ -2085,7 +2341,8 @@ var games = {
 				"value": 14
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 15
 			},
 			{
@@ -2093,7 +2350,8 @@ var games = {
 				"value": 16
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 17
 			},
 			{
@@ -2105,7 +2363,8 @@ var games = {
 				"value": 19
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 20
 			},
 			{
@@ -2117,7 +2376,8 @@ var games = {
 				"value": 22
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 23
 			},
 			{
@@ -2141,11 +2401,13 @@ var games = {
 				"value": 28
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 29
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 30
 			},
 			{
@@ -2153,11 +2415,13 @@ var games = {
 				"value": 31
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 32
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 33
 			},
 			{
@@ -2165,7 +2429,8 @@ var games = {
 				"value": 34
 			},
 			{
-				"name": "Route 21",
+				// "name": "Route 21",
+				"name": "Percorso 21",
 				"value": 35
 			},
 			{
@@ -2173,15 +2438,18 @@ var games = {
 				"value": 36
 			},
 			{
-				"name": "Route 22",
+				// "name": "Route 22",
+				"name": "Percorso 22",
 				"value": 37
 			},
 			{
-				"name": "Giant Chasm",
+				// "name": "Giant Chasm",
+				"name": "Fossa Gigante",
 				"value": 38
 			},
 			{
-				"name": "Route 23",
+				// "name": "Route 23",
+				"name": "Percorso 23",
 				"value": 39
 			},
 			{
@@ -2197,11 +2465,13 @@ var games = {
 				"value": 42
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 43
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 44
 			},
 			{
@@ -2241,7 +2511,8 @@ var games = {
 				"value": 53
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 54
 			},
 			{
@@ -2257,7 +2528,8 @@ var games = {
 				"value": 57
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 58
 			},
 			{
@@ -2265,15 +2537,18 @@ var games = {
 				"value": 59
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 60
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 61
 			},
 			{
-				"name": "Route 18",
+				// "name": "Route 18",
+				"name": "Percorso 18",
 				"value": 62
 			},
 			{
@@ -2302,7 +2577,8 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 2
 			},
 			{
@@ -2310,15 +2586,18 @@ var games = {
 				"value": 3
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 4
 			},
 			{
-				"name": "Route 22",
+				// "name": "Route 22",
+				"name": "Percorso 22",
 				"value": 5
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 6
 			},
 			{
@@ -2326,11 +2605,13 @@ var games = {
 				"value": 7
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 8
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 9
 			},
 			{
@@ -2338,7 +2619,8 @@ var games = {
 				"value": 10
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 11
 			},
 			{
@@ -2350,7 +2632,8 @@ var games = {
 				"value": 13
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 14
 			},
 			{
@@ -2358,7 +2641,8 @@ var games = {
 				"value": 15
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 16
 			},
 			{
@@ -2370,11 +2654,13 @@ var games = {
 				"value": 18
 			},
 			{
-				"name": "Route 10",
+				// "name": "Route 10",
+				"name": "Percorso 10",
 				"value": 19
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 20
 			},
 			{
@@ -2390,7 +2676,8 @@ var games = {
 				"value": 23
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 24
 			},
 			{
@@ -2398,11 +2685,13 @@ var games = {
 				"value": 25
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 26
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 27
 			},
 			{
@@ -2410,7 +2699,8 @@ var games = {
 				"value": 28
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 29
 			},
 			{
@@ -2418,7 +2708,8 @@ var games = {
 				"value": 30
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 31
 			},
 			{
@@ -2426,7 +2717,8 @@ var games = {
 				"value": 32
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 33
 			},
 			{
@@ -2434,7 +2726,8 @@ var games = {
 				"value": 34
 			},
 			{
-				"name": "Route 18",
+				// "name": "Route 18",
+				"name": "Percorso 18",
 				"value": 35
 			},
 			{
@@ -2442,11 +2735,13 @@ var games = {
 				"value": 36
 			},
 			{
-				"name": "Route 19",
+				// "name": "Route 19",
+				"name": "Percorso 19",
 				"value": 37
 			},
 			{
-				"name": "Route 20",
+				// "name": "Route 20",
+				"name": "Percorso 20",
 				"value": 38
 			},
 			{
@@ -2454,7 +2749,8 @@ var games = {
 				"value": 39
 			},
 			{
-				"name": "Route 21",
+				// "name": "Route 21",
+				"name": "Percorso 21",
 				"value": 40
 			},
 			{
@@ -2491,15 +2787,18 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 101",
+				// "name": "Route 101",
+				"name": "Percorso 101",
 				"value": 2
 			},
 			{
-				"name": "Route 102",
+				// "name": "Route 102",
+				"name": "Percorso 102",
 				"value": 3
 			},
 			{
-				"name": "Route 103",
+				// "name": "Route 103",
+				"name": "Percorso 103",
 				"value": 4
 			},
 			{
@@ -2507,7 +2806,8 @@ var games = {
 				"value": 5
 			},
 			{
-				"name": "Route 104",
+				// "name": "Route 104",
+				"name": "Percorso 104",
 				"value": 6
 			},
 			{
@@ -2519,11 +2819,13 @@ var games = {
 				"value": 8
 			},
 			{
-				"name": "Route 115",
+				// "name": "Route 115",
+				"name": "Percorso 115",
 				"value": 9
 			},
 			{
-				"name": "Route 116",
+				// "name": "Route 116",
+				"name": "Percorso 116",
 				"value": 10
 			},
 			{
@@ -2535,7 +2837,8 @@ var games = {
 				"value": 12
 			},
 			{
-				"name": "Route 106",
+				// "name": "Route 106",
+				"name": "Percorso 106",
 				"value": 13
 			},
 			{
@@ -2543,7 +2846,8 @@ var games = {
 				"value": 14
 			},
 			{
-				"name": "Route 107",
+				// "name": "Route 107",
+				"name": "Percorso 107",
 				"value": 15
 			},
 			{
@@ -2551,7 +2855,8 @@ var games = {
 				"value": 16
 			},
 			{
-				"name": "Route 110",
+				// "name": "Route 110",
+				"name": "Percorso 110",
 				"value": 17
 			},
 			{
@@ -2563,15 +2868,18 @@ var games = {
 				"value": 19
 			},
 			{
-				"name": "Route 117",
+				// "name": "Route 117",
+				"name": "Percorso 117",
 				"value": 20
 			},
 			{
-				"name": "Route 111",
+				// "name": "Route 111",
+				"name": "Percorso 111",
 				"value": 21
 			},
 			{
-				"name": "Route 112",
+				// "name": "Route 112",
+				"name": "Percorso 112",
 				"value": 22
 			},
 			{
@@ -2579,11 +2887,13 @@ var games = {
 				"value": 23
 			},
 			{
-				"name": "Route 113",
+				// "name": "Route 113",
+				"name": "Percorso 113",
 				"value": 24
 			},
 			{
-				"name": "Route 114",
+				// "name": "Route 114",
+				"name": "Percorso 114",
 				"value": 25
 			},
 			{
@@ -2599,7 +2909,8 @@ var games = {
 				"value": 28
 			},
 			{
-				"name": "Route 118",
+				// "name": "Route 118",
+				"name": "Percorso 118",
 				"value": 29
 			},
 			{
@@ -2607,7 +2918,8 @@ var games = {
 				"value": 30
 			},
 			{
-				"name": "Route 119",
+				// "name": "Route 119",
+				"name": "Percorso 119",
 				"value": 31
 			},
 			{
@@ -2615,11 +2927,13 @@ var games = {
 				"value": 32
 			},
 			{
-				"name": "Route 120",
+				// "name": "Route 120",
+				"name": "Percorso 120",
 				"value": 33
 			},
 			{
-				"name": "Route 121",
+				// "name": "Route 121",
+				"name": "Percorso 121",
 				"value": 34
 			},
 			{
@@ -2631,7 +2945,8 @@ var games = {
 				"value": 36
 			},
 			{
-				"name": "Route 122",
+				// "name": "Route 122",
+				"name": "Percorso 122",
 				"value": 37
 			},
 			{
@@ -2639,7 +2954,8 @@ var games = {
 				"value": 38
 			},
 			{
-				"name": "Route 123",
+				// "name": "Route 123",
+				"name": "Percorso 123",
 				"value": 39
 			},
 			{
@@ -2647,7 +2963,8 @@ var games = {
 				"value": 40
 			},
 			{
-				"name": "Route 124",
+				// "name": "Route 124",
+				"name": "Percorso 124",
 				"value": 41
 			},
 			{
@@ -2655,7 +2972,8 @@ var games = {
 				"value": 42
 			},
 			{
-				"name": "Route 125",
+				// "name": "Route 125",
+				"name": "Percorso 125",
 				"value": 43
 			},
 			{
@@ -2663,11 +2981,13 @@ var games = {
 				"value": 44
 			},
 			{
-				"name": "Route 127",
+				// "name": "Route 127",
+				"name": "Percorso 127",
 				"value": 45
 			},
 			{
-				"name": "Route 128",
+				// "name": "Route 128",
+				"name": "Percorso 128",
 				"value": 46
 			},
 			{
@@ -2675,7 +2995,8 @@ var games = {
 				"value": 47
 			},
 			{
-				"name": "Route 126",
+				// "name": "Route 126",
+				"name": "Percorso 126",
 				"value": 48
 			},
 			{
@@ -2691,15 +3012,18 @@ var games = {
 				"value": 51
 			},
 			{
-				"name": "Route 129",
+				// "name": "Route 129",
+				"name": "Percorso 129",
 				"value": 52
 			},
 			{
-				"name": "Route 130",
+				// "name": "Route 130",
+				"name": "Percorso 130",
 				"value": 53
 			},
 			{
-				"name": "Route 131",
+				// "name": "Route 131",
+				"name": "Percorso 131",
 				"value": 54
 			},
 			{
@@ -2715,11 +3039,13 @@ var games = {
 				"value": 57
 			},
 			{
-				"name": "Route 105",
+				// "name": "Route 105",
+				"name": "Percorso 105",
 				"value": 58
 			},
 			{
-				"name": "Route 108",
+				// "name": "Route 108",
+				"name": "Percorso 108",
 				"value": 59
 			},
 			{
@@ -2727,19 +3053,23 @@ var games = {
 				"value": 60
 			},
 			{
-				"name": "Route 109",
+				// "name": "Route 109",
+				"name": "Percorso 109",
 				"value": 61
 			},
 			{
-				"name": "Route 132",
+				// "name": "Route 132",
+				"name": "Percorso 132",
 				"value": 62
 			},
 			{
-				"name": "Route 133",
+				// "name": "Route 133",
+				"name": "Percorso 133",
 				"value": 63
 			},
 			{
-				"name": "Route 134",
+				// "name": "Route 134",
+				"name": "Percorso 134",
 				"value": 64
 			},
 			{
@@ -2820,7 +3150,8 @@ var games = {
 				"value": 2
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 3
 			},
 			{
@@ -2832,7 +3163,8 @@ var games = {
 				"value": 5
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 6
 			},
 			{
@@ -2848,7 +3180,8 @@ var games = {
 				"value": 9
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 10
 			},
 			{
@@ -2872,7 +3205,8 @@ var games = {
 				"value": 15
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 16
 			},
 			{
@@ -2884,7 +3218,8 @@ var games = {
 				"value": 18
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 19
 			},
 			{
@@ -2892,11 +3227,13 @@ var games = {
 				"value": 20
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 21
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 22
 			},
 			{
@@ -2904,7 +3241,8 @@ var games = {
 				"value": 23
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 24
 			},
 			{
@@ -2920,7 +3258,8 @@ var games = {
 				"value": 27
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 28
 			},
 			{
@@ -2944,7 +3283,8 @@ var games = {
 				"value": 33
 			},
 			{
-				"name": "Route 10",
+				// "name": "Route 10",
+				"name": "Percorso 10",
 				"value": 34
 			},
 			{
@@ -2952,11 +3292,13 @@ var games = {
 				"value": 35
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 36
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 37
 			},
 			{
@@ -2968,7 +3310,8 @@ var games = {
 				"value": 39
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 40
 			},
 			{
@@ -2980,7 +3323,8 @@ var games = {
 				"value": 42
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 43
 			},
 			{
@@ -2988,7 +3332,8 @@ var games = {
 				"value": 44
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 45
 			},
 			{
@@ -2996,7 +3341,8 @@ var games = {
 				"value": 46
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 47
 			},
 			{
@@ -3008,7 +3354,8 @@ var games = {
 				"value": 49
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 50
 			},
 			{
@@ -3109,7 +3456,8 @@ var games = {
 				"value": 2
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 3
 			},
 			{
@@ -3121,7 +3469,8 @@ var games = {
 				"value": 5
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 6
 			},
 			{
@@ -3137,7 +3486,8 @@ var games = {
 				"value": 9
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 10
 			},
 			{
@@ -3161,7 +3511,8 @@ var games = {
 				"value": 15
 			},
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 16
 			},
 			{
@@ -3173,7 +3524,8 @@ var games = {
 				"value": 18
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 19
 			},
 			{
@@ -3181,11 +3533,13 @@ var games = {
 				"value": 20
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 21
 			},
 			{
-				"name": "Route 7",
+				// "name": "Route 7",
+				"name": "Percorso 7",
 				"value": 22
 			},
 			{
@@ -3197,7 +3551,8 @@ var games = {
 				"value": 24
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 25
 			},
 			{
@@ -3213,7 +3568,8 @@ var games = {
 				"value": 28
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 29
 			},
 			{
@@ -3237,7 +3593,8 @@ var games = {
 				"value": 34
 			},
 			{
-				"name": "Route 10",
+				// "name": "Route 10",
+				"name": "Percorso 10",
 				"value": 35
 			},
 			{
@@ -3245,11 +3602,13 @@ var games = {
 				"value": 36
 			},
 			{
-				"name": "Route 11",
+				// "name": "Route 11",
+				"name": "Percorso 11",
 				"value": 37
 			},
 			{
-				"name": "Route 12",
+				// "name": "Route 12",
+				"name": "Percorso 12",
 				"value": 38
 			},
 			{
@@ -3261,7 +3620,8 @@ var games = {
 				"value": 40
 			},
 			{
-				"name": "Route 13",
+				// "name": "Route 13",
+				"name": "Percorso 13",
 				"value": 41
 			},
 			{
@@ -3273,7 +3633,8 @@ var games = {
 				"value": 43
 			},
 			{
-				"name": "Route 15",
+				// "name": "Route 15",
+				"name": "Percorso 15",
 				"value": 44
 			},
 			{
@@ -3281,7 +3642,8 @@ var games = {
 				"value": 45
 			},
 			{
-				"name": "Route 14",
+				// "name": "Route 14",
+				"name": "Percorso 14",
 				"value": 46
 			},
 			{
@@ -3289,7 +3651,8 @@ var games = {
 				"value": 47
 			},
 			{
-				"name": "Route 16",
+				// "name": "Route 16",
+				"name": "Percorso 16",
 				"value": 48
 			},
 			{
@@ -3301,7 +3664,8 @@ var games = {
 				"value": 50
 			},
 			{
-				"name": "Route 17",
+				// "name": "Route 17",
+				"name": "Percorso 17",
 				"value": 51
 			},
 			{
@@ -3398,7 +3762,8 @@ var games = {
 				"value": 1
 			},
 			{
-				"name": "Route 1",
+				// "name": "Route 1",
+				"name": "Percorso 1",
 				"value": 2
 			},
 			{
@@ -3406,7 +3771,8 @@ var games = {
 				"value": 3
 			},
 			{
-				"name": "Route 2",
+				// "name": "Route 2",
+				"name": "Percorso 2",
 				"value": 4
 			},
 			{
@@ -3446,7 +3812,8 @@ var games = {
 				"value": 13
 			},
 			{
-				"name": "Route 3",
+				// "name": "Route 3",
+				"name": "Percorso 3",
 				"value": 14
 			},
 			{
@@ -3455,11 +3822,13 @@ var games = {
 			},
 
 			{
-				"name": "Route 4",
+				// "name": "Route 4",
+				"name": "Percorso 4",
 				"value": 16
 			},
 			{
-				"name": "Route 5",
+				// "name": "Route 5",
+				"name": "Percorso 5",
 				"value": 17
 			},
 			{
@@ -3511,7 +3880,8 @@ var games = {
 				"value": 29
 			},
 			{
-				"name": "Route 6",
+				// "name": "Route 6",
+				"name": "Percorso 6",
 				"value": 30
 			},
 			{
@@ -3523,11 +3893,13 @@ var games = {
 				"value": 32
 			},
 			{
-				"name": "Route 8",
+				// "name": "Route 8",
+				"name": "Percorso 8",
 				"value": 33
 			},
 			{
-				"name": "Route 9",
+				// "name": "Route 9",
+				"name": "Percorso 9",
 				"value": 34
 			},
 			{
@@ -8427,7 +8799,7 @@ var pkmnData = [
 	}
 ];
 
-if (!localStorage.getItem('selectedGame')) {
+if(!localStorage.getItem('selectedGame')) {
 	localStorage.setItem('selectedGame', 'rby');
 }
 
@@ -8436,7 +8808,7 @@ var selectedGame = games[localStorage.getItem('selectedGame')] ? localStorage.ge
 function escapeHTML(str, jsContext) {
 	var string = new Option(str).innerHTML;
 
-	if (jsContext) {
+	if(jsContext) {
 		string.replace(/"/g, '"').replace(/'/g, "'").replace(/\n/g, '\\n').replace(/\/r/g, '\\r');
 	} else {
 		string.replace(/"/g, '&quot;');
@@ -8449,53 +8821,53 @@ function renderMain() {
 	var linksString = '';
 	var segmentsString = '';
 
-	for (var game in games) {
+	for(var game in games) {
 		linksString += '<a class="item" data-tab="' + games[game].id + '">' + games[game].title + '</a>';
 
 		segmentsString += '<div class="ui bottom attached segment tab" data-tab="' + games[game].id + '">' +
 			'<div class="ui secondary stackable menu">' +
-				'<div class="horizontally fitted item">' +
-					'<h2 class="ui header">' + games[game].title + '</h2>' +
-				'</div>' +
-				'<div class="right horizontally fitted item">' +
-					'<button class="ui basic fluid button addLocation"><i class="plus icon"></i>Add location</button>' +
-					'<button class="ui basic button gameSettings" title="Game settings"><i class="settings icon"></i></button>' +
-				'</div>' +
+			'<div class="horizontally fitted item">' +
+			'<h2 class="ui header">' + games[game].title + '</h2>' +
+			'</div>' +
+			'<div class="right horizontally fitted item">' +
+			'<button class="ui basic fluid button addLocation"><i class="plus icon"></i>Add location</button>' +
+			'<button class="ui basic button gameSettings" title="Game settings"><i class="settings icon"></i></button>' +
+			'</div>' +
 			'</div>' +
 			'<table class="ui table sortable selectable">' +
-				'<thead>' +
-					'<tr>' +
-						'<th class="center aligned four wide">Location</th>' +
-						'<th class="center aligned four wide">Encounter</th>' +
-						'<th class="center aligned four wide">Nickname</th>' +
-						'<th class="center aligned three wide">Status</th>' +
-						'<th class="center aligned no-sort one wide disabled"></th>' +
-					'</tr>' +
-				'</thead>' +
-				'<tbody id="' + games[game].id + '-locations">' +
-				'</tbody>' +
+			'<thead>' +
+			'<tr>' +
+			'<th class="center aligned four wide">Location</th>' +
+			'<th class="center aligned four wide">Encounter</th>' +
+			'<th class="center aligned four wide">Nickname</th>' +
+			'<th class="center aligned three wide">Status</th>' +
+			'<th class="center aligned no-sort one wide disabled"></th>' +
+			'</tr>' +
+			'</thead>' +
+			'<tbody id="' + games[game].id + '-locations">' +
+			'</tbody>' +
 			'</table>' +
-		'</div>';
+			'</div>';
 	};
 
 
 	return '<div class="ui stackable top attached borderless menu">' +
 		'<div id="gameMenu" class="ui dropdown item">' +
-			'<i class="sidebar icon"></i>' +
-			'Games' +
-			'<i class="dropdown icon"></i>' +
-			'<div class="menu">' +
-				linksString +
-			'</div>' +
+		'<i class="sidebar icon"></i>' +
+		'Games' +
+		'<i class="dropdown icon"></i>' +
+		'<div class="menu">' +
+		linksString +
+		'</div>' +
 		'</div>' +
 		'<div class="right horizontally fitted item dataControls">' +
-			'<button id="saveData" class="ui green button"><i class="download icon"></i>Export</button>' +
-			'<input id="fileLoader" accept=".json, application/json" type="file">' +
-			'<label id="loadData" class="ui blue button fileInput" for="fileLoader"><i class="upload icon"></i>Import</label>' +
-			'<button id="resetData" class="ui red button"><i class="remove icon"></i>Reset</button>' +
+		'<button id="saveData" class="ui green button"><i class="download icon"></i>Export</button>' +
+		'<input id="fileLoader" accept=".json, application/json" type="file">' +
+		'<label id="loadData" class="ui blue button fileInput" for="fileLoader"><i class="upload icon"></i>Import</label>' +
+		'<button id="resetData" class="ui red button"><i class="remove icon"></i>Reset</button>' +
 		'</div>' +
-	'</div>' +
-	segmentsString;
+		'</div>' +
+		segmentsString;
 }
 
 function renderLocations(game, darkTheme) {
@@ -8504,38 +8876,38 @@ function renderLocations(game, darkTheme) {
 	game.locations.forEach(function(location, index) {
 		var locationValue = escapeHTML(location.value);
 
-		string += '<tr' + (location.order !== undefined ? ' class="customLocation"' : '' ) + '>' +
+		string += '<tr' + (location.order !== undefined ? ' class="customLocation"' : '') + '>' +
 			'<td data-sort-value="' + index + '">' + '<div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic show-sm float-right singleReset icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div>' + escapeHTML(location.name) + '</td>' +
 			'<td data-sort-value="' + escapeHTML(localStorage.getItem(game.id + location.value + '-encounter')) + '">' +
-				'<div data-name="' + (localStorage.getItem(game.id + location.value + '-name') ? escapeHTML(localStorage.getItem(game.id + location.value + '-name')) : '') + '" id="' + game.id + locationValue + '-encounter" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid search selection long dropdown encounter-picker">' +
-					'<input value="' + (localStorage.getItem(game.id + location.value + '-encounter') ? escapeHTML(localStorage.getItem(game.id + location.value + '-encounter'), true) : '') + '" name="pokemon" type="hidden">' +
-					'<i class="dropdown icon"></i>' +
-					'<div class="default text">Encounter</div>' +
-					'<div class="menu"></div>' +
-				'</div>' +
+			'<div data-name="' + (localStorage.getItem(game.id + location.value + '-name') ? escapeHTML(localStorage.getItem(game.id + location.value + '-name')) : '') + '" id="' + game.id + locationValue + '-encounter" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid search selection long dropdown encounter-picker">' +
+			'<input value="' + (localStorage.getItem(game.id + location.value + '-encounter') ? escapeHTML(localStorage.getItem(game.id + location.value + '-encounter'), true) : '') + '" name="pokemon" type="hidden">' +
+			'<i class="dropdown icon"></i>' +
+			'<div class="default text">Encounter</div>' +
+			'<div class="menu"></div>' +
+			'</div>' +
 			'</td>' +
 			'<td data-sort-value="' + escapeHTML(localStorage.getItem(game.id + location.value + '-nickname')) + '">' +
-				'<div class="ui' + (darkTheme ? ' inverted' : '') + ' fluid input">' +
-					'<input autocomplete="off" maxlength="' + game.nameLimit + '" class="nickname-input" value="' + (localStorage.getItem(game.id + location.value + '-nickname') ? escapeHTML(localStorage.getItem(game.id + location.value + '-nickname')) : '') + '" id="' + game.id + locationValue + '-nickname" name="nickname" placeholder="Nickname" type="text">' +
-				'</div>' +
+			'<div class="ui' + (darkTheme ? ' inverted' : '') + ' fluid input">' +
+			'<input autocomplete="off" maxlength="' + game.nameLimit + '" class="nickname-input" value="' + (localStorage.getItem(game.id + location.value + '-nickname') ? escapeHTML(localStorage.getItem(game.id + location.value + '-nickname')) : '') + '" id="' + game.id + locationValue + '-nickname" name="nickname" placeholder="Nickname" type="text">' +
+			'</div>' +
 			'</td>' +
 			'<td data-sort-value="' + escapeHTML(localStorage.getItem(game.id + location.value + '-status')) + '">' +
-				'<div id="' + game.id + locationValue + '-status" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid selection long dropdown">' +
-					'<input value="' + (localStorage.getItem(game.id + location.value + '-status') ? escapeHTML(localStorage.getItem(game.id + location.value + '-status')) : '') + '" name="status" type="hidden">' +
-					'<i class="dropdown icon"></i>' +
-					'<div class="default text">Status</div>' +
-					'<div class="menu">' +
-						'<div class="item" data-value="captured"><i class="checkmark icon"></i>Captured</div>' +
-						'<div class="item" data-value="received"><i class="gift icon"></i>Received</div>' +
-						'<div class="item" data-value="traded"><i class="exchange icon"></i>Traded</div>' +
-						'<div class="item" data-value="missed"><i class="ban icon"></i>Missed</div>' +
-						'<div class="item" data-value="stored"><i class="hdd outline icon"></i>Stored</div>' +
-						'<div class="item" data-value="deceased"><i class="remove user icon"></i>Deceased</div>' +
-					'</div>' +
-				'</div>' +
+			'<div id="' + game.id + locationValue + '-status" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid selection long dropdown">' +
+			'<input value="' + (localStorage.getItem(game.id + location.value + '-status') ? escapeHTML(localStorage.getItem(game.id + location.value + '-status')) : '') + '" name="status" type="hidden">' +
+			'<i class="dropdown icon"></i>' +
+			'<div class="default text">Status</div>' +
+			'<div class="menu">' +
+			'<div class="item" data-value="captured"><i class="checkmark icon"></i>Captured</div>' +
+			'<div class="item" data-value="received"><i class="gift icon"></i>Received</div>' +
+			'<div class="item" data-value="traded"><i class="exchange icon"></i>Traded</div>' +
+			'<div class="item" data-value="missed"><i class="ban icon"></i>Missed</div>' +
+			'<div class="item" data-value="stored"><i class="hdd outline icon"></i>Stored</div>' +
+			'<div class="item" data-value="deceased"><i class="remove user icon"></i>Deceased</div>' +
+			'</div>' +
+			'</div>' +
 			'</td>' +
 			'<td class="hide-sm"><div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic singleReset fluid icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div></td>' +
-		'</tr>';
+			'</tr>';
 	});
 
 	return string;
@@ -8546,7 +8918,7 @@ function resetGame(game, removeLocations) {
 		clearLocation(selectedGame + location.value);
 	});
 
-	if (removeLocations) {
+	if(removeLocations) {
 		localStorage.removeItem(selectedGame + '-custom-locations');
 
 		games[selectedGame].locations = games[selectedGame].locations.filter(function(location) {
@@ -8561,7 +8933,7 @@ function filterByProperty(array, property) {
 	return array.filter(function(entry) {
 		var value = entry[property];
 
-		if (values[value] !== undefined) {
+		if(values[value] !== undefined) {
 			return false;
 		} else {
 			values[value] = true;
@@ -8571,15 +8943,15 @@ function filterByProperty(array, property) {
 }
 
 function uploadFile(input) {
-	if (input.files && input.files[0]) {
+	if(input.files && input.files[0]) {
 		file = input.files[0];
 		fr = new FileReader();
 
-		fr.onload = function () {
+		fr.onload = function() {
 			try {
 				var data = JSON.parse(fr.result);
 
-				if (data && data.hasOwnProperty('locations')) {
+				if(data && data.hasOwnProperty('locations')) {
 					var locations = filterByProperty(data.locations, 'id');
 
 					resetGame(data.id, true);
@@ -8590,7 +8962,7 @@ function uploadFile(input) {
 					$('#allowCustomPokemon').prop('checked', data.settings && data.settings.allowCustomPokemon);
 					togglePokemonAddition(data.id);
 
-					if (data.customLocations.length) {
+					if(data.customLocations.length) {
 						var customLocations = filterByProperty(data.customLocations, 'value');
 
 						localStorage.setItem(data.id + '-custom-locations', JSON.stringify(customLocations));
@@ -8604,7 +8976,7 @@ function uploadFile(input) {
 
 					updateTab(data.id, true);
 
-					if (localStorage.getItem('selectedGame') !== data.id) {
+					if(localStorage.getItem('selectedGame') !== data.id) {
 						$('#gameMenu .menu').find('.item[data-tab="' + data.id + '"]').click();
 					}
 				} else {
@@ -8612,7 +8984,7 @@ function uploadFile(input) {
 					$('#messageHeader').text('Incorrect format');
 					$('#messageContent').text('The uploaded file contains invalid data');
 				}
-			} catch (e) {
+			} catch(e) {
 				console.error(e);
 
 				$('#errorMessage').removeClass('hidden');
@@ -8631,7 +9003,7 @@ function populateLocation(game, data) {
 	var nicknameElm = $('#' + id + '-nickname');
 	var statusElm = $('#' + id + '-status');
 
-	if (data.encounter !== null && data.encounter !== '') {
+	if(data.encounter !== null && data.encounter !== '') {
 		encounterElm.dropdown('set value', data.encounter);
 		encounterElm.dropdown('set text', '<img class="pkmn" src="img/' + data.encounter + '">' + data.name);
 		encounterElm.data('name', data.name);
@@ -8644,7 +9016,7 @@ function populateLocation(game, data) {
 		localStorage.removeItem(id + '-name');
 	}
 
-	if (data.nickname !== null && data.nickname !== '') {
+	if(data.nickname !== null && data.nickname !== '') {
 		nicknameElm.val(data.nickname);
 		localStorage.setItem(id + '-nickname', data.nickname);
 	} else {
@@ -8652,7 +9024,7 @@ function populateLocation(game, data) {
 		localStorage.removeItem(id + '-nickname');
 	}
 
-	if (data.status !== null && data.status !== '') {
+	if(data.status !== null && data.status !== '') {
 		statusElm.dropdown('set selected', data.status);
 		localStorage.setItem(id + '-status', data.status);
 	} else {
@@ -8689,7 +9061,7 @@ function sortLocations(game) {
 
 	var initialLength = customLocations.length;
 
-	if (initialLength) {
+	if(initialLength) {
 		//Sort by order property, ensuring that all locations ordered directly after hardcoded locations get sorted first
 		//which potentially reduces the number of iterations to complete
 		customLocations.sort(function(a, b) {
@@ -8700,14 +9072,14 @@ function sortLocations(game) {
 		//The actual order of the locations as is doesn't necessarily relate to the aformentioned property, since it's subject to change
 		//which is why we're simply iterating over the array until it's empty.
 		//This is almost certainly unoptimal, but it works.
-		while (customLocations.length !== 0) {
+		while(customLocations.length !== 0) {
 			var locationRemoval = [];
 			initialLength = customLocations.length;
 
 			customLocations.forEach(function(customLocation, index) {
 				var insertIndex = locations.findIndex(function(e) { return e.value == customLocation.order; });
 
-				if (insertIndex !== -1) {
+				if(insertIndex !== -1) {
 					//Insert location into the main location array
 					locations.splice(insertIndex + 1, 0, customLocations[index]);
 
@@ -8722,7 +9094,7 @@ function sortLocations(game) {
 			});
 
 			//If the initialLength is unchanged by the end of the iteration, something's gone wrong and the loop will never end unless we break out
-			if (initialLength === customLocations.length) {
+			if(initialLength === customLocations.length) {
 				break;
 			}
 		}
@@ -8734,7 +9106,7 @@ function sortLocations(game) {
 function toggleDexLimit(tab) {
 	var value = $('#disableDexLimit').prop('checked');
 
-	if (value) {
+	if(value) {
 		localStorage.setItem(tab + 'disable-dex-limit', true);
 	} else {
 		localStorage.removeItem(tab + 'disable-dex-limit');
@@ -8751,7 +9123,7 @@ function toggleDexLimit(tab) {
 function togglePokemonAddition(tab) {
 	var value = $('#allowCustomPokemon').prop('checked');
 
-	if (value) {
+	if(value) {
 		localStorage.setItem(tab + 'allow-custom-pokemon', true);
 	} else {
 		localStorage.removeItem(tab + 'allow-custom-pokemon');
@@ -8791,7 +9163,7 @@ function initTab(tab) {
 
 			elm.find('.search').val('');
 
-			if (value !== '') {
+			if(value !== '') {
 				elm.dropdown('set selected', value);
 			} else {
 				elm.dropdown('restore placeholder text');
@@ -8831,11 +9203,11 @@ function saveData(game) {
 		settings: {}
 	};
 
-	if (localStorage.getItem(game + 'disable-dex-limit')) {
+	if(localStorage.getItem(game + 'disable-dex-limit')) {
 		blobData.settings.disableDexLimit = true;
 	}
 
-	if (localStorage.getItem(game + 'allow-custom-pokemon')) {
+	if(localStorage.getItem(game + 'allow-custom-pokemon')) {
 		blobData.settings.allowCustomPokemon = true;
 	}
 
@@ -8845,14 +9217,14 @@ function saveData(game) {
 		var nickname = localStorage.getItem(game + location.value + '-nickname');
 		var status = localStorage.getItem(game + location.value + '-status');
 
-		if (encounter !== null || name !== null || nickname !== null || status !== null) {
-			blobData.locations.push({'id': location.value, 'encounter': encounter, 'name': name, 'nickname': nickname, 'status': status});
+		if(encounter !== null || name !== null || nickname !== null || status !== null) {
+			blobData.locations.push({ 'id': location.value, 'encounter': encounter, 'name': name, 'nickname': nickname, 'status': status });
 		}
 	});
 
 	blobData = JSON.stringify(blobData);
 
-	var blob = new Blob([blobData], {type: 'application/json;charset=utf-8'});
+	var blob = new Blob([blobData], { type: 'application/json;charset=utf-8' });
 
 	saveAs(blob, game + '.' + new Date().toISOString().slice(0, 10) + '.json');
 }
@@ -8860,7 +9232,7 @@ function saveData(game) {
 function addLocation(location, game) {
 	var customLocations = JSON.parse(localStorage.getItem(game + '-custom-locations') || '[]');
 
-	if (customLocations.length) {
+	if(customLocations.length) {
 		location.value = 'c' + (parseInt((customLocations[customLocations.length - 1]).value.slice(1)) + 1);
 	} else {
 		location.value = 'c0';
@@ -8868,7 +9240,7 @@ function addLocation(location, game) {
 
 	var duplicateLocationOrder = customLocations.findIndex(function(e) { return e.order == location.order; });
 
-	if (duplicateLocationOrder !== -1) {
+	if(duplicateLocationOrder !== -1) {
 		customLocations[duplicateLocationOrder].order = location.value;
 	}
 
@@ -8881,10 +9253,10 @@ function addLocation(location, game) {
 
 function removeLocation(value, game) {
 	var customLocations = JSON.parse(localStorage.getItem(game + '-custom-locations') || '[]');
-	var location = customLocations.find(function(location) {location.value == value});
+	var location = customLocations.find(function(location) { location.value == value });
 	var dependantLocation = customLocations.findIndex(function(e) { return e.order == location.value; });
 
-	if (dependantLocation) {
+	if(dependantLocation) {
 		customLocations[dependantLocation].order = location.order;
 	}
 
@@ -8901,7 +9273,7 @@ function updateTab(game, updateDropdown) {
 	$('#' + game + '-locations').html(renderLocations(games[game], localStorage.getItem('darkTheme') === 'true'));
 	initTab(game);
 
-	if (updateDropdown) {
+	if(updateDropdown) {
 		updateLocationDropdown();
 	}
 
@@ -8912,7 +9284,7 @@ function updateLocationDropdown() {
 	var locations = [];
 
 	games[selectedGame].locations.forEach(function(location) {
-		locations.push({'name': 'After ' + escapeHTML(location.name), 'value': location.value});
+		locations.push({ 'name': 'After ' + escapeHTML(location.name), 'value': location.value });
 	});
 
 	$('#locationOrder').dropdown('change values', locations);
@@ -8924,16 +9296,16 @@ sortLocations(selectedGame);
 var darkTheme = localStorage.getItem('darkTheme') === 'true';
 
 $('#dark-theme').prop('checked', darkTheme)
-.on('change', function() {
-	localStorage.setItem('darkTheme', this.checked);
-	document.body.classList = this.checked ? 'dark-theme' : '';
+	.on('change', function() {
+		localStorage.setItem('darkTheme', this.checked);
+		document.body.classList = this.checked ? 'dark-theme' : '';
 
-	if (this.checked) {
-		$('.ui:not(.footer)').addClass('inverted');
-	} else {
-		$('.ui:not(.footer)').removeClass('inverted');
-	}
-});
+		if(this.checked) {
+			$('.ui:not(.footer)').addClass('inverted');
+		} else {
+			$('.ui:not(.footer)').removeClass('inverted');
+		}
+	});
 
 $('#disableDexLimit').on('change', function() {
 	toggleDexLimit(selectedGame);
@@ -8945,7 +9317,7 @@ $('#allowCustomPokemon').on('change', function() {
 
 document.body.classList = darkTheme ? 'dark-theme' : '';
 
-if (darkTheme) {
+if(darkTheme) {
 	$('.ui.loading.segment').addClass('inverted');
 }
 
@@ -8964,7 +9336,7 @@ $(function() {
 	}).on('click', '.singleReset.button', function() {
 		var id = selectedGame + $(this).data('locationId');
 
-		if ($(this).closest('tr').hasClass('customLocation')) {
+		if($(this).closest('tr').hasClass('customLocation')) {
 			$('#clearModal').data('target', $(this).data('locationId'));
 			$('#clearModal').modal('show');
 		} else {
@@ -8973,7 +9345,7 @@ $(function() {
 	}).on('change', '.nickname-input', function() {
 		var elm = $(this);
 
-		if (elm.val() !== '' && elm.val() !== null) {
+		if(elm.val() !== '' && elm.val() !== null) {
 			elm.closest('td').data('sortValue', elm.val());
 			localStorage.setItem(elm.prop('id'), elm.val());
 		} else {
@@ -8991,9 +9363,9 @@ $(function() {
 
 	$('#clearModal').modal({
 		onApprove: function(e) {
-			if (e.data('action') === 'clear') {
+			if(e.data('action') === 'clear') {
 				clearLocation($(this).data('target'));
-			} else if (e.data('action') === 'remove') {
+			} else if(e.data('action') === 'remove') {
 				removeLocation($(this).data('target'), selectedGame);
 			}
 
@@ -9017,11 +9389,11 @@ $(function() {
 
 			$('#customLocationName').parent().toggleClass('error', locationName == false);
 
-			if (locationName == false) {
+			if(locationName == false) {
 				return false;
 			}
 
-			addLocation({'name': locationName, 'order': $('#locationOrder').dropdown('get value') || "0"}, selectedGame);
+			addLocation({ 'name': locationName, 'order': $('#locationOrder').dropdown('get value') || "0" }, selectedGame);
 
 			$('#customLocationName').val('');
 			$('#locationOrder').dropdown('set selected', '0');
@@ -9040,7 +9412,7 @@ $(function() {
 
 	$('#gameMenu .menu .item').tab({
 		onFirstLoad: function(tabPath) {
-			if (!games[tabPath].loaded) {
+			if(!games[tabPath].loaded) {
 				updateTab(tabPath, false);
 			}
 		},
@@ -9079,7 +9451,7 @@ $(function() {
 		}
 	});
 
-	if (darkTheme) {
+	if(darkTheme) {
 		$('.ui:not(.footer)').addClass('inverted');
 	}
 
