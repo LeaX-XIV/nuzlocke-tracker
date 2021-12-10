@@ -15,8 +15,8 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 2
 			},
 			{
@@ -24,13 +24,13 @@ var games = {
 				"value": 3
 			},
 			{
-				// "name": "Route 22",
-				"name": "Percorso 22",
+				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 4
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 5
 			},
 			{
@@ -38,13 +38,13 @@ var games = {
 				"value": 6
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 7
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 8
 			},
 			{
@@ -56,23 +56,23 @@ var games = {
 				"value": 10
 			},
 			{
-				// "name": "Route 24",
-				"name": "Percorso 24",
+				"name": "Route 24",
+				"name_it-IT": "Percorso 24",
 				"value": 11
 			},
 			{
-				// "name": "Route 25",
-				"name": "Percorso 25",
+				"name": "Route 25",
+				"name_it-IT": "Percorso 25",
 				"value": 12
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 13
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 14
 			},
 			{
@@ -80,8 +80,8 @@ var games = {
 				"value": 15
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 16
 			},
 			{
@@ -89,13 +89,13 @@ var games = {
 				"value": 17
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 18
 			},
 			{
-				// "name": "Route 10",
-				"name": "Percorso 10",
+				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 19
 			},
 			{
@@ -107,18 +107,18 @@ var games = {
 				"value": 21
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 22
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 23
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 24
 			},
 			{
@@ -126,18 +126,18 @@ var games = {
 				"value": 25
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 26
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 27
 			},
 			{
-				// "name": "Route 18",
-				"name": "Percorso 18",
+				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 28
 			},
 			{
@@ -149,18 +149,18 @@ var games = {
 				"value": 30
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 31
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 32
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 33
 			},
 			{
@@ -168,13 +168,13 @@ var games = {
 				"value": 34
 			},
 			{
-				// "name": "Route 19",
-				"name": "Percorso 19",
+				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 35
 			},
 			{
-				// "name": "Route 20",
-				"name": "Percorso 20",
+				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 36
 			},
 			{
@@ -190,13 +190,13 @@ var games = {
 				"value": 39
 			},
 			{
-				// "name": "Route 21",
-				"name": "Percorso 21",
+				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 40
 			},
 			{
-				// "name": "Route 23",
-				"name": "Percorso 23",
+				"name": "Route 23",
+				"name_it-IT": "Percorso 23",
 				"value": 41
 			},
 			{
@@ -225,8 +225,8 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 29",
-				"name": "Percorso 29",
+				"name": "Route 29",
+				"name_it-IT": "Percorso 29",
 				"value": 2
 			},
 			{
@@ -234,13 +234,13 @@ var games = {
 				"value": 3
 			},
 			{
-				// "name": "Route 30",
-				"name": "Percorso 30",
+				"name": "Route 30",
+				"name_it-IT": "Percorso 30",
 				"value": 4
 			},
 			{
-				// "name": "Route 31",
-				"name": "Percorso 31",
+				"name": "Route 31",
+				"name_it-IT": "Percorso 31",
 				"value": 5
 			},
 			{
@@ -256,8 +256,8 @@ var games = {
 				"value": 8
 			},
 			{
-				// "name": "Route 32",
-				"name": "Percorso 32",
+				"name": "Route 32",
+				"name_it-IT": "Percorso 32",
 				"value": 9
 			},
 			{
@@ -269,8 +269,8 @@ var games = {
 				"value": 11
 			},
 			{
-				// "name": "Route 33",
-				"name": "Percorso 33",
+				"name": "Route 33",
+				"name_it-IT": "Percorso 33",
 				"value": 12
 			},
 			{
@@ -286,8 +286,8 @@ var games = {
 				"value": 15
 			},
 			{
-				// "name": "Route 34",
-				"name": "Percorso 34",
+				"name": "Route 34",
+				"name_it-IT": "Percorso 34",
 				"value": 16
 			},
 			{
@@ -295,8 +295,8 @@ var games = {
 				"value": 17
 			},
 			{
-				// "name": "Route 35",
-				"name": "Percorso 35",
+				"name": "Route 35",
+				"name_it-IT": "Percorso 35",
 				"value": 18
 			},
 			{
@@ -304,13 +304,13 @@ var games = {
 				"value": 19
 			},
 			{
-				// "name": "Route 36",
-				"name": "Percorso 36",
+				"name": "Route 36",
+				"name_it-IT": "Percorso 36",
 				"value": 20
 			},
 			{
-				// "name": "Route 37",
-				"name": "Percorso 37",
+				"name": "Route 37",
+				"name_it-IT": "Percorso 37",
 				"value": 21
 			},
 			{
@@ -326,13 +326,13 @@ var games = {
 				"value": 24
 			},
 			{
-				// "name": "Route 38",
-				"name": "Percorso 38",
+				"name": "Route 38",
+				"name_it-IT": "Percorso 38",
 				"value": 25
 			},
 			{
-				// "name": "Route 39",
-				"name": "Percorso 39",
+				"name": "Route 39",
+				"name_it-IT": "Percorso 39",
 				"value": 26
 			},
 			{
@@ -340,13 +340,13 @@ var games = {
 				"value": 27
 			},
 			{
-				// "name": "Route 40",
-				"name": "Percorso 40",
+				"name": "Route 40",
+				"name_it-IT": "Percorso 40",
 				"value": 28
 			},
 			{
-				// "name": "Route 41",
-				"name": "Percorso 41",
+				"name": "Route 41",
+				"name_it-IT": "Percorso 41",
 				"value": 29
 			},
 			{
@@ -358,8 +358,8 @@ var games = {
 				"value": 31
 			},
 			{
-				// "name": "Route 42",
-				"name": "Percorso 42",
+				"name": "Route 42",
+				"name_it-IT": "Percorso 42",
 				"value": 32
 			},
 			{
@@ -375,8 +375,8 @@ var games = {
 				"value": 35
 			},
 			{
-				// "name": "Route 43",
-				"name": "Percorso 43",
+				"name": "Route 43",
+				"name_it-IT": "Percorso 43",
 				"value": 36
 			},
 			{
@@ -384,8 +384,8 @@ var games = {
 				"value": 37
 			},
 			{
-				// "name": "Route 44",
-				"name": "Percorso 44",
+				"name": "Route 44",
+				"name_it-IT": "Percorso 44",
 				"value": 38
 			},
 			{
@@ -401,8 +401,8 @@ var games = {
 				"value": 41
 			},
 			{
-				// "name": "Route 45",
-				"name": "Percorso 45",
+				"name": "Route 45",
+				"name_it-IT": "Percorso 45",
 				"value": 42
 			},
 			{
@@ -410,13 +410,13 @@ var games = {
 				"value": 43
 			},
 			{
-				// "name": "Route 46",
-				"name": "Percorso 46",
+				"name": "Route 46",
+				"name_it-IT": "Percorso 46",
 				"value": 44
 			},
 			{
-				// "name": "Route 27",
-				"name": "Percorso 27",
+				"name": "Route 27",
+				"name_it-IT": "Percorso 27",
 				"value": 45
 			},
 			{
@@ -424,8 +424,8 @@ var games = {
 				"value": 46
 			},
 			{
-				// "name": "Route 26",
-				"name": "Percorso 26",
+				"name": "Route 26",
+				"name_it-IT": "Percorso 26",
 				"value": 47
 			},
 			{
@@ -441,8 +441,8 @@ var games = {
 				"value": 50
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 51
 			},
 			{
@@ -450,23 +450,23 @@ var games = {
 				"value": 52
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 53
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 54
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 55
 			},
 			{
-				// "name": "Route 10",
-				"name": "Percorso 10",
+				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 56
 			},
 			{
@@ -474,8 +474,8 @@ var games = {
 				"value": 57
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 58
 			},
 			{
@@ -483,33 +483,33 @@ var games = {
 				"value": 59
 			},
 			{
-				// "name": "Route 24",
-				"name": "Percorso 24",
+				"name": "Route 24",
+				"name_it-IT": "Percorso 24",
 				"value": 60
 			},
 			{
-				// "name": "Route 25",
-				"name": "Percorso 25",
+				"name": "Route 25",
+				"name_it-IT": "Percorso 25",
 				"value": 61
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 62
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 63
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 64
 			},
 			{
-				// "name": "Route 18",
-				"name": "Percorso 18",
+				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 65
 			},
 			{
@@ -517,28 +517,28 @@ var games = {
 				"value": 66
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 67
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 68
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 69
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 70
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 71
 			},
 			{
@@ -546,8 +546,8 @@ var games = {
 				"value": 72
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 73
 			},
 			{
@@ -555,8 +555,8 @@ var games = {
 				"value": 74
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 75
 			},
 			{
@@ -568,8 +568,8 @@ var games = {
 				"value": 77
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 78
 			},
 			{
@@ -577,8 +577,8 @@ var games = {
 				"value": 79
 			},
 			{
-				// "name": "Route 21",
-				"name": "Percorso 21",
+				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 80
 			},
 			{
@@ -586,23 +586,23 @@ var games = {
 				"value": 81
 			},
 			{
-				// "name": "Route 20",
-				"name": "Percorso 20",
+				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 82
 			},
 			{
-				// "name": "Route 19",
-				"name": "Percorso 19",
+				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 83
 			},
 			{
-				// "name": "Route 22",
-				"name": "Percorso 22",
+				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 84
 			},
 			{
-				// "name": "Route 28",
-				"name": "Percorso 28",
+				"name": "Route 28",
+				"name_it-IT": "Percorso 28",
 				"value": 85
 			},
 			{
@@ -627,18 +627,18 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 101",
-				"name": "Percorso 101",
+				"name": "Route 101",
+				"name_it-IT": "Percorso 101",
 				"value": 2
 			},
 			{
-				// "name": "Route 102",
-				"name": "Percorso 102",
+				"name": "Route 102",
+				"name_it-IT": "Percorso 102",
 				"value": 3
 			},
 			{
-				// "name": "Route 103",
-				"name": "Percorso 103",
+				"name": "Route 103",
+				"name_it-IT": "Percorso 103",
 				"value": 4
 			},
 			{
@@ -646,8 +646,8 @@ var games = {
 				"value": 5
 			},
 			{
-				// "name": "Route 104",
-				"name": "Percorso 104",
+				"name": "Route 104",
+				"name_it-IT": "Percorso 104",
 				"value": 6
 			},
 			{
@@ -659,13 +659,13 @@ var games = {
 				"value": 8
 			},
 			{
-				// "name": "Route 115",
-				"name": "Percorso 115",
+				"name": "Route 115",
+				"name_it-IT": "Percorso 115",
 				"value": 9
 			},
 			{
-				// "name": "Route 116",
-				"name": "Percorso 116",
+				"name": "Route 116",
+				"name_it-IT": "Percorso 116",
 				"value": 10
 			},
 			{
@@ -677,8 +677,8 @@ var games = {
 				"value": 12
 			},
 			{
-				// "name": "Route 106",
-				"name": "Percorso 106",
+				"name": "Route 106",
+				"name_it-IT": "Percorso 106",
 				"value": 13
 			},
 			{
@@ -686,8 +686,8 @@ var games = {
 				"value": 14
 			},
 			{
-				// "name": "Route 107",
-				"name": "Percorso 107",
+				"name": "Route 107",
+				"name_it-IT": "Percorso 107",
 				"value": 15
 			},
 			{
@@ -695,8 +695,8 @@ var games = {
 				"value": 16
 			},
 			{
-				// "name": "Route 110",
-				"name": "Percorso 110",
+				"name": "Route 110",
+				"name_it-IT": "Percorso 110",
 				"value": 17
 			},
 			{
@@ -708,13 +708,13 @@ var games = {
 				"value": 19
 			},
 			{
-				// "name": "Route 117",
-				"name": "Percorso 117",
+				"name": "Route 117",
+				"name_it-IT": "Percorso 117",
 				"value": 20
 			},
 			{
-				// "name": "Route 111",
-				"name": "Percorso 111",
+				"name": "Route 111",
+				"name_it-IT": "Percorso 111",
 				"value": 21
 			},
 			{
@@ -722,8 +722,8 @@ var games = {
 				"value": 22
 			},
 			{
-				// "name": "Route 112",
-				"name": "Percorso 112",
+				"name": "Route 112",
+				"name_it-IT": "Percorso 112",
 				"value": 23
 			},
 			{
@@ -731,13 +731,13 @@ var games = {
 				"value": 24
 			},
 			{
-				// "name": "Route 113",
-				"name": "Percorso 113",
+				"name": "Route 113",
+				"name_it-IT": "Percorso 113",
 				"value": 25
 			},
 			{
-				// "name": "Route 114",
-				"name": "Percorso 114",
+				"name": "Route 114",
+				"name_it-IT": "Percorso 114",
 				"value": 26
 			},
 			{
@@ -757,13 +757,13 @@ var games = {
 				"value": 30
 			},
 			{
-				// "name": "Route 118",
-				"name": "Percorso 118",
+				"name": "Route 118",
+				"name_it-IT": "Percorso 118",
 				"value": 31
 			},
 			{
-				// "name": "Route 119",
-				"name": "Percorso 119",
+				"name": "Route 119",
+				"name_it-IT": "Percorso 119",
 				"value": 32
 			},
 			{
@@ -771,13 +771,13 @@ var games = {
 				"value": 33
 			},
 			{
-				// "name": "Route 120",
-				"name": "Percorso 120",
+				"name": "Route 120",
+				"name_it-IT": "Percorso 120",
 				"value": 34
 			},
 			{
-				// "name": "Route 121",
-				"name": "Percorso 121",
+				"name": "Route 121",
+				"name_it-IT": "Percorso 121",
 				"value": 35
 			},
 			{
@@ -789,8 +789,8 @@ var games = {
 				"value": 37
 			},
 			{
-				// "name": "Route 122",
-				"name": "Percorso 122",
+				"name": "Route 122",
+				"name_it-IT": "Percorso 122",
 				"value": 38
 			},
 			{
@@ -798,8 +798,8 @@ var games = {
 				"value": 39
 			},
 			{
-				// "name": "Route 123",
-				"name": "Percorso 123",
+				"name": "Route 123",
+				"name_it-IT": "Percorso 123",
 				"value": 40
 			},
 			{
@@ -807,8 +807,8 @@ var games = {
 				"value": 41
 			},
 			{
-				// "name": "Route 124",
-				"name": "Percorso 124",
+				"name": "Route 124",
+				"name_it-IT": "Percorso 124",
 				"value": 42
 			},
 			{
@@ -816,8 +816,8 @@ var games = {
 				"value": 43
 			},
 			{
-				// "name": "Route 125",
-				"name": "Percorso 125",
+				"name": "Route 125",
+				"name_it-IT": "Percorso 125",
 				"value": 44
 			},
 			{
@@ -825,13 +825,13 @@ var games = {
 				"value": 45
 			},
 			{
-				// "name": "Route 127",
-				"name": "Percorso 127",
+				"name": "Route 127",
+				"name_it-IT": "Percorso 127",
 				"value": 46
 			},
 			{
-				// "name": "Route 128",
-				"name": "Percorso 128",
+				"name": "Route 128",
+				"name_it-IT": "Percorso 128",
 				"value": 47
 			},
 			{
@@ -839,8 +839,8 @@ var games = {
 				"value": 48
 			},
 			{
-				// "name": "Route 126",
-				"name": "Percorso 126",
+				"name": "Route 126",
+				"name_it-IT": "Percorso 126",
 				"value": 49
 			},
 			{
@@ -852,18 +852,18 @@ var games = {
 				"value": 51
 			},
 			{
-				// "name": "Route 129",
-				"name": "Percorso 129",
+				"name": "Route 129",
+				"name_it-IT": "Percorso 129",
 				"value": 52
 			},
 			{
-				// "name": "Route 130",
-				"name": "Percorso 130",
+				"name": "Route 130",
+				"name_it-IT": "Percorso 130",
 				"value": 53
 			},
 			{
-				// "name": "Route 131",
-				"name": "Percorso 131",
+				"name": "Route 131",
+				"name_it-IT": "Percorso 131",
 				"value": 54
 			},
 			{
@@ -879,13 +879,13 @@ var games = {
 				"value": 57
 			},
 			{
-				// "name": "Route 105",
-				"name": "Percorso 105",
+				"name": "Route 105",
+				"name_it-IT": "Percorso 105",
 				"value": 58
 			},
 			{
-				// "name": "Route 108",
-				"name": "Percorso 108",
+				"name": "Route 108",
+				"name_it-IT": "Percorso 108",
 				"value": 59
 			},
 			{
@@ -893,23 +893,23 @@ var games = {
 				"value": 60
 			},
 			{
-				// "name": "Route 109",
-				"name": "Percorso 109",
+				"name": "Route 109",
+				"name_it-IT": "Percorso 109",
 				"value": 61
 			},
 			{
-				// "name": "Route 132",
-				"name": "Percorso 132",
+				"name": "Route 132",
+				"name_it-IT": "Percorso 132",
 				"value": 62
 			},
 			{
-				// "name": "Route 133",
-				"name": "Percorso 133",
+				"name": "Route 133",
+				"name_it-IT": "Percorso 133",
 				"value": 63
 			},
 			{
-				// "name": "Route 134",
-				"name": "Percorso 134",
+				"name": "Route 134",
+				"name_it-IT": "Percorso 134",
 				"value": 64
 			},
 			{
@@ -949,8 +949,8 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 2
 			},
 			{
@@ -958,13 +958,13 @@ var games = {
 				"value": 3
 			},
 			{
-				// "name": "Route 22",
-				"name": "Percorso 22",
+				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 4
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 5
 			},
 			{
@@ -972,13 +972,13 @@ var games = {
 				"value": 6
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 7
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 8
 			},
 			{
@@ -990,23 +990,23 @@ var games = {
 				"value": 10
 			},
 			{
-				// "name": "Route 24",
-				"name": "Percorso 24",
+				"name": "Route 24",
+				"name_it-IT": "Percorso 24",
 				"value": 11
 			},
 			{
-				// "name": "Route 25",
-				"name": "Percorso 25",
+				"name": "Route 25",
+				"name_it-IT": "Percorso 25",
 				"value": 12
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 13
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 14
 			},
 			{
@@ -1014,8 +1014,8 @@ var games = {
 				"value": 15
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 16
 			},
 			{
@@ -1023,13 +1023,13 @@ var games = {
 				"value": 17
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 18
 			},
 			{
-				// "name": "Route 10",
-				"name": "Percorso 10",
+				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 19
 			},
 			{
@@ -1041,18 +1041,18 @@ var games = {
 				"value": 21
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 22
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 23
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 24
 			},
 			{
@@ -1060,18 +1060,18 @@ var games = {
 				"value": 25
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 26
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 27
 			},
 			{
-				// "name": "Route 18",
-				"name": "Percorso 18",
+				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 28
 			},
 			{
@@ -1083,18 +1083,18 @@ var games = {
 				"value": 30
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 31
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 32
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 33
 			},
 			{
@@ -1102,13 +1102,13 @@ var games = {
 				"value": 34
 			},
 			{
-				// "name": "Route 19",
-				"name": "Percorso 19",
+				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 35
 			},
 			{
-				// "name": "Route 20",
-				"name": "Percorso 20",
+				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 36
 			},
 			{
@@ -1124,8 +1124,8 @@ var games = {
 				"value": 39
 			},
 			{
-				// "name": "Route 21",
-				"name": "Percorso 21",
+				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 40
 			},
 			{
@@ -1161,8 +1161,8 @@ var games = {
 				"value": 48
 			},
 			{
-				// "name": "Route 23",
-				"name": "Percorso 23",
+				"name": "Route 23",
+				"name_it-IT": "Percorso 23",
 				"value": 49
 			},
 			{
@@ -1263,8 +1263,8 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 201",
-				"name": "Percorso 201",
+				"name": "Route 201",
+				"name_it-IT": "Percorso 201",
 				"value": 2
 			},
 			{
@@ -1272,13 +1272,13 @@ var games = {
 				"value": 3
 			},
 			{
-				// "name": "Route 202",
-				"name": "Percorso 202",
+				"name": "Route 202",
+				"name_it-IT": "Percorso 202",
 				"value": 4
 			},
 			{
-				// "name": "Route 203",
-				"name": "Percorso 203",
+				"name": "Route 203",
+				"name_it-IT": "Percorso 203",
 				"value": 5
 			},
 			{
@@ -1294,13 +1294,13 @@ var games = {
 				"value": 8
 			},
 			{
-				// "name": "Route 207",
-				"name": "Percorso 207",
+				"name": "Route 207",
+				"name_it-IT": "Percorso 207",
 				"value": 9
 			},
 			{
-				// "name": "Route 204",
-				"name": "Percorso 204",
+				"name": "Route 204",
+				"name_it-IT": "Percorso 204",
 				"value": 10
 			},
 			{
@@ -1312,8 +1312,8 @@ var games = {
 				"value": 12
 			},
 			{
-				// "name": "Route 205",
-				"name": "Percorso 205",
+				"name": "Route 205",
+				"name_it-IT": "Percorso 205",
 				"value": 13
 			},
 			{
@@ -1333,8 +1333,8 @@ var games = {
 				"value": 17
 			},
 			{
-				// "name": "Route 206",
-				"name": "Percorso 206",
+				"name": "Route 206",
+				"name_it-IT": "Percorso 206",
 				"value": 18
 			},
 			{
@@ -1346,8 +1346,8 @@ var games = {
 				"value": 20
 			},
 			{
-				// "name": "Route 208",
-				"name": "Percorso 208",
+				"name": "Route 208",
+				"name_it-IT": "Percorso 208",
 				"value": 21
 			},
 			{
@@ -1355,8 +1355,8 @@ var games = {
 				"value": 22
 			},
 			{
-				// "name": "Route 209",
-				"name": "Percorso 209",
+				"name": "Route 209",
+				"name_it-IT": "Percorso 209",
 				"value": 23
 			},
 			{
@@ -1368,13 +1368,13 @@ var games = {
 				"value": 25
 			},
 			{
-				// "name": "Route 210",
-				"name": "Percorso 210",
+				"name": "Route 210",
+				"name_it-IT": "Percorso 210",
 				"value": 26
 			},
 			{
-				// "name": "Route 215",
-				"name": "Percorso 215",
+				"name": "Route 215",
+				"name_it-IT": "Percorso 215",
 				"value": 27
 			},
 			{
@@ -1382,8 +1382,8 @@ var games = {
 				"value": 28
 			},
 			{
-				// "name": "Route 212",
-				"name": "Percorso 212",
+				"name": "Route 212",
+				"name_it-IT": "Percorso 212",
 				"value": 29
 			},
 			{
@@ -1399,8 +1399,8 @@ var games = {
 				"value": 32
 			},
 			{
-				// "name": "Route 213",
-				"name": "Percorso 213",
+				"name": "Route 213",
+				"name_it-IT": "Percorso 213",
 				"value": 33
 			},
 			{
@@ -1412,8 +1412,8 @@ var games = {
 				"value": 35
 			},
 			{
-				// "name": "Route 214",
-				"name": "Percorso 214",
+				"name": "Route 214",
+				"name_it-IT": "Percorso 214",
 				"value": 36
 			},
 			{
@@ -1437,18 +1437,18 @@ var games = {
 				"value": 41
 			},
 			{
-				// "name": "Route 220",
-				"name": "Percorso 220",
+				"name": "Route 220",
+				"name_it-IT": "Percorso 220",
 				"value": 42
 			},
 			{
-				// "name": "Route 221",
-				"name": "Percorso 221",
+				"name": "Route 221",
+				"name_it-IT": "Percorso 221",
 				"value": 43
 			},
 			{
-				// "name": "Route 218",
-				"name": "Percorso 218",
+				"name": "Route 218",
+				"name_it-IT": "Percorso 218",
 				"value": 44
 			},
 			{
@@ -1460,18 +1460,18 @@ var games = {
 				"value": 46
 			},
 			{
-				// "name": "Route 211",
-				"name": "Percorso 211",
+				"name": "Route 211",
+				"name_it-IT": "Percorso 211",
 				"value": 47
 			},
 			{
-				// "name": "Route 216",
-				"name": "Percorso 216",
+				"name": "Route 216",
+				"name_it-IT": "Percorso 216",
 				"value": 48
 			},
 			{
-				// "name": "Route 217",
-				"name": "Percorso 217",
+				"name": "Route 217",
+				"name_it-IT": "Percorso 217",
 				"value": 49
 			},
 			{
@@ -1487,8 +1487,8 @@ var games = {
 				"value": 52
 			},
 			{
-				// "name": "Route 222",
-				"name": "Percorso 222",
+				"name": "Route 222",
+				"name_it-IT": "Percorso 222",
 				"value": 53
 			},
 			{
@@ -1496,8 +1496,8 @@ var games = {
 				"value": 54
 			},
 			{
-				// "name": "Route 223",
-				"name": "Percorso 223",
+				"name": "Route 223",
+				"name_it-IT": "Percorso 223",
 				"value": 55
 			},
 			{
@@ -1509,18 +1509,18 @@ var games = {
 				"value": 57
 			},
 			{
-				// "name": "Route 224",
-				"name": "Percorso 224",
+				"name": "Route 224",
+				"name_it-IT": "Percorso 224",
 				"value": 58
 			},
 			{
-				// "name": "Route 230",
-				"name": "Percorso 230",
+				"name": "Route 230",
+				"name_it-IT": "Percorso 230",
 				"value": 59
 			},
 			{
-				// "name": "Route 229",
-				"name": "Percorso 229",
+				"name": "Route 229",
+				"name_it-IT": "Percorso 229",
 				"value": 60
 			},
 			{
@@ -1528,18 +1528,18 @@ var games = {
 				"value": 61
 			},
 			{
-				// "name": "Route 228",
-				"name": "Percorso 228",
+				"name": "Route 228",
+				"name_it-IT": "Percorso 228",
 				"value": 62
 			},
 			{
-				// "name": "Route 226",
-				"name": "Percorso 226",
+				"name": "Route 226",
+				"name_it-IT": "Percorso 226",
 				"value": 63
 			},
 			{
-				// "name": "Route 227",
-				"name": "Percorso 227",
+				"name": "Route 227",
+				"name_it-IT": "Percorso 227",
 				"value": 64
 			},
 			{
@@ -1547,8 +1547,8 @@ var games = {
 				"value": 65
 			},
 			{
-				// "name": "Route 225",
-				"name": "Percorso 225",
+				"name": "Route 225",
+				"name_it-IT": "Percorso 225",
 				"value": 66
 			},
 			{
@@ -1597,8 +1597,8 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 29",
-				"name": "Percorso 29",
+				"name": "Route 29",
+				"name_it-IT": "Percorso 29",
 				"value": 2
 			},
 			{
@@ -1606,13 +1606,13 @@ var games = {
 				"value": 3
 			},
 			{
-				// "name": "Route 30",
-				"name": "Percorso 30",
+				"name": "Route 30",
+				"name_it-IT": "Percorso 30",
 				"value": 4
 			},
 			{
-				// "name": "Route 31",
-				"name": "Percorso 31",
+				"name": "Route 31",
+				"name_it-IT": "Percorso 31",
 				"value": 5
 			},
 			{
@@ -1628,8 +1628,8 @@ var games = {
 				"value": 8
 			},
 			{
-				// "name": "Route 32",
-				"name": "Percorso 32",
+				"name": "Route 32",
+				"name_it-IT": "Percorso 32",
 				"value": 9
 			},
 			{
@@ -1641,8 +1641,8 @@ var games = {
 				"value": 11
 			},
 			{
-				// "name": "Route 33",
-				"name": "Percorso 33",
+				"name": "Route 33",
+				"name_it-IT": "Percorso 33",
 				"value": 12
 			},
 			{
@@ -1658,8 +1658,8 @@ var games = {
 				"value": 15
 			},
 			{
-				// "name": "Route 34",
-				"name": "Percorso 34",
+				"name": "Route 34",
+				"name_it-IT": "Percorso 34",
 				"value": 16
 			},
 			{
@@ -1667,8 +1667,8 @@ var games = {
 				"value": 17
 			},
 			{
-				// "name": "Route 35",
-				"name": "Percorso 35",
+				"name": "Route 35",
+				"name_it-IT": "Percorso 35",
 				"value": 18
 			},
 			{
@@ -1676,13 +1676,13 @@ var games = {
 				"value": 19
 			},
 			{
-				// "name": "Route 36",
-				"name": "Percorso 36",
+				"name": "Route 36",
+				"name_it-IT": "Percorso 36",
 				"value": 20
 			},
 			{
-				// "name": "Route 37",
-				"name": "Percorso 37",
+				"name": "Route 37",
+				"name_it-IT": "Percorso 37",
 				"value": 21
 			},
 			{
@@ -1698,13 +1698,13 @@ var games = {
 				"value": 24
 			},
 			{
-				// "name": "Route 38",
-				"name": "Percorso 38",
+				"name": "Route 38",
+				"name_it-IT": "Percorso 38",
 				"value": 25
 			},
 			{
-				// "name": "Route 39",
-				"name": "Percorso 39",
+				"name": "Route 39",
+				"name_it-IT": "Percorso 39",
 				"value": 26
 			},
 			{
@@ -1712,13 +1712,13 @@ var games = {
 				"value": 27
 			},
 			{
-				// "name": "Route 40",
-				"name": "Percorso 40",
+				"name": "Route 40",
+				"name_it-IT": "Percorso 40",
 				"value": 28
 			},
 			{
-				// "name": "Route 41",
-				"name": "Percorso 41",
+				"name": "Route 41",
+				"name_it-IT": "Percorso 41",
 				"value": 29
 			},
 			{
@@ -1734,8 +1734,8 @@ var games = {
 				"value": 32
 			},
 			{
-				// "name": "Route 47",
-				"name": "Percorso 47",
+				"name": "Route 47",
+				"name_it-IT": "Percorso 47",
 				"value": 33
 			},
 			{
@@ -1743,8 +1743,8 @@ var games = {
 				"value": 34
 			},
 			{
-				// "name": "Route 48",
-				"name": "Percorso 48",
+				"name": "Route 48",
+				"name_it-IT": "Percorso 48",
 				"value": 35
 			},
 			{
@@ -1756,8 +1756,8 @@ var games = {
 				"value": 37
 			},
 			{
-				// "name": "Route 42",
-				"name": "Percorso 42",
+				"name": "Route 42",
+				"name_it-IT": "Percorso 42",
 				"value": 38
 			},
 			{
@@ -1773,8 +1773,8 @@ var games = {
 				"value": 41
 			},
 			{
-				// "name": "Route 43",
-				"name": "Percorso 43",
+				"name": "Route 43",
+				"name_it-IT": "Percorso 43",
 				"value": 42
 			},
 			{
@@ -1782,8 +1782,8 @@ var games = {
 				"value": 43
 			},
 			{
-				// "name": "Route 44",
-				"name": "Percorso 44",
+				"name": "Route 44",
+				"name_it-IT": "Percorso 44",
 				"value": 44
 			},
 			{
@@ -1799,8 +1799,8 @@ var games = {
 				"value": 47
 			},
 			{
-				// "name": "Route 45",
-				"name": "Percorso 45",
+				"name": "Route 45",
+				"name_it-IT": "Percorso 45",
 				"value": 48
 			},
 			{
@@ -1808,13 +1808,13 @@ var games = {
 				"value": 49
 			},
 			{
-				// "name": "Route 46",
-				"name": "Percorso 46",
+				"name": "Route 46",
+				"name_it-IT": "Percorso 46",
 				"value": 50
 			},
 			{
-				// "name": "Route 27",
-				"name": "Percorso 27",
+				"name": "Route 27",
+				"name_it-IT": "Percorso 27",
 				"value": 51
 			},
 			{
@@ -1822,8 +1822,8 @@ var games = {
 				"value": 52
 			},
 			{
-				// "name": "Route 26",
-				"name": "Percorso 26",
+				"name": "Route 26",
+				"name_it-IT": "Percorso 26",
 				"value": 53
 			},
 			{
@@ -1839,8 +1839,8 @@ var games = {
 				"value": 56
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 57
 			},
 			{
@@ -1848,23 +1848,23 @@ var games = {
 				"value": 58
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 59
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 60
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 61
 			},
 			{
-				// "name": "Route 10",
-				"name": "Percorso 10",
+				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 62
 			},
 			{
@@ -1876,8 +1876,8 @@ var games = {
 				"value": 64
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 65
 			},
 			{
@@ -1885,33 +1885,33 @@ var games = {
 				"value": 66
 			},
 			{
-				// "name": "Route 24",
-				"name": "Percorso 24",
+				"name": "Route 24",
+				"name_it-IT": "Percorso 24",
 				"value": 67
 			},
 			{
-				// "name": "Route 25",
-				"name": "Percorso 25",
+				"name": "Route 25",
+				"name_it-IT": "Percorso 25",
 				"value": 68
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 69
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 70
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 71
 			},
 			{
-				// "name": "Route 18",
-				"name": "Percorso 18",
+				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 72
 			},
 			{
@@ -1919,28 +1919,28 @@ var games = {
 				"value": 73
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 74
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 75
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 76
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 77
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 78
 			},
 			{
@@ -1948,8 +1948,8 @@ var games = {
 				"value": 79
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 80
 			},
 			{
@@ -1957,8 +1957,8 @@ var games = {
 				"value": 81
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 82
 			},
 			{
@@ -1970,8 +1970,8 @@ var games = {
 				"value": 84
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 85
 			},
 			{
@@ -1979,8 +1979,8 @@ var games = {
 				"value": 86
 			},
 			{
-				// "name": "Route 21",
-				"name": "Percorso 21",
+				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 87
 			},
 			{
@@ -1988,23 +1988,23 @@ var games = {
 				"value": 88
 			},
 			{
-				// "name": "Route 20",
-				"name": "Percorso 20",
+				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 89
 			},
 			{
-				// "name": "Route 19",
-				"name": "Percorso 19",
+				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 90
 			},
 			{
-				// "name": "Route 22",
-				"name": "Percorso 22",
+				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 91
 			},
 			{
-				// "name": "Route 28",
-				"name": "Percorso 28",
+				"name": "Route 28",
+				"name_it-IT": "Percorso 28",
 				"value": 92
 			},
 			{
@@ -2029,243 +2029,243 @@ var games = {
 				"value": 0
 			},
 			{
-				// "name": "Nuvema Town",
-				"name": "Soffiolieve",
+				"name": "Nuvema Town",
+				"name_it-IT": "Soffiolieve",
 				"value": 1
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 2
 			},
 			{
-				// "name": "Accumula Town",
-				"name": "Quattroventi",
+				"name": "Accumula Town",
+				"name_it-IT": "Quattroventi",
 				"value": 3
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 4
 			},
 			{
-				// "name": "Striaton City",
-				"name": "Levantopoli",
+				"name": "Striaton City",
+				"name_it-IT": "Levantopoli",
 				"value": 5
 			},
 			{
-				// "name": "Dreamyard",
-				"name": "Cantiere dei Sogni",
+				"name": "Dreamyard",
+				"name_it-IT": "Cantiere dei Sogni",
 				"value": 6
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 7
 			},
 			{
-				// "name": "Wellspring Cave",
-				"name": "Falda Sotterranea",
+				"name": "Wellspring Cave",
+				"name_it-IT": "Falda Sotterranea",
 				"value": 8
 			},
 			{
-				// "name": "Nacrene City",
-				"name": "Zefiropoli",
+				"name": "Nacrene City",
+				"name_it-IT": "Zefiropoli",
 				"value": 9
 			},
 			{
-				// "name": "Pinwheel Forest",
-				"name": "Bosco Girandola",
+				"name": "Pinwheel Forest",
+				"name_it-IT": "Bosco Girandola",
 				"value": 10
 			},
 			{
-				// "name": "Castelia City",
-				"name": "Austropoli",
+				"name": "Castelia City",
+				"name_it-IT": "Austropoli",
 				"value": 11
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 12
 			},
 			{
-				// "name": "Desert Resort",
-				"name": "Deserto della Quiete",
+				"name": "Desert Resort",
+				"name_it-IT": "Deserto della Quiete",
 				"value": 13
 			},
 			{
-				// "name": "Relic Castle",
-				"name": "Castello Sepolto",
+				"name": "Relic Castle",
+				"name_it-IT": "Castello Sepolto",
 				"value": 14
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 15
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 16
 			},
 			{
-				// "name": "Driftveil Drawbridge",
-				"name": "Ponte Libecciopoli",
+				"name": "Driftveil Drawbridge",
+				"name_it-IT": "Ponte Libecciopoli",
 				"value": 17
 			},
 			{
-				// "name": "Driftveil City",
-				"name": "Libecciopoli",
+				"name": "Driftveil City",
+				"name_it-IT": "Libecciopoli",
 				"value": 18
 			},
 			{
-				// "name": "Cold Storage",
-				"name": "Deposito Frigo",
+				"name": "Cold Storage",
+				"name_it-IT": "Deposito Frigo",
 				"value": 19
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 20
 			},
 			{
-				// "name": "Mistralton Cave",
-				"name": "Cava Ponentopoli",
+				"name": "Mistralton Cave",
+				"name_it-IT": "Cava Ponentopoli",
 				"value": 21
 			},
 			{
-				// "name": "Chargestone Cave",
-				"name": "Cava Pietrelettrica",
+				"name": "Chargestone Cave",
+				"name_it-IT": "Cava Pietrelettrica",
 				"value": 22
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 23
 			},
 			{
-				// "name": "Celestial Tower",
-				"name": "Torre Cielo",
+				"name": "Celestial Tower",
+				"name_it-IT": "Torre Cielo",
 				"value": 24
 			},
 			{
-				// "name": "Twist Mountain",
-				"name": "Monte Vite",
+				"name": "Twist Mountain",
+				"name_it-IT": "Monte Vite",
 				"value": 25
 			},
 			{
-				// "name": "Iccirus City",
-				"name": "Mistralopoli",
+				"name": "Iccirus City",
+				"name_it-IT": "Mistralopoli",
 				"value": 26
 			},
 			{
-				// "name": "Dragonspiral Tower",
-				"name": "Torre Dragospira",
+				"name": "Dragonspiral Tower",
+				"name_it-IT": "Torre Dragospira",
 				"value": 27
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 28
 			},
 			{
-				// "name": "Moor of Icirrus",
-				"name": "Palude Mistralopoli",
+				"name": "Moor of Icirrus",
+				"name_it-IT": "Palude Mistralopoli",
 				"value": 29
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 30
 			},
 			{
-				// "name": "Route 10",
-				"name": "Percorso 10",
+				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 31
 			},
 			{
-				// "name": "Victory Road",
-				"name": "Via Vittoria",
+				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 32
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 33
 			},
 			{
-				// "name": "Village Bridge",
-				"name": "Ponte Villaggio",
+				"name": "Village Bridge",
+				"name_it-IT": "Ponte Villaggio",
 				"value": 34
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 35
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 36
 			},
 			{
-				// "name": "Undella Town",
-				"name": "Spiraria",
+				"name": "Undella Town",
+				"name_it-IT": "Spiraria",
 				"value": 37
 			},
 			{
-				// "name": "Undella Bay",
-				"name": "Baia Spiraria",
+				"name": "Undella Bay",
+				"name_it-IT": "Baia Spiraria",
 				"value": 38
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 39
 			},
 			{
-				// "name": "Abundant Shrine",
-				"name": "Tempio dell'Abbondanza",
+				"name": "Abundant Shrine",
+				"name_it-IT": "Tempio dell'Abbondanza",
 				"value": 40
 			},
 			{
-				// "name": "White Forest",
-				"name": "Foresta Bianca/Città Nera",
+				"name": "White Forest",
+				"name_it-IT": "Foresta Bianca/Città Nera",
 				"value": 41
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 42
 			},
 			{
-				// "name": "Marvelous Bridge",
-				"name": "Ponte Meraviglie",
+				"name": "Marvelous Bridge",
+				"name_it-IT": "Ponte Meraviglie",
 				"value": 43
 			},
 			{
-				// "name": "Lostlorn Forest",
-				"name": "Bosco Smarrimento",
+				"name": "Lostlorn Forest",
+				"name_it-IT": "Bosco Smarrimento",
 				"value": 44
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 45
 			},
 			{
-				// "name": "Route 18",
-				"name": "Percorso 18",
+				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 46
 			},
 			{
-				// "name": "P2 Laboratory",
-				"name": "Laboratorio P&P",
+				"name": "P2 Laboratory",
+				"name_it-IT": "Laboratorio P&P",
 				"value": 47
 			},
 			{
-				// "name": "Liberty Garden",
-				"name": "Isola Libertà",
+				"name": "Liberty Garden",
+				"name_it-IT": "Isola Libertà",
 				"value": 48
 			}
 		]
@@ -2286,8 +2286,8 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 19",
-				"name": "Percorso 19",
+				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 2
 			},
 			{
@@ -2295,8 +2295,8 @@ var games = {
 				"value": 3
 			},
 			{
-				// "name": "Route 20",
-				"name": "Percorso 20",
+				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 4
 			},
 			{
@@ -2328,8 +2328,8 @@ var games = {
 				"value": 11
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 12
 			},
 			{
@@ -2341,8 +2341,8 @@ var games = {
 				"value": 14
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 15
 			},
 			{
@@ -2350,8 +2350,8 @@ var games = {
 				"value": 16
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 17
 			},
 			{
@@ -2363,8 +2363,8 @@ var games = {
 				"value": 19
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 20
 			},
 			{
@@ -2376,8 +2376,8 @@ var games = {
 				"value": 22
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 23
 			},
 			{
@@ -2401,13 +2401,13 @@ var games = {
 				"value": 28
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 29
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 30
 			},
 			{
@@ -2415,13 +2415,13 @@ var games = {
 				"value": 31
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 32
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 33
 			},
 			{
@@ -2429,8 +2429,8 @@ var games = {
 				"value": 34
 			},
 			{
-				// "name": "Route 21",
-				"name": "Percorso 21",
+				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 35
 			},
 			{
@@ -2438,18 +2438,18 @@ var games = {
 				"value": 36
 			},
 			{
-				// "name": "Route 22",
-				"name": "Percorso 22",
+				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 37
 			},
 			{
-				// "name": "Giant Chasm",
-				"name": "Fossa Gigante",
+				"name": "Giant Chasm",
+				"name_it-IT": "Fossa Gigante",
 				"value": 38
 			},
 			{
-				// "name": "Route 23",
-				"name": "Percorso 23",
+				"name": "Route 23",
+				"name_it-IT": "Percorso 23",
 				"value": 39
 			},
 			{
@@ -2465,13 +2465,13 @@ var games = {
 				"value": 42
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 43
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 44
 			},
 			{
@@ -2511,8 +2511,8 @@ var games = {
 				"value": 53
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 54
 			},
 			{
@@ -2528,8 +2528,8 @@ var games = {
 				"value": 57
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 58
 			},
 			{
@@ -2537,18 +2537,18 @@ var games = {
 				"value": 59
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 60
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 61
 			},
 			{
-				// "name": "Route 18",
-				"name": "Percorso 18",
+				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 62
 			},
 			{
@@ -2577,8 +2577,8 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 2
 			},
 			{
@@ -2586,18 +2586,18 @@ var games = {
 				"value": 3
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 4
 			},
 			{
-				// "name": "Route 22",
-				"name": "Percorso 22",
+				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 5
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 6
 			},
 			{
@@ -2605,13 +2605,13 @@ var games = {
 				"value": 7
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 8
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 9
 			},
 			{
@@ -2619,8 +2619,8 @@ var games = {
 				"value": 10
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 11
 			},
 			{
@@ -2632,8 +2632,8 @@ var games = {
 				"value": 13
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 14
 			},
 			{
@@ -2641,8 +2641,8 @@ var games = {
 				"value": 15
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 16
 			},
 			{
@@ -2654,13 +2654,13 @@ var games = {
 				"value": 18
 			},
 			{
-				// "name": "Route 10",
-				"name": "Percorso 10",
+				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 19
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 20
 			},
 			{
@@ -2676,8 +2676,8 @@ var games = {
 				"value": 23
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 24
 			},
 			{
@@ -2685,13 +2685,13 @@ var games = {
 				"value": 25
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 26
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 27
 			},
 			{
@@ -2699,8 +2699,8 @@ var games = {
 				"value": 28
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 29
 			},
 			{
@@ -2708,8 +2708,8 @@ var games = {
 				"value": 30
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 31
 			},
 			{
@@ -2717,8 +2717,8 @@ var games = {
 				"value": 32
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 33
 			},
 			{
@@ -2726,8 +2726,8 @@ var games = {
 				"value": 34
 			},
 			{
-				// "name": "Route 18",
-				"name": "Percorso 18",
+				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 35
 			},
 			{
@@ -2735,13 +2735,13 @@ var games = {
 				"value": 36
 			},
 			{
-				// "name": "Route 19",
-				"name": "Percorso 19",
+				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 37
 			},
 			{
-				// "name": "Route 20",
-				"name": "Percorso 20",
+				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 38
 			},
 			{
@@ -2749,8 +2749,8 @@ var games = {
 				"value": 39
 			},
 			{
-				// "name": "Route 21",
-				"name": "Percorso 21",
+				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 40
 			},
 			{
@@ -2787,18 +2787,18 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 101",
-				"name": "Percorso 101",
+				"name": "Route 101",
+				"name_it-IT": "Percorso 101",
 				"value": 2
 			},
 			{
-				// "name": "Route 102",
-				"name": "Percorso 102",
+				"name": "Route 102",
+				"name_it-IT": "Percorso 102",
 				"value": 3
 			},
 			{
-				// "name": "Route 103",
-				"name": "Percorso 103",
+				"name": "Route 103",
+				"name_it-IT": "Percorso 103",
 				"value": 4
 			},
 			{
@@ -2806,8 +2806,8 @@ var games = {
 				"value": 5
 			},
 			{
-				// "name": "Route 104",
-				"name": "Percorso 104",
+				"name": "Route 104",
+				"name_it-IT": "Percorso 104",
 				"value": 6
 			},
 			{
@@ -2819,13 +2819,13 @@ var games = {
 				"value": 8
 			},
 			{
-				// "name": "Route 115",
-				"name": "Percorso 115",
+				"name": "Route 115",
+				"name_it-IT": "Percorso 115",
 				"value": 9
 			},
 			{
-				// "name": "Route 116",
-				"name": "Percorso 116",
+				"name": "Route 116",
+				"name_it-IT": "Percorso 116",
 				"value": 10
 			},
 			{
@@ -2837,8 +2837,8 @@ var games = {
 				"value": 12
 			},
 			{
-				// "name": "Route 106",
-				"name": "Percorso 106",
+				"name": "Route 106",
+				"name_it-IT": "Percorso 106",
 				"value": 13
 			},
 			{
@@ -2846,8 +2846,8 @@ var games = {
 				"value": 14
 			},
 			{
-				// "name": "Route 107",
-				"name": "Percorso 107",
+				"name": "Route 107",
+				"name_it-IT": "Percorso 107",
 				"value": 15
 			},
 			{
@@ -2855,8 +2855,8 @@ var games = {
 				"value": 16
 			},
 			{
-				// "name": "Route 110",
-				"name": "Percorso 110",
+				"name": "Route 110",
+				"name_it-IT": "Percorso 110",
 				"value": 17
 			},
 			{
@@ -2868,18 +2868,18 @@ var games = {
 				"value": 19
 			},
 			{
-				// "name": "Route 117",
-				"name": "Percorso 117",
+				"name": "Route 117",
+				"name_it-IT": "Percorso 117",
 				"value": 20
 			},
 			{
-				// "name": "Route 111",
-				"name": "Percorso 111",
+				"name": "Route 111",
+				"name_it-IT": "Percorso 111",
 				"value": 21
 			},
 			{
-				// "name": "Route 112",
-				"name": "Percorso 112",
+				"name": "Route 112",
+				"name_it-IT": "Percorso 112",
 				"value": 22
 			},
 			{
@@ -2887,13 +2887,13 @@ var games = {
 				"value": 23
 			},
 			{
-				// "name": "Route 113",
-				"name": "Percorso 113",
+				"name": "Route 113",
+				"name_it-IT": "Percorso 113",
 				"value": 24
 			},
 			{
-				// "name": "Route 114",
-				"name": "Percorso 114",
+				"name": "Route 114",
+				"name_it-IT": "Percorso 114",
 				"value": 25
 			},
 			{
@@ -2909,8 +2909,8 @@ var games = {
 				"value": 28
 			},
 			{
-				// "name": "Route 118",
-				"name": "Percorso 118",
+				"name": "Route 118",
+				"name_it-IT": "Percorso 118",
 				"value": 29
 			},
 			{
@@ -2918,8 +2918,8 @@ var games = {
 				"value": 30
 			},
 			{
-				// "name": "Route 119",
-				"name": "Percorso 119",
+				"name": "Route 119",
+				"name_it-IT": "Percorso 119",
 				"value": 31
 			},
 			{
@@ -2927,13 +2927,13 @@ var games = {
 				"value": 32
 			},
 			{
-				// "name": "Route 120",
-				"name": "Percorso 120",
+				"name": "Route 120",
+				"name_it-IT": "Percorso 120",
 				"value": 33
 			},
 			{
-				// "name": "Route 121",
-				"name": "Percorso 121",
+				"name": "Route 121",
+				"name_it-IT": "Percorso 121",
 				"value": 34
 			},
 			{
@@ -2945,8 +2945,8 @@ var games = {
 				"value": 36
 			},
 			{
-				// "name": "Route 122",
-				"name": "Percorso 122",
+				"name": "Route 122",
+				"name_it-IT": "Percorso 122",
 				"value": 37
 			},
 			{
@@ -2954,8 +2954,8 @@ var games = {
 				"value": 38
 			},
 			{
-				// "name": "Route 123",
-				"name": "Percorso 123",
+				"name": "Route 123",
+				"name_it-IT": "Percorso 123",
 				"value": 39
 			},
 			{
@@ -2963,8 +2963,8 @@ var games = {
 				"value": 40
 			},
 			{
-				// "name": "Route 124",
-				"name": "Percorso 124",
+				"name": "Route 124",
+				"name_it-IT": "Percorso 124",
 				"value": 41
 			},
 			{
@@ -2972,8 +2972,8 @@ var games = {
 				"value": 42
 			},
 			{
-				// "name": "Route 125",
-				"name": "Percorso 125",
+				"name": "Route 125",
+				"name_it-IT": "Percorso 125",
 				"value": 43
 			},
 			{
@@ -2981,13 +2981,13 @@ var games = {
 				"value": 44
 			},
 			{
-				// "name": "Route 127",
-				"name": "Percorso 127",
+				"name": "Route 127",
+				"name_it-IT": "Percorso 127",
 				"value": 45
 			},
 			{
-				// "name": "Route 128",
-				"name": "Percorso 128",
+				"name": "Route 128",
+				"name_it-IT": "Percorso 128",
 				"value": 46
 			},
 			{
@@ -2995,8 +2995,8 @@ var games = {
 				"value": 47
 			},
 			{
-				// "name": "Route 126",
-				"name": "Percorso 126",
+				"name": "Route 126",
+				"name_it-IT": "Percorso 126",
 				"value": 48
 			},
 			{
@@ -3012,18 +3012,18 @@ var games = {
 				"value": 51
 			},
 			{
-				// "name": "Route 129",
-				"name": "Percorso 129",
+				"name": "Route 129",
+				"name_it-IT": "Percorso 129",
 				"value": 52
 			},
 			{
-				// "name": "Route 130",
-				"name": "Percorso 130",
+				"name": "Route 130",
+				"name_it-IT": "Percorso 130",
 				"value": 53
 			},
 			{
-				// "name": "Route 131",
-				"name": "Percorso 131",
+				"name": "Route 131",
+				"name_it-IT": "Percorso 131",
 				"value": 54
 			},
 			{
@@ -3039,13 +3039,13 @@ var games = {
 				"value": 57
 			},
 			{
-				// "name": "Route 105",
-				"name": "Percorso 105",
+				"name": "Route 105",
+				"name_it-IT": "Percorso 105",
 				"value": 58
 			},
 			{
-				// "name": "Route 108",
-				"name": "Percorso 108",
+				"name": "Route 108",
+				"name_it-IT": "Percorso 108",
 				"value": 59
 			},
 			{
@@ -3053,23 +3053,23 @@ var games = {
 				"value": 60
 			},
 			{
-				// "name": "Route 109",
-				"name": "Percorso 109",
+				"name": "Route 109",
+				"name_it-IT": "Percorso 109",
 				"value": 61
 			},
 			{
-				// "name": "Route 132",
-				"name": "Percorso 132",
+				"name": "Route 132",
+				"name_it-IT": "Percorso 132",
 				"value": 62
 			},
 			{
-				// "name": "Route 133",
-				"name": "Percorso 133",
+				"name": "Route 133",
+				"name_it-IT": "Percorso 133",
 				"value": 63
 			},
 			{
-				// "name": "Route 134",
-				"name": "Percorso 134",
+				"name": "Route 134",
+				"name_it-IT": "Percorso 134",
 				"value": 64
 			},
 			{
@@ -3150,8 +3150,8 @@ var games = {
 				"value": 2
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 3
 			},
 			{
@@ -3163,8 +3163,8 @@ var games = {
 				"value": 5
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 6
 			},
 			{
@@ -3180,8 +3180,8 @@ var games = {
 				"value": 9
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 10
 			},
 			{
@@ -3205,8 +3205,8 @@ var games = {
 				"value": 15
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 16
 			},
 			{
@@ -3218,8 +3218,8 @@ var games = {
 				"value": 18
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 19
 			},
 			{
@@ -3227,13 +3227,13 @@ var games = {
 				"value": 20
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 21
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 22
 			},
 			{
@@ -3241,8 +3241,8 @@ var games = {
 				"value": 23
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 24
 			},
 			{
@@ -3258,8 +3258,8 @@ var games = {
 				"value": 27
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 28
 			},
 			{
@@ -3283,8 +3283,8 @@ var games = {
 				"value": 33
 			},
 			{
-				// "name": "Route 10",
-				"name": "Percorso 10",
+				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 34
 			},
 			{
@@ -3292,13 +3292,13 @@ var games = {
 				"value": 35
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 36
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 37
 			},
 			{
@@ -3310,8 +3310,8 @@ var games = {
 				"value": 39
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 40
 			},
 			{
@@ -3323,8 +3323,8 @@ var games = {
 				"value": 42
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 43
 			},
 			{
@@ -3332,8 +3332,8 @@ var games = {
 				"value": 44
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 45
 			},
 			{
@@ -3341,8 +3341,8 @@ var games = {
 				"value": 46
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 47
 			},
 			{
@@ -3354,8 +3354,8 @@ var games = {
 				"value": 49
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 50
 			},
 			{
@@ -3456,8 +3456,8 @@ var games = {
 				"value": 2
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 3
 			},
 			{
@@ -3469,8 +3469,8 @@ var games = {
 				"value": 5
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 6
 			},
 			{
@@ -3486,8 +3486,8 @@ var games = {
 				"value": 9
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 10
 			},
 			{
@@ -3511,8 +3511,8 @@ var games = {
 				"value": 15
 			},
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 16
 			},
 			{
@@ -3524,8 +3524,8 @@ var games = {
 				"value": 18
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 19
 			},
 			{
@@ -3533,13 +3533,13 @@ var games = {
 				"value": 20
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 21
 			},
 			{
-				// "name": "Route 7",
-				"name": "Percorso 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 22
 			},
 			{
@@ -3551,8 +3551,8 @@ var games = {
 				"value": 24
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 25
 			},
 			{
@@ -3568,8 +3568,8 @@ var games = {
 				"value": 28
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 29
 			},
 			{
@@ -3593,8 +3593,8 @@ var games = {
 				"value": 34
 			},
 			{
-				// "name": "Route 10",
-				"name": "Percorso 10",
+				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 35
 			},
 			{
@@ -3602,13 +3602,13 @@ var games = {
 				"value": 36
 			},
 			{
-				// "name": "Route 11",
-				"name": "Percorso 11",
+				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 37
 			},
 			{
-				// "name": "Route 12",
-				"name": "Percorso 12",
+				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 38
 			},
 			{
@@ -3620,8 +3620,8 @@ var games = {
 				"value": 40
 			},
 			{
-				// "name": "Route 13",
-				"name": "Percorso 13",
+				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 41
 			},
 			{
@@ -3633,8 +3633,8 @@ var games = {
 				"value": 43
 			},
 			{
-				// "name": "Route 15",
-				"name": "Percorso 15",
+				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 44
 			},
 			{
@@ -3642,8 +3642,8 @@ var games = {
 				"value": 45
 			},
 			{
-				// "name": "Route 14",
-				"name": "Percorso 14",
+				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 46
 			},
 			{
@@ -3651,8 +3651,8 @@ var games = {
 				"value": 47
 			},
 			{
-				// "name": "Route 16",
-				"name": "Percorso 16",
+				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 48
 			},
 			{
@@ -3664,8 +3664,8 @@ var games = {
 				"value": 50
 			},
 			{
-				// "name": "Route 17",
-				"name": "Percorso 17",
+				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 51
 			},
 			{
@@ -3762,8 +3762,8 @@ var games = {
 				"value": 1
 			},
 			{
-				// "name": "Route 1",
-				"name": "Percorso 1",
+				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 2
 			},
 			{
@@ -3771,8 +3771,8 @@ var games = {
 				"value": 3
 			},
 			{
-				// "name": "Route 2",
-				"name": "Percorso 2",
+				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 4
 			},
 			{
@@ -3812,8 +3812,8 @@ var games = {
 				"value": 13
 			},
 			{
-				// "name": "Route 3",
-				"name": "Percorso 3",
+				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 14
 			},
 			{
@@ -3822,13 +3822,13 @@ var games = {
 			},
 
 			{
-				// "name": "Route 4",
-				"name": "Percorso 4",
+				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 16
 			},
 			{
-				// "name": "Route 5",
-				"name": "Percorso 5",
+				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 17
 			},
 			{
@@ -3880,8 +3880,8 @@ var games = {
 				"value": 29
 			},
 			{
-				// "name": "Route 6",
-				"name": "Percorso 6",
+				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 30
 			},
 			{
@@ -3893,13 +3893,13 @@ var games = {
 				"value": 32
 			},
 			{
-				// "name": "Route 8",
-				"name": "Percorso 8",
+				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 33
 			},
 			{
-				// "name": "Route 9",
-				"name": "Percorso 9",
+				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 34
 			},
 			{
@@ -8817,6 +8817,14 @@ function escapeHTML(str, jsContext) {
 	return string;
 }
 
+function localizeLocation(location) {
+	var locale = navigator.language;
+
+	if(location['name_' + locale]) return location['name_' + locale];
+
+	return location.name;
+}
+
 function renderMain() {
 	var linksString = '';
 	var segmentsString = '';
@@ -8877,7 +8885,7 @@ function renderLocations(game, darkTheme) {
 		var locationValue = escapeHTML(location.value);
 
 		string += '<tr' + (location.order !== undefined ? ' class="customLocation"' : '') + '>' +
-			'<td data-sort-value="' + index + '">' + '<div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic show-sm float-right singleReset icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div>' + escapeHTML(location.name) + '</td>' +
+			'<td data-sort-value="' + index + '">' + '<div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic show-sm float-right singleReset icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div>' + escapeHTML(localizeLocation(location)) + '</td>' +
 			'<td data-sort-value="' + escapeHTML(localStorage.getItem(game.id + location.value + '-encounter')) + '">' +
 			'<div data-name="' + (localStorage.getItem(game.id + location.value + '-name') ? escapeHTML(localStorage.getItem(game.id + location.value + '-name')) : '') + '" id="' + game.id + locationValue + '-encounter" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid search selection long dropdown encounter-picker">' +
 			'<input value="' + (localStorage.getItem(game.id + location.value + '-encounter') ? escapeHTML(localStorage.getItem(game.id + location.value + '-encounter'), true) : '') + '" name="pokemon" type="hidden">' +
@@ -9284,7 +9292,7 @@ function updateLocationDropdown() {
 	var locations = [];
 
 	games[selectedGame].locations.forEach(function(location) {
-		locations.push({ 'name': 'After ' + escapeHTML(location.name), 'value': location.value });
+		locations.push({ 'name': 'After ' + escapeHTML(localizeLocation(location)), 'value': location.value });
 	});
 
 	$('#locationOrder').dropdown('change values', locations);
