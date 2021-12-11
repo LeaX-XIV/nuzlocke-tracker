@@ -240,6 +240,7 @@ var games = {
 			},
 			{
 				"name": "New Bark Town",
+				"name_it-IT": "Borgo Foglianova",
 				"value": 1
 			},
 			{
@@ -249,6 +250,7 @@ var games = {
 			},
 			{
 				"name": "Cherrygrove City",
+				"name_it-IT": "Fiorpescopoli",
 				"value": 3
 			},
 			{
@@ -263,14 +265,17 @@ var games = {
 			},
 			{
 				"name": "Dark Cave",
+				"name_it-IT": "Grotta Scura",
 				"value": 6
 			},
 			{
 				"name": "Violet City",
+				"name_it-IT": "Violapoli",
 				"value": 7
 			},
 			{
 				"name": "Sprout Tower",
+				"name_it-IT": "Torre Sprout",
 				"value": 8
 			},
 			{
@@ -280,10 +285,12 @@ var games = {
 			},
 			{
 				"name": "Ruins of Alph",
+				"name_it-IT": "Rovine d'Alfa",
 				"value": 10
 			},
 			{
 				"name": "Union Cave",
+				"name_it-IT": "Grotta di mezzo",
 				"value": 11
 			},
 			{
@@ -293,14 +300,17 @@ var games = {
 			},
 			{
 				"name": "Azalea Town",
+				"name_it-IT": "Azalina",
 				"value": 13
 			},
 			{
 				"name": "Slowpoke Well",
+				"name_it-IT": "Pozzo Slowpoke",
 				"value": 14
 			},
 			{
 				"name": "Ilex Forest",
+				"name_it-IT": "Bosco di Lecci",
 				"value": 15
 			},
 			{
@@ -310,6 +320,7 @@ var games = {
 			},
 			{
 				"name": "Goldenrod City",
+				"name_it-IT": "Fiordoropoli",
 				"value": 17
 			},
 			{
@@ -319,6 +330,7 @@ var games = {
 			},
 			{
 				"name": "National Park",
+				"name_it-IT": "Parco Nazionale",
 				"value": 19
 			},
 			{
@@ -333,14 +345,17 @@ var games = {
 			},
 			{
 				"name": "Ecruteak City",
+				"name_it-IT": "Amarantopoli",
 				"value": 22
 			},
 			{
 				"name": "Burned Tower",
+				"name_it-IT": "Torre Bruciata",
 				"value": 23
 			},
 			{
 				"name": "Tin Tower",
+				"name_it-IT": "Torre di Latta",
 				"value": 24
 			},
 			{
@@ -355,6 +370,7 @@ var games = {
 			},
 			{
 				"name": "Olivine City",
+				"name_it-IT": "Olivinopoli",
 				"value": 27
 			},
 			{
@@ -369,10 +385,12 @@ var games = {
 			},
 			{
 				"name": "Whirl Islands",
+				"name_it-IT": "Isole Vorticose",
 				"value": 30
 			},
 			{
 				"name": "Cianwood City",
+				"name_it-IT": "Fiorlisopoli",
 				"value": 31
 			},
 			{
@@ -386,10 +404,12 @@ var games = {
 			},
 			{
 				"name": "Mahogany Town",
+				"name_it-IT": "Monte Scodella",
 				"value": 34
 			},
 			{
 				"name": "Rocket Hideout",
+				"name_it-IT": "Covo Team Rocket",
 				"value": 35
 			},
 			{
@@ -399,6 +419,7 @@ var games = {
 			},
 			{
 				"name": "Lake of Rage",
+				"name_it-IT": "Lago d'Ira",
 				"value": 37
 			},
 			{
@@ -408,14 +429,17 @@ var games = {
 			},
 			{
 				"name": "Ice Path",
+				"name_it-IT": "Via Gelata",
 				"value": 39
 			},
 			{
 				"name": "Blackthorn City",
+				"name_it-IT": "Ebanopoli",
 				"value": 40
 			},
 			{
 				"name": "Dragon's Den",
+				"name_it-IT": "Tana del Drago",
 				"value": 41
 			},
 			{
@@ -425,6 +449,7 @@ var games = {
 			},
 			{
 				"name": "Dark Cave 2",
+				"name_it-IT": "Grotta Scura 2",
 				"value": 43
 			},
 			{
@@ -439,6 +464,7 @@ var games = {
 			},
 			{
 				"name": "Tohjo Falls",
+				"name_it-IT": "Cascate Tohjo",
 				"value": 46
 			},
 			{
@@ -448,14 +474,17 @@ var games = {
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 48
 			},
 			{
 				"name": "Indigo Plateau",
+				"name_it-IT": "Altopiano Blu",
 				"value": 49
 			},
 			{
 				"name": "Vermillion City",
+				"name_it-IT": "Aranciopoli",
 				"value": 50
 			},
 			{
@@ -465,6 +494,7 @@ var games = {
 			},
 			{
 				"name": "Saffron City",
+				"name_it-IT": "Zafferanopoli",
 				"value": 52
 			},
 			{
@@ -489,6 +519,7 @@ var games = {
 			},
 			{
 				"name": "Rock Tunnel",
+				"name_it-IT": "Tunnel Roccioso",
 				"value": 57
 			},
 			{
@@ -498,6 +529,7 @@ var games = {
 			},
 			{
 				"name": "Cerulean City",
+				"name_it-IT": "Celestopoli",
 				"value": 59
 			},
 			{
@@ -532,6 +564,7 @@ var games = {
 			},
 			{
 				"name": "Fuschia City",
+				"name_it-IT": "Fucsiapoli",
 				"value": 66
 			},
 			{
@@ -561,6 +594,7 @@ var games = {
 			},
 			{
 				"name": "Diglett's Cave",
+				"name_it-IT": "Caverna Diglett",
 				"value": 72
 			},
 			{
@@ -570,6 +604,7 @@ var games = {
 			},
 			{
 				"name": "Pewter City",
+				"name_it-IT": "Plumbeopoli",
 				"value": 74
 			},
 			{
@@ -579,10 +614,12 @@ var games = {
 			},
 			{
 				"name": "Mt. Moon",
+				"name_it-IT": "Monte Luna",
 				"value": 76
 			},
 			{
 				"name": "Viridian City",
+				"name_it-IT": "Smeraldopoli",
 				"value": 77
 			},
 			{
@@ -592,6 +629,7 @@ var games = {
 			},
 			{
 				"name": "Pallet Town",
+				"name_it-IT": "Biancavilla",
 				"value": 79
 			},
 			{
@@ -601,6 +639,7 @@ var games = {
 			},
 			{
 				"name": "Cinnabar Island",
+				"name_it-IT": "Isola Cannella",
 				"value": 81
 			},
 			{
@@ -625,6 +664,7 @@ var games = {
 			},
 			{
 				"name": "Mt. Silver",
+				"name_it-IT": "Monte Argento",
 				"value": 86
 			}
 		]
