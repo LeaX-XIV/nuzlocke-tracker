@@ -2707,11 +2707,12 @@ var games = {
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 40
 			},
 			{
 				"name": "Old Victory Road",
-				"name_it-IT": "Via Vittoria",
+				"name_it-IT": "Vecchia Via Vittoria",
 				"value": 41
 			},
 			{
