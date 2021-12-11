@@ -2512,6 +2512,7 @@ var games = {
 			},
 			{
 				"name": "Aspertia City",
+				"name_it-IT": "Alisopoli",
 				"value": 1
 			},
 			{
@@ -2521,6 +2522,7 @@ var games = {
 			},
 			{
 				"name": "Floccesy Town",
+				"name_it-IT": "Venturia",
 				"value": 3
 			},
 			{
@@ -2530,30 +2532,37 @@ var games = {
 			},
 			{
 				"name": "Floccesy Ranch",
+				"name_it-IT": "Fattorie di Venturia",
 				"value": 5
 			},
 			{
 				"name": "Aspertia Gym",
+				"name_it-IT": "Palestra di Alisopoli",
 				"value": 6
 			},
 			{
 				"name": "Virbank City",
+				"name_it-IT": "Zondopoli",
 				"value": 7
 			},
 			{
 				"name": "Virbank Complex",
+				"name_it-IT": "Cantiere di Zondopoli",
 				"value": 8
 			},
 			{
 				"name": "Castelia City",
+				"name_it-IT": "Austropoli",
 				"value": 9
 			},
 			{
 				"name": "Castelia Sewers",
+				"name_it-IT": "Fogne di Austropoli",
 				"value": 10
 			},
 			{
 				"name": "Relic Passage",
+				"name_it-IT": "Antico Sentiero",
 				"value": 11
 			},
 			{
@@ -2563,10 +2572,12 @@ var games = {
 			},
 			{
 				"name": "Desert Resort",
+				"name_it-IT": "Deserto della Quiete",
 				"value": 13
 			},
 			{
 				"name": "Relic Castle",
+				"name_it-IT": "Castello Sepolto",
 				"value": 14
 			},
 			{
@@ -2576,6 +2587,7 @@ var games = {
 			},
 			{
 				"name": "Lostlorn Forest",
+				"name_it-IT": "Bosco Smarrimento",
 				"value": 16
 			},
 			{
@@ -2585,10 +2597,12 @@ var games = {
 			},
 			{
 				"name": "Driftveil Drawbridge",
+				"name_it-IT": "Ponte Libecciopoli",
 				"value": 18
 			},
 			{
 				"name": "Driftveil City",
+				"name_it-IT": "Libecciopoli",
 				"value": 19
 			},
 			{
@@ -2598,10 +2612,12 @@ var games = {
 			},
 			{
 				"name": "Mistralton Cave",
+				"name_it-IT": "Cava Ponentopoli",
 				"value": 21
 			},
 			{
 				"name": "Chargestone Cave",
+				"name_it-IT": "Cava Pietrelettrica",
 				"value": 22
 			},
 			{
@@ -2611,22 +2627,27 @@ var games = {
 			},
 			{
 				"name": "Celestial Tower",
+				"name_it-IT": "Torre Cielo",
 				"value": 24
 			},
 			{
 				"name": "Reversal Mountain",
+				"name_it-IT": "Monte Antipodi",
 				"value": 25
 			},
 			{
 				"name": "Strange House",
+				"name_it-IT": "Casa Bizzarra",
 				"value": 26
 			},
 			{
 				"name": "Undella Town",
+				"name_it-IT": "Spiraria",
 				"value": 27
 			},
 			{
 				"name": "Undella Bay",
+				"name_it-IT": "Baia Spiraria",
 				"value": 28
 			},
 			{
@@ -2641,6 +2662,7 @@ var games = {
 			},
 			{
 				"name": "Village Bridge",
+				"name_it-IT": "Ponte Villaggio",
 				"value": 31
 			},
 			{
@@ -2655,6 +2677,7 @@ var games = {
 			},
 			{
 				"name": "Seaside Cave",
+				"name_it-IT": "Grotta Costiera",
 				"value": 34
 			},
 			{
@@ -2664,6 +2687,7 @@ var games = {
 			},
 			{
 				"name": "Humilau City",
+				"name_it-IT": "Grecalopoli",
 				"value": 36
 			},
 			{
@@ -2687,10 +2711,12 @@ var games = {
 			},
 			{
 				"name": "Old Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 41
 			},
 			{
 				"name": "Marvelous Bridge",
+				"name_it-IT": "Ponte Meraviglie",
 				"value": 42
 			},
 			{
@@ -2705,38 +2731,47 @@ var games = {
 			},
 			{
 				"name": "Abundant Shrine",
+				"name_it-IT": "Tempio dell'Abbondanza",
 				"value": 45
 			},
 			{
 				"name": "Moor of Icirrus",
+				"name_it-IT": "Palude Mistralopoli",
 				"value": 46
 			},
 			{
 				"name": "Icirrus City",
+				"name_it-IT": "Mistralopoli",
 				"value": 47
 			},
 			{
 				"name": "Dragonspiral Tower",
+				"name_it-IT": "Torre Dragospira",
 				"value": 48
 			},
 			{
 				"name": "Twist Mountain",
+				"name_it-IT": "Monte Vite",
 				"value": 49
 			},
 			{
 				"name": "Clay Tunnel",
+				"name_it-IT": "Passo di Rafan",
 				"value": 50
 			},
 			{
 				"name": "Underground Ruins",
+				"name": "Sala Picco",
 				"value": 51
 			},
 			{
 				"name": "Pinwheel Forest",
+				"name_it-IT": "Bosco Girandola",
 				"value": 52
 			},
 			{
 				"name": "Nacrene City",
+				"name_it-IT": "Zefiropoli",
 				"value": 53
 			},
 			{
@@ -2746,14 +2781,17 @@ var games = {
 			},
 			{
 				"name": "Wellspring Cave",
+				"name_it-IT": "Falda Sotterranea",
 				"value": 55
 			},
 			{
 				"name": "Striaton City",
+				"name_it-IT": "Levantopoli",
 				"value": 56
 			},
 			{
 				"name": "Dreamyard",
+				"name_it-IT": "Cantiere dei Sogni",
 				"value": 57
 			},
 			{
@@ -2763,6 +2801,7 @@ var games = {
 			},
 			{
 				"name": "Accumula Town",
+				"name_it-IT": "Quattroventi",
 				"value": 59
 			},
 			{
@@ -2782,10 +2821,12 @@ var games = {
 			},
 			{
 				"name": "P2 Laboratory",
+				"name_it-IT": "Laboratorio P&P",
 				"value": 63
 			},
 			{
 				"name": "Nature Preserve",
+				"name_it-IT": "Riserva Naturale",
 				"value": 64
 			}
 		]
