@@ -682,6 +682,7 @@ var games = {
 			},
 			{
 				"name": "Littleroot Town",
+				"name_it-IT": "Albanova",
 				"value": 1
 			},
 			{
@@ -701,6 +702,7 @@ var games = {
 			},
 			{
 				"name": "Petalburg City",
+				"name_it-IT": "Petalipoli",
 				"value": 5
 			},
 			{
@@ -710,10 +712,12 @@ var games = {
 			},
 			{
 				"name": "Petalburg Woods",
+				"name_it-IT": "Bosco Petalo",
 				"value": 7
 			},
 			{
 				"name": "Rustboro City",
+				"name_it-IT": "Ferrugipoli",
 				"value": 8
 			},
 			{
@@ -728,10 +732,12 @@ var games = {
 			},
 			{
 				"name": "Rusturf Tunnel",
+				"name_it-IT": "Tunnel Menferro",
 				"value": 11
 			},
 			{
 				"name": "Dewford Town",
+				"name_it-IT": "Bluruvia",
 				"value": 12
 			},
 			{
@@ -741,6 +747,7 @@ var games = {
 			},
 			{
 				"name": "Granite Cave",
+				"name_it-IT": "Grotta Pietrosa",
 				"value": 14
 			},
 			{
@@ -750,6 +757,7 @@ var games = {
 			},
 			{
 				"name": "Slateport City",
+				"name_it-IT": "Porto Selcepoli",
 				"value": 16
 			},
 			{
@@ -759,10 +767,12 @@ var games = {
 			},
 			{
 				"name": "Altering Cave",
+				"name_it-IT": "Grotta Mutevole",
 				"value": 18
 			},
 			{
 				"name": "New Mauville",
+				"name_it-IT": "Ciclanova",
 				"value": 19
 			},
 			{
@@ -777,6 +787,7 @@ var games = {
 			},
 			{
 				"name": "Mirage Tower (Emerald)",
+				"name_it-IT": "Torre Miraggio (Smeraldo)",
 				"value": 22
 			},
 			{
@@ -786,6 +797,7 @@ var games = {
 			},
 			{
 				"name": "Fiery Path",
+				"name_it-IT": "Cammino Ardente",
 				"value": 24
 			},
 			{
@@ -800,18 +812,22 @@ var games = {
 			},
 			{
 				"name": "Desert Underpass (Emerald)",
+				"name_it-IT": "Galleria Deserto (Smeraldo)",
 				"value": 27
 			},
 			{
 				"name": "Meteor Falls",
+				"name_it-IT": "Cascate Meteora",
 				"value": 28
 			},
 			{
 				"name": "Jagged Pass",
+				"name_it-IT": "Passo Selvaggio",
 				"value": 29
 			},
 			{
 				"name": "Lavaridge Town",
+				"name_it-IT": "Cuordilava",
 				"value": 30
 			},
 			{
@@ -826,6 +842,7 @@ var games = {
 			},
 			{
 				"name": "Fortree City",
+				"name_it-IT": "Forestopoli",
 				"value": 33
 			},
 			{
@@ -840,10 +857,12 @@ var games = {
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 36
 			},
 			{
 				"name": "Lilycove City",
+				"name_it-IT": "Porto Alghepoli",
 				"value": 37
 			},
 			{
@@ -853,6 +872,7 @@ var games = {
 			},
 			{
 				"name": "Mt. Pyre",
+				"name_it-IT": "monte Pira",
 				"value": 39
 			},
 			{
@@ -862,6 +882,7 @@ var games = {
 			},
 			{
 				"name": "Team Magma Hideout (Emerald)",
+				"name_it-IT": "Rifugio Magma",
 				"value": 41
 			},
 			{
@@ -871,6 +892,7 @@ var games = {
 			},
 			{
 				"name": "Mossdeep City",
+				"name_it-IT": "Verdeazzupoli",
 				"value": 43
 			},
 			{
@@ -880,6 +902,7 @@ var games = {
 			},
 			{
 				"name": "Shoal Cave",
+				"name_it-IT": "Grotta Ondosa",
 				"value": 45
 			},
 			{
@@ -894,6 +917,7 @@ var games = {
 			},
 			{
 				"name": "Seafloor Cavern",
+				"name_it-IT": "Antro Abissale",
 				"value": 48
 			},
 			{
@@ -903,10 +927,12 @@ var games = {
 			},
 			{
 				"name": "Sootopolis City",
+				"name_it-IT": "Ceneride",
 				"value": 50
 			},
 			{
 				"name": "Cave of Origin",
+				"name_it-IT": "Grotta dei Tempi",
 				"value": 51
 			},
 			{
@@ -926,14 +952,17 @@ var games = {
 			},
 			{
 				"name": "Sky Pillar",
+				"name_it-IT": "Torre dei Cieli",
 				"value": 55
 			},
 			{
 				"name": "Pacifidlog Town",
+				"name_it-IT": "Orocea",
 				"value": 56
 			},
 			{
 				"name": "Mirage Island",
+				"name_it-IT": "Isola Miraggio",
 				"value": 57
 			},
 			{
@@ -948,6 +977,7 @@ var games = {
 			},
 			{
 				"name": "Abandoned Ship",
+				"name_it-IT": "Vecchia Nave",
 				"value": 60
 			},
 			{
@@ -972,22 +1002,27 @@ var games = {
 			},
 			{
 				"name": "Ever Grande City",
+				"name_it-IT": "Iridopoli",
 				"value": 65
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 66
 			},
 			{
 				"name": "S.S. Tidal",
+				"name_it-IT": "M/N Marea",
 				"value": 67
 			},
 			{
 				"name": "Battle Frontier",
+				"name_it-IT": "Parco Lotta",
 				"value": 68
 			},
 			{
 				"name": "Artisan Cave",
+				"name_it-IT": "Grotta Artistica",
 				"value": 69
 			}]
 	},
