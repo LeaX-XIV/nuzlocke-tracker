@@ -1397,6 +1397,7 @@ var games = {
 			},
 			{
 				"name": "Twinleaf Town",
+				"name_it-IT": "Duefoglie",
 				"value": 1
 			},
 			{
@@ -1406,6 +1407,7 @@ var games = {
 			},
 			{
 				"name": "Lake Verity",
+				"name_it-IT": "Lago Verità",
 				"value": 3
 			},
 			{
@@ -1420,14 +1422,17 @@ var games = {
 			},
 			{
 				"name": "Oreburgh Gate",
+				"name_it-IT": "Varco Mineropoli",
 				"value": 6
 			},
 			{
 				"name": "Oreburgh City",
+				"name_it-IT": "Mineropoli",
 				"value": 7
 			},
 			{
 				"name": "Oreburgh Mine",
+				"name_it-IT": "Cava di Mineropoli",
 				"value": 8
 			},
 			{
@@ -1442,10 +1447,12 @@ var games = {
 			},
 			{
 				"name": "Ravaged Path",
+				"name_it-IT": "Cammino Roccioso",
 				"value": 11
 			},
 			{
 				"name": "Floaroma Meadow",
+				"name_it-IT": "Giardinfiorito",
 				"value": 12
 			},
 			{
@@ -1455,18 +1462,22 @@ var games = {
 			},
 			{
 				"name": "Valley Windworks",
+				"name_it-IT": "Impianto Turbine",
 				"value": 14
 			},
 			{
 				"name": "Eterna Forest",
+				"name_it-IT": "Bosco Evopoli",
 				"value": 15
 			},
 			{
 				"name": "The Old Chateau",
+				"name_it-IT": "Antico Chateau",
 				"value": 16
 			},
 			{
 				"name": "Eterna City",
+				"name_it-IT": "Evopoli",
 				"value": 17
 			},
 			{
@@ -1476,10 +1487,12 @@ var games = {
 			},
 			{
 				"name": "Wayward Cave",
+				"name_it-IT": "Grotta Labirinto",
 				"value": 19
 			},
 			{
 				"name": "Mt. Coronet",
+				"name_it-IT": "Monte Corona",
 				"value": 20
 			},
 			{
@@ -1489,6 +1502,7 @@ var games = {
 			},
 			{
 				"name": "Hearthome City",
+				"name_it-IT": "Cuoripoli",
 				"value": 22
 			},
 			{
@@ -1498,10 +1512,12 @@ var games = {
 			},
 			{
 				"name": "The Lost Tower",
+				"name_it-IT": "Torre Memoria",
 				"value": 24
 			},
 			{
 				"name": "Solaceon Ruins",
+				"name_it-IT": "Rovine Flemminia",
 				"value": 25
 			},
 			{
@@ -1516,6 +1532,7 @@ var games = {
 			},
 			{
 				"name": "Veilstone City",
+				"name_it-IT": "Rupepoli",
 				"value": 28
 			},
 			{
@@ -1525,14 +1542,17 @@ var games = {
 			},
 			{
 				"name": "Trophy Garden",
+				"name_it-IT": "Giardino Trofeo",
 				"value": 30
 			},
 			{
 				"name": "Pastoria City",
+				"name_it-IT": "Pratopoli",
 				"value": 31
 			},
 			{
 				"name": "Great Marsh",
+				"name_it-IT": "Grande Palude",
 				"value": 32
 			},
 			{
@@ -1542,10 +1562,12 @@ var games = {
 			},
 			{
 				"name": "Valor Lakefront",
+				"name_it-IT": "Riva Valore",
 				"value": 34
 			},
 			{
 				"name": "Lake Valor",
+				"name_it-IT": "Lago Valore",
 				"value": 35
 			},
 			{
@@ -1555,22 +1577,27 @@ var games = {
 			},
 			{
 				"name": "Ruin Maniac's Cave",
+				"name_it-IT": "Grotta Rovine",
 				"value": 37
 			},
 			{
 				"name": "Ruin Maniac's Tunnel",
+				"name_it-IT": "Tunnel Rovine",
 				"value": 38
 			},
 			{
 				"name": "Celestic Town",
+				"name_it-IT": "Memoride",
 				"value": 39
 			},
 			{
 				"name": "Fuego Ironworks",
+				"name_it-IT": "Fonderie Fuego",
 				"value": 40
 			},
 			{
-				"name": "Routes 219",
+				"name": "Route 219",
+				"name_it-IT": "Percorso 219",
 				"value": 41
 			},
 			{
@@ -1590,10 +1617,12 @@ var games = {
 			},
 			{
 				"name": "Canalave City",
+				"name_it-IT": "Canalipoli",
 				"value": 45
 			},
 			{
 				"name": "Iron Island",
+				"name_it-IT": "Isola Ferrosa",
 				"value": 46
 			},
 			{
@@ -1613,14 +1642,17 @@ var games = {
 			},
 			{
 				"name": "Acuity Lakefront",
+				"name_it-IT": "Riva Arguzia",
 				"value": 50
 			},
 			{
 				"name": "Lake Acuity",
+				"name_it-IT": "Lago Arguzia",
 				"value": 51
 			},
 			{
 				"name": "Snowpoint Temple",
+				"name_it-IT": "Tempio Nevepoli",
 				"value": 52
 			},
 			{
@@ -1630,6 +1662,7 @@ var games = {
 			},
 			{
 				"name": "Sunyshore City",
+				"name_it-IT": "Arenipoli",
 				"value": 54
 			},
 			{
@@ -1639,10 +1672,12 @@ var games = {
 			},
 			{
 				"name": "Pokémon League",
+				"name_it-IT": "Lega Pokémon",
 				"value": 56
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 57
 			},
 			{
@@ -1662,6 +1697,7 @@ var games = {
 			},
 			{
 				"name": "Resort Area",
+				"name_it-IT": "Area Svago",
 				"value": 61
 			},
 			{
@@ -1681,6 +1717,7 @@ var games = {
 			},
 			{
 				"name": "Stark Mountain",
+				"name_it-IT": "Monte Ostile",
 				"value": 65
 			},
 			{
@@ -1690,30 +1727,37 @@ var games = {
 			},
 			{
 				"name": "Sendoff Spring",
+				"name_it-IT": "Fonte Saluto",
 				"value": 67
 			},
 			{
 				"name": "Turnback Cave",
+				"name_it-IT": "Grotta Ritorno",
 				"value": 68
 			},
 			{
 				"name": "Distortion World",
+				"name_it-IT": "Mondo Distorto",
 				"value": 69
 			},
 			{
 				"name": "Spear Pillar",
+				"name_it-IT": "Vetta Lancia",
 				"value": 70
 			},
 			{
 				"name": "Newmoon Island",
+				"name_it-IT": "Isola Lunanuova",
 				"value": 71
 			},
 			{
 				"name": "Flower Paradise",
+				"name_it-IT": "Paradiso Fiore",
 				"value": 72
 			},
 			{
 				"name": "Hall of Origin",
+				"name_it-IT": "Spazio Origine",
 				"value": 73
 			}
 		]
