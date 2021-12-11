@@ -1039,6 +1039,7 @@ var games = {
 			},
 			{
 				"name": "Pallet Town",
+				"name_it-IT": "Biancavilla",
 				"value": 1
 			},
 			{
@@ -1048,6 +1049,7 @@ var games = {
 			},
 			{
 				"name": "Viridian City",
+				"name_it-IT": "Smeraldopoli",
 				"value": 3
 			},
 			{
@@ -1062,6 +1064,7 @@ var games = {
 			},
 			{
 				"name": "Viridian Forest",
+				"name_it-IT": "Bosco Smeraldo",
 				"value": 6
 			},
 			{
@@ -1076,10 +1079,12 @@ var games = {
 			},
 			{
 				"name": "Mt. Moon",
+				"name_it-IT": "Monte Luna",
 				"value": 9
 			},
 			{
 				"name": "Cerulean City",
+				"name_it-IT": "Celestopoli",
 				"value": 10
 			},
 			{
@@ -1104,6 +1109,7 @@ var games = {
 			},
 			{
 				"name": "Vermillion City",
+				"name_it-IT": "Aranciopoli",
 				"value": 15
 			},
 			{
@@ -1113,6 +1119,7 @@ var games = {
 			},
 			{
 				"name": "Diglett's Cave",
+				"name_it-IT": "Caverna Diglett",
 				"value": 17
 			},
 			{
@@ -1127,10 +1134,12 @@ var games = {
 			},
 			{
 				"name": "Rock Tunnel",
+				"name_it-IT": "Tunnel Roccioso",
 				"value": 20
 			},
 			{
 				"name": "Pokémon Tower",
+				"name_it-IT": "Torre Pokémon",
 				"value": 21
 			},
 			{
@@ -1150,6 +1159,7 @@ var games = {
 			},
 			{
 				"name": "Celadon City",
+				"name_it-IT": "Azzurropoli",
 				"value": 25
 			},
 			{
@@ -1169,10 +1179,12 @@ var games = {
 			},
 			{
 				"name": "Fuschia City",
+				"name_it-IT": "Fucsiapoli",
 				"value": 29
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 30
 			},
 			{
@@ -1192,6 +1204,7 @@ var games = {
 			},
 			{
 				"name": "Power Plant",
+				"name_it-IT": "Centrale Elettrica",
 				"value": 34
 			},
 			{
@@ -1206,14 +1219,17 @@ var games = {
 			},
 			{
 				"name": "Seafoam Islands",
+				"name_it-IT": "Isole Spumarine",
 				"value": 37
 			},
 			{
 				"name": "Cinnabar Island",
+				"name_it-IT": "Isola Cannella",
 				"value": 38
 			},
 			{
 				"name": "Pokémon Mansion",
+				"name_it-IT": "Villa Pokémon",
 				"value": 39
 			},
 			{
@@ -1223,34 +1239,42 @@ var games = {
 			},
 			{
 				"name": "One Island",
+				"name_it-IT": "Primisola",
 				"value": 41
 			},
 			{
 				"name": "Treasure Beach",
+				"name_it-IT": "Riva del Tesoro",
 				"value": 42
 			},
 			{
 				"name": "Kindle Road",
+				"name_it-IT": "Via Vulcanica",
 				"value": 43
 			},
 			{
 				"name": "Mt. Ember",
+				"name_it-IT": "Monte Brace",
 				"value": 44
 			},
 			{
 				"name": "Cape Brink",
+				"name_it-IT": "Capo Estremo",
 				"value": 45
 			},
 			{
 				"name": "Three Isle Port",
+				"name_it-IT": "Porto Terzisola",
 				"value": 46
 			},
 			{
 				"name": "Bond Bridge",
+				"name_it-IT": "Ponte Abbraccio",
 				"value": 47
 			},
 			{
 				"name": "Berry Forest",
+				"name_it-IT": "Bosco Baccoso",
 				"value": 48
 			},
 			{
@@ -1260,82 +1284,102 @@ var games = {
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 50
 			},
 			{
 				"name": "Four Island",
+				"name_it-IT": "Quartisola",
 				"value": 51
 			},
 			{
 				"name": "Icefall Cave",
+				"name_it-IT": "Grotta Gelata",
 				"value": 52
 			},
 			{
 				"name": "Five Island",
+				"name_it-IT": "Quintisola",
 				"value": 53
 			},
 			{
 				"name": "Five Isle Meadow",
+				"name_it-IT": "Prato Quintisola",
 				"value": 54
 			},
 			{
 				"name": "Memorial Pillar",
+				"name_it-IT": "Colonna Rocciosa",
 				"value": 55
 			},
 			{
 				"name": "Water Labyrinth",
+				"name_it-IT": "Labirinto Marino",
 				"value": 56
 			},
 			{
 				"name": "Resort Gorgeous",
+				"name_it-IT": "Perla dei Mari",
 				"value": 57
 			},
 			{
 				"name": "Lost Cave",
+				"name_it-IT": "Grotta Sperduta",
 				"value": 58
 			},
 			{
 				"name": "Water Path",
+				"name_it-IT": "Via Marina",
 				"value": 59
 			},
 			{
 				"name": "Green Path",
+				"name_it-IT": "Via Verde",
 				"value": 60
 			},
 			{
 				"name": "Pattern Bush",
+				"name_it-IT": "Bosco Disegnato",
 				"value": 61
 			},
 			{
 				"name": "Outcast Island",
+				"name_it-IT": "Isola Solitaria",
 				"value": 62
 			},
 			{
 				"name": "Altering Cave",
+				"name_it-IT": "Grotta Mutevole",
 				"value": 63
 			},
 			{
 				"name": "Ruin Valley",
+				"name_it-IT": "Valle Antica",
 				"value": 64
 			},
 			{
 				"name": "Trainer Tower",
+				"name_it-IT": "Torre Allenatori",
 				"value": 65
 			},
 			{
 				"name": "Canyon Entrance",
+				"name_it-IT": "Ingresso Canyon",
 				"value": 66
 			},
 			{
 				"name": "Seavault Canyon",
+				"name_it-IT": "Canyon Seption",
 				"value": 67
 			},
 			{
 				"name": "Tanoby Ruins",
+				"name_it-IT": "Rovine Florabeto",
 				"value": 68
 			},
 			{
 				"name": "Cerulean Cave",
+				"name_it-IT": "Grotta Celeste",
 				"value": 69
 			}
 		]
