@@ -12,6 +12,7 @@ var games = {
 			},
 			{
 				"name": "Pallet Town",
+				"name_it-IT": "Biancavilla",
 				"value": 1
 			},
 			{
@@ -21,6 +22,7 @@ var games = {
 			},
 			{
 				"name": "Viridian City",
+				"name_it-IT": "Smeraldopoli",
 				"value": 3
 			},
 			{
@@ -35,6 +37,7 @@ var games = {
 			},
 			{
 				"name": "Viridian Forest",
+				"name_it-IT": "Bosco Smeraldo",
 				"value": 6
 			},
 			{
@@ -49,10 +52,12 @@ var games = {
 			},
 			{
 				"name": "Mt. Moon",
+				"name_it-IT": "Monte Luna",
 				"value": 9
 			},
 			{
 				"name": "Cerulean City",
+				"name_it-IT": "Celestopoli",
 				"value": 10
 			},
 			{
@@ -77,6 +82,7 @@ var games = {
 			},
 			{
 				"name": "Vermillion City",
+				"name_it-IT": "Aranciopoli",
 				"value": 15
 			},
 			{
@@ -86,6 +92,7 @@ var games = {
 			},
 			{
 				"name": "Diglett's Cave",
+				"name_it-IT": "Grotta Diglett",
 				"value": 17
 			},
 			{
@@ -100,10 +107,12 @@ var games = {
 			},
 			{
 				"name": "Rock Tunnel",
+				"name_it-IT": "Tunnel Roccioso",
 				"value": 20
 			},
 			{
 				"name": "Pokémon Tower",
+				"name_it-IT": "Torre Pokémon",
 				"value": 21
 			},
 			{
@@ -123,6 +132,7 @@ var games = {
 			},
 			{
 				"name": "Celadon City",
+				"name_it-IT": "Azzurropoli",
 				"value": 25
 			},
 			{
@@ -142,10 +152,12 @@ var games = {
 			},
 			{
 				"name": "Fuschia City",
+				"name_it-IT": "Fucsiapoli",
 				"value": 29
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 30
 			},
 			{
@@ -165,6 +177,7 @@ var games = {
 			},
 			{
 				"name": "Power Plant",
+				"name_it-IT": "Centrale Elettrica",
 				"value": 34
 			},
 			{
@@ -179,14 +192,17 @@ var games = {
 			},
 			{
 				"name": "Seafoam Islands",
+				"name_it-IT": "Isole Spumarine",
 				"value": 37
 			},
 			{
 				"name": "Cinnabar Island",
+				"name_it-IT": "Isola Cannella",
 				"value": 38
 			},
 			{
 				"name": "Pokémon Mansion",
+				"name_it-IT": "Villa Pokémon",
 				"value": 39
 			},
 			{
@@ -201,10 +217,12 @@ var games = {
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 42
 			},
 			{
 				"name": "Cerulean Cave",
+				"name_it-IT": "Grotta Celeste",
 				"value": 43
 			}
 		]
