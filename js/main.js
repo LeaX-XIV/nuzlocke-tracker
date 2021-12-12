@@ -2845,6 +2845,7 @@ var games = {
 			},
 			{
 				"name": "Aquacorde Town",
+				"name_it-IT": "Rio Acquerello",
 				"value": 1
 			},
 			{
@@ -2854,6 +2855,7 @@ var games = {
 			},
 			{
 				"name": "Santalune Forest",
+				"name_it-IT": "Bosco di Novartopoli",
 				"value": 3
 			},
 			{
@@ -2873,6 +2875,7 @@ var games = {
 			},
 			{
 				"name": "Lumiose City",
+				"name_it-IT": "Luminopoli",
 				"value": 7
 			},
 			{
@@ -2887,6 +2890,7 @@ var games = {
 			},
 			{
 				"name": "Parfum Palace",
+				"name_it-IT": "Reggia Aurea",
 				"value": 10
 			},
 			{
@@ -2896,10 +2900,12 @@ var games = {
 			},
 			{
 				"name": "Battle Chateau",
+				"name_it-IT": "Castello Lotta",
 				"value": 12
 			},
 			{
 				"name": "Connecting Cave",
+				"name_it-IT": "Grotta Trait d'Union",
 				"value": 13
 			},
 			{
@@ -2909,6 +2915,7 @@ var games = {
 			},
 			{
 				"name": "Ambrette Town",
+				"name_it-IT": "Petroglifari",
 				"value": 15
 			},
 			{
@@ -2918,10 +2925,12 @@ var games = {
 			},
 			{
 				"name": "Glittering Cave",
+				"name_it-IT": "Grotta dei Bagliori",
 				"value": 17
 			},
 			{
 				"name": "Cyllage City",
+				"name_it-IT": "Altoripoli",
 				"value": 18
 			},
 			{
@@ -2936,14 +2945,17 @@ var games = {
 			},
 			{
 				"name": "Reflection Cave",
+				"name_it-IT": "Grotta dei Riflessi",
 				"value": 21
 			},
 			{
 				"name": "Shalour City",
+				"name_it-IT": "Yantaropoli",
 				"value": 22
 			},
 			{
 				"name": "Tower of Mystery",
+				"name_it-IT": "Torre Maestra",
 				"value": 23
 			},
 			{
@@ -2953,6 +2965,7 @@ var games = {
 			},
 			{
 				"name": "Azure Bay",
+				"name_it-IT": "Baia Azzurra",
 				"value": 25
 			},
 			{
@@ -2967,6 +2980,7 @@ var games = {
 			},
 			{
 				"name": "Laverre City",
+				"name_it-IT": "Romantopoli",
 				"value": 28
 			},
 			{
@@ -2976,6 +2990,7 @@ var games = {
 			},
 			{
 				"name": "Lost Hotel",
+				"name_it-IT": "Albergo Diroccato",
 				"value": 30
 			},
 			{
@@ -2985,6 +3000,7 @@ var games = {
 			},
 			{
 				"name": "Frost Cavern",
+				"name_it-IT": "Caverna Gelata",
 				"value": 32
 			},
 			{
@@ -2994,6 +3010,7 @@ var games = {
 			},
 			{
 				"name": "Team Flare Secret HQ",
+				"name_it-IT": "Covo del Team Flare",
 				"value": 34
 			},
 			{
@@ -3003,6 +3020,7 @@ var games = {
 			},
 			{
 				"name": "Couriway Town",
+				"name_it-IT": "Ponte Mosaico",
 				"value": 36
 			},
 			{
@@ -3017,6 +3035,7 @@ var games = {
 			},
 			{
 				"name": "Pokémon Village",
+				"name_it-IT": "Valle dei Pokémon",
 				"value": 39
 			},
 			{
@@ -3026,18 +3045,22 @@ var games = {
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 41
 			},
 			{
 				"name": "Terminus Cave",
+				"name_it-IT": "Grotta Climax",
 				"value": 42
 			},
 			{
 				"name": "Sea Spirit's Den",
+				"name_it-IT": "Antro Talassico",
 				"value": 43
 			},
 			{
 				"name": "Friend Safari",
+				"name_it-IT": "Safari Amici",
 				"value": 44
 			}
 		]
