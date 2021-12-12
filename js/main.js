@@ -2,6 +2,7 @@ var games = {
 	'rby': {
 		'id': 'rby',
 		'title': 'Red, Blue and Yellow',
+		"title_it-IT": "Rosso, Blu e Giallo",
 		'nameLimit': 10,
 		'dexLimit': 151,
 		'loaded': false,
@@ -230,6 +231,7 @@ var games = {
 	'gsc': {
 		'id': 'gsc',
 		'title': 'Gold, Silver and Crystal',
+		"title_it-IT": "Oro, Argento e Cristallo",
 		'nameLimit': 10,
 		'dexLimit': 251,
 		'loaded': false,
@@ -673,6 +675,7 @@ var games = {
 	'rse': {
 		'id': 'rse',
 		'title': 'Ruby, Sapphire and Emerald',
+		"title_it-IT": "Rubino, Zaffiro e Smeraldo",
 		'nameLimit': 10,
 		'dexLimit': 386,
 		'loaded': false,
@@ -1030,6 +1033,7 @@ var games = {
 	'frlg': {
 		'id': 'frlg',
 		'title': 'FireRed and LeafGreen',
+		"title_it-IT": "Rosso Fuoco e Verde Foglia",
 		'nameLimit': 10,
 		'dexLimit': 386,
 		'loaded': false,
@@ -1388,6 +1392,7 @@ var games = {
 	'dpp': {
 		'id': 'dpp',
 		'title': 'Diamond, Pearl and Platinum',
+		"title_it-IT": "Diamante, Perla e Platino",
 		'nameLimit': 10,
 		'dexLimit': 493,
 		'loaded': false,
@@ -1766,6 +1771,7 @@ var games = {
 	'hgss': {
 		'id': 'hgss',
 		'title': 'HeartGold and SoulSilver',
+		"title_it-IT": "HeartGold e SoulSilver",
 		'nameLimit': 10,
 		'dexLimit': 493,
 		'loaded': false,
@@ -2249,6 +2255,7 @@ var games = {
 	'bw': {
 		'id': 'bw',
 		'title': 'Black and White',
+		"title_it-IT": "Nero e Bianco",
 		'nameLimit': 10,
 		'dexLimit': 649,
 		'loaded': false,
@@ -2502,6 +2509,7 @@ var games = {
 	'bw2': {
 		'id': 'bw2',
 		'title': 'Black 2 and White 2',
+		"title_it-IT": "Nero 2 e Bianco 2",
 		'nameLimit': 10,
 		'dexLimit': 649,
 		'loaded': false,
@@ -2835,6 +2843,7 @@ var games = {
 	'xy': {
 		'id': 'xy',
 		'title': 'X and Y',
+		"title_it-IT": "X e Y",
 		'nameLimit': 12,
 		'dexLimit': 721,
 		'loaded': false,
@@ -3068,6 +3077,7 @@ var games = {
 	'oras': {
 		'id': 'oras',
 		'title': 'Omega Ruby and Alpha Sapphire',
+		"title_it-IT": "Rubino Omega e Zaffiro Alpha",
 		'nameLimit': 12,
 		'dexLimit': 721,
 		'loaded': false,
@@ -3471,6 +3481,7 @@ var games = {
 	'sm': {
 		'id': 'sm',
 		'title': 'Sun and Moon',
+		"title_it-IT": "Sole e Luna",
 		'nameLimit': 12,
 		'dexLimit': 802,
 		'loaded': false,
@@ -3829,6 +3840,7 @@ var games = {
 	'usum': {
 		'id': 'usum',
 		'title': 'Ultra Sun and Ultra Moon',
+		"title_it-IT": "Ultrasole e Ultraluna",
 		'nameLimit': 12,
 		'dexLimit': 807,
 		'loaded': false,
@@ -4192,6 +4204,7 @@ var games = {
 	'swsh': {
 		'id': 'swsh',
 		'title': 'Sword and Shield',
+		"title_it-IT": "Spada e Scudo",
 		'nameLimit': 12,
 		'dexLimit': 898,
 		'loaded': false,
@@ -4566,6 +4579,7 @@ var games = {
 	'custom': {
 		'id': 'custom',
 		'title': 'Custom Game',
+		"title_it-IT": "Gioco Personalizzato",
 		'nameLimit': 12,
 		'dexLimit': 898,
 		'loaded': false,
@@ -9324,12 +9338,10 @@ function escapeHTML(str, jsContext) {
 	return string;
 }
 
-function localizeLocation(location) {
-	var locale = navigator.language;
+function localize(obj, field, locale = navigator.language) {
+	if(obj[field + '_' + locale]) return obj[field + '_' + locale];
 
-	if(location['name_' + locale]) return location['name_' + locale];
-
-	return location.name;
+	return obj[field];
 }
 
 function renderMain() {
@@ -9337,12 +9349,12 @@ function renderMain() {
 	var segmentsString = '';
 
 	for(var game in games) {
-		linksString += '<a class="item" data-tab="' + games[game].id + '">' + games[game].title + '</a>';
+		linksString += '<a class="item" data-tab="' + games[game].id + '">' + localize(games[game], 'title') + '</a>';
 
 		segmentsString += '<div class="ui bottom attached segment tab" data-tab="' + games[game].id + '">' +
 			'<div class="ui secondary stackable menu">' +
 			'<div class="horizontally fitted item">' +
-			'<h2 class="ui header">' + games[game].title + '</h2>' +
+			'<h2 class="ui header">' + localize(games[game], 'title') + '</h2>' +
 			'</div>' +
 			'<div class="right horizontally fitted item">' +
 			'<button class="ui basic fluid button addLocation"><i class="plus icon"></i>Add location</button>' +
@@ -9392,7 +9404,7 @@ function renderLocations(game, darkTheme) {
 		var locationValue = escapeHTML(location.value);
 
 		string += '<tr' + (location.order !== undefined ? ' class="customLocation"' : '') + '>' +
-			'<td data-sort-value="' + index + '">' + '<div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic show-sm float-right singleReset icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div>' + escapeHTML(localizeLocation(location)) + '</td>' +
+			'<td data-sort-value="' + index + '">' + '<div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic show-sm float-right singleReset icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div>' + escapeHTML(localize(location, 'name')) + '</td>' +
 			'<td data-sort-value="' + escapeHTML(localStorage.getItem(game.id + location.value + '-encounter')) + '">' +
 			'<div data-name="' + (localStorage.getItem(game.id + location.value + '-name') ? escapeHTML(localStorage.getItem(game.id + location.value + '-name')) : '') + '" id="' + game.id + locationValue + '-encounter" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid search selection long dropdown encounter-picker">' +
 			'<input value="' + (localStorage.getItem(game.id + location.value + '-encounter') ? escapeHTML(localStorage.getItem(game.id + location.value + '-encounter'), true) : '') + '" name="pokemon" type="hidden">' +
@@ -9799,7 +9811,7 @@ function updateLocationDropdown() {
 	var locations = [];
 
 	games[selectedGame].locations.forEach(function(location) {
-		locations.push({ 'name': 'After ' + escapeHTML(localizeLocation(location)), 'value': location.value });
+		locations.push({ 'name': 'After ' + escapeHTML(localize(location, 'name')), 'value': location.value });
 	});
 
 	$('#locationOrder').dropdown('change values', locations);
