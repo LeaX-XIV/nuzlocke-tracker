@@ -9376,9 +9376,9 @@ function renderMain() {
 		'</div>' +
 		'</div>' +
 		'<div class="right horizontally fitted item dataControls">' +
-		'<button id="saveData" class="ui green button"><i class="download icon"></i>Export</button>' +
+		'<button id="saveData" class="ui green button"><i class="upload icon"></i>Export</button>' +
 		'<input id="fileLoader" accept=".json, application/json" type="file">' +
-		'<label id="loadData" class="ui blue button fileInput" for="fileLoader"><i class="upload icon"></i>Import</label>' +
+		'<label id="loadData" class="ui blue button fileInput" for="fileLoader"><i class="download icon"></i>Import</label>' +
 		'<button id="resetData" class="ui red button"><i class="remove icon"></i>Reset</button>' +
 		'</div>' +
 		'</div>' +
