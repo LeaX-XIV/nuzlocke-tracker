@@ -873,7 +873,7 @@ var games = {
 			},
 			{
 				"name": "Mt. Pyre",
-				"name_it-IT": "monte Pira",
+				"name_it-IT": "Monte Pira",
 				"value": 39
 			},
 			{
@@ -883,7 +883,7 @@ var games = {
 			},
 			{
 				"name": "Team Magma Hideout (Emerald)",
-				"name_it-IT": "Rifugio Magma",
+				"name_it-IT": "Rifugio Magma (Smeraldo)",
 				"value": 41
 			},
 			{
@@ -1008,7 +1008,7 @@ var games = {
 			},
 			{
 				"name": "Victory Road",
-				"name_it-IT": "Via Vittoria",
+				"name_it-IT": "Iridopoli",
 				"value": 66
 			},
 			{
@@ -3078,6 +3078,7 @@ var games = {
 			},
 			{
 				"name": "Littleroot Town",
+				"name_it-IT": "Albanova",
 				"value": 1
 			},
 			{
@@ -3097,6 +3098,7 @@ var games = {
 			},
 			{
 				"name": "Petalburg City",
+				"name_it-IT": "Petalipoli",
 				"value": 5
 			},
 			{
@@ -3106,10 +3108,12 @@ var games = {
 			},
 			{
 				"name": "Petalburg Woods",
+				"name_it-IT": "Bosco Petalo",
 				"value": 7
 			},
 			{
 				"name": "Rustboro City",
+				"name_it-IT": "Ferrugipoli",
 				"value": 8
 			},
 			{
@@ -3124,10 +3128,12 @@ var games = {
 			},
 			{
 				"name": "Rusturf Tunnel",
+				"name_it-IT": "Tunnel Menferro",
 				"value": 11
 			},
 			{
 				"name": "Dewford Town",
+				"name_it-IT": "Bluruvia",
 				"value": 12
 			},
 			{
@@ -3137,6 +3143,7 @@ var games = {
 			},
 			{
 				"name": "Granite Cave",
+				"name_it-IT": "Grotta Pietrosa",
 				"value": 14
 			},
 			{
@@ -3146,6 +3153,7 @@ var games = {
 			},
 			{
 				"name": "Slateport City",
+				"name_it-IT": "Porto Selcepoli",
 				"value": 16
 			},
 			{
@@ -3155,10 +3163,12 @@ var games = {
 			},
 			{
 				"name": "Altering Cave",
+				"name_it-IT": "Grotta Mutevole",
 				"value": 18
 			},
 			{
 				"name": "New Mauville",
+				"name_it-IT": "Ciclanova",
 				"value": 19
 			},
 			{
@@ -3178,6 +3188,7 @@ var games = {
 			},
 			{
 				"name": "Fiery Path",
+				"name_it-IT": "Cammino Ardente",
 				"value": 23
 			},
 			{
@@ -3192,14 +3203,17 @@ var games = {
 			},
 			{
 				"name": "Meteor Falls",
+				"name_it-IT": "Cascate Meteora",
 				"value": 26
 			},
 			{
 				"name": "Jagged Pass",
+				"name_it-IT": "Passo Selvaggio",
 				"value": 27
 			},
 			{
 				"name": "Lavaridge Town",
+				"name_it-IT": "Cuordilava",
 				"value": 28
 			},
 			{
@@ -3209,6 +3223,7 @@ var games = {
 			},
 			{
 				"name": "Southern Island",
+				"name_it-IT": "Isola Remota",
 				"value": 30
 			},
 			{
@@ -3218,6 +3233,7 @@ var games = {
 			},
 			{
 				"name": "Fortree City",
+				"name_it-IT": "Forestopoli",
 				"value": 32
 			},
 			{
@@ -3232,10 +3248,12 @@ var games = {
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 35
 			},
 			{
 				"name": "Lilycove City",
+				"name_it-IT": "Porto Alghepoli",
 				"value": 36
 			},
 			{
@@ -3245,6 +3263,7 @@ var games = {
 			},
 			{
 				"name": "Mt. Pyre",
+				"name_it-IT": "Monte Pira",
 				"value": 38
 			},
 			{
@@ -3254,6 +3273,7 @@ var games = {
 			},
 			{
 				"name": "Team Aqua/Magma Hideout Entrance",
+				"name_it-IT": "Rifugio Idro/Magma",
 				"value": 40
 			},
 			{
@@ -3263,6 +3283,7 @@ var games = {
 			},
 			{
 				"name": "Mossdeep City",
+				"name_it-IT": "Verdeazzupoli",
 				"value": 42
 			},
 			{
@@ -3272,6 +3293,7 @@ var games = {
 			},
 			{
 				"name": "Shoal Cave",
+				"name_it-IT": "Grotta Ondosa",
 				"value": 44
 			},
 			{
@@ -3286,6 +3308,7 @@ var games = {
 			},
 			{
 				"name": "Seafloor Cavern",
+				"name_it-IT": "Antro Abissale",
 				"value": 47
 			},
 			{
@@ -3295,14 +3318,17 @@ var games = {
 			},
 			{
 				"name": "Sootopolis City",
+				"name_it-IT": "Ceneride",
 				"value": 49
 			},
 			{
 				"name": "Cave of Origin",
+				"name_it-IT": "Grotta dei Tempi",
 				"value": 50
 			},
 			{
 				"name": "Soaring",
+				"name_it-IT": "Ipersfera",
 				"value": 51
 			},
 			{
@@ -3322,14 +3348,17 @@ var games = {
 			},
 			{
 				"name": "Sky Pillar",
+				"name_it-IT": "Torre dei Cieli",
 				"value": 55
 			},
 			{
 				"name": "Pacifidlog Town",
+				"name_it-IT": "Orocea",
 				"value": 56
 			},
 			{
 				"name": "Mirage Island",
+				"name_it-IT": "Isola Miraggio",
 				"value": 57
 			},
 			{
@@ -3344,6 +3373,7 @@ var games = {
 			},
 			{
 				"name": "Abandoned Ship",
+				"name_it-IT": "Vecchia Nave",
 				"value": 60
 			},
 			{
@@ -3368,58 +3398,72 @@ var games = {
 			},
 			{
 				"name": "Ever Grande City",
+				"name_it-IT": "Iridopoli",
 				"value": 65
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Iridopoli",
 				"value": 66
 			},
 			{
 				"name": "S.S. Tidal",
+				"name_it-IT": "Motonave Marea",
 				"value": 67
 			},
 			{
 				"name": "Pathless Plain",
+				"name_it-IT": "Piana Senza Nome",
 				"value": 68
 			},
 			{
 				"name": "Nameless Cavern",
+				"name_it-IT": "Caverna Ignota",
 				"value": 69
 			},
 			{
 				"name": "Fabled Cave",
+				"name_it-IT": "Grotta Sfuggente",
 				"value": 70
 			},
 			{
 				"name": "Gnarled Den",
+				"name_it-IT": "Fossa Informe",
 				"value": 71
 			},
 			{
 				"name": "Trackless Forest",
+				"name_it-IT": "Foresta Vergine",
 				"value": 72
 			},
 			{
 				"name": "Crescent Isle",
+				"name_it-IT": "Isola Arcodiluna",
 				"value": 73
 			},
 			{
 				"name": "Battle Resort",
+				"name_it-IT": "Resort Lotta",
 				"value": 74
 			},
 			{
 				"name": "Mirage Cave",
+				"name_it-IT": "Grotta Miraggio",
 				"value": 75
 			},
 			{
 				"name": "Mirage Forest",
+				"name_it-IT": "Selva Miraggio",
 				"value": 76
 			},
 			{
 				"name": "Mirage Island",
+				"name_it-IT": "Isola Miraggio",
 				"value": 77
 			},
 			{
 				"name": "Mirage Mountain",
+				"name_it-IT": "Monte Miraggio",
 				"value": 78
 			}
 		]
