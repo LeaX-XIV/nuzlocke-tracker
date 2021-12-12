@@ -3776,7 +3776,7 @@ var games = {
 			},
 			{
 				"name": "Poni Grove",
-				"name_it-IT": "Firesta di Poni",
+				"name_it-IT": "Foresta di Poni",
 				"value": 60
 			},
 			{
@@ -3839,10 +3839,12 @@ var games = {
 			},
 			{
 				"name": "Hau'oli Outskirts",
+				"name_it-IT": "Periferia di Hau'oli",
 				"value": 1
 			},
 			{
 				"name": "Iki Town",
+				"name_it-IT": "Lili",
 				"value": 2
 			},
 			{
@@ -3852,10 +3854,12 @@ var games = {
 			},
 			{
 				"name": "Melemele Sea",
+				"name_it-IT": "Mare di Mele-Mele",
 				"value": 4
 			},
 			{
 				"name": "Hau'oli City",
+				"name_it-IT": "Hau'oli",
 				"value": 5
 			},
 			{
@@ -3865,14 +3869,17 @@ var games = {
 			},
 			{
 				"name": "Berry Fields",
+				"name_it-IT": "Orto delle Bacche",
 				"value": 7
 			},
 			{
 				"name": "Verdant Cavern",
+				"name_it-IT": "Grotta Sottobosco",
 				"value": 8
 			},
 			{
 				"name": "Hau'oli Cemetery",
+				"name_it-IT": "Cimitero di Hau'oli",
 				"value": 9
 			},
 			{
@@ -3882,22 +3889,27 @@ var games = {
 			},
 			{
 				"name": "Melemele Meadow",
+				"name_it-IT": "Prato Mele Mele",
 				"value": 11
 			},
 			{
 				"name": "Seaward Cave",
+				"name_it-IT": "Grotta Pratomare",
 				"value": 12
 			},
 			{
 				"name": "Kala'e Bay",
+				"name_it-IT": "Baia Kala'e",
 				"value": 13
 			},
 			{
 				"name": "Ten Carat Hill",
+				"name_it-IT": "Collina Diecicarati",
 				"value": 14
 			},
 			{
 				"name": "Hano Beach",
+				"name_it-IT": "Spiaggia Hanu Hanu",
 				"value": 15
 			},
 			{
@@ -3907,10 +3919,12 @@ var games = {
 			},
 			{
 				"name": "Paniola Town",
+				"name_it-IT": "Ohana",
 				"value": 17
 			},
 			{
 				"name": "Paniola Ranch",
+				"name_it-IT": "Fattoria Ohana",
 				"value": 18
 			},
 			{
@@ -3920,6 +3934,7 @@ var games = {
 			},
 			{
 				"name": "Brooklet Hill",
+				"name_it-IT": "Collina Scrosciante",
 				"value": 20
 			},
 			{
@@ -3934,10 +3949,12 @@ var games = {
 			},
 			{
 				"name": "Wela Volcano Park",
+				"name_it-IT": "Parco Vulcano Wela",
 				"value": 23
 			},
 			{
 				"name": "Dividing Peak Tunnel",
+				"name_it-IT": "Tunnel del Vulcano",
 				"value": 24
 			},
 			{
@@ -3947,14 +3964,17 @@ var games = {
 			},
 			{
 				"name": "Fossil Restoration Center",
+				"name_it-IT": "Centro Ristorazione Fossili",
 				"value": 26
 			},
 			{
 				"name": "Lush Jungle",
+				"name_it-IT": "Giungla Ombrosa",
 				"value": 27
 			},
 			{
 				"name": "Diglett's Tunnel",
+				"name_it-IT": "Tunnel Diglett",
 				"value": 28
 			},
 			{
@@ -3964,22 +3984,27 @@ var games = {
 			},
 			{
 				"name": "Konikoni City",
+				"name_it-IT": "Konikoni",
 				"value": 30
 			},
 			{
 				"name": "Memorial Hill",
+				"name_it-IT": "Colle della Memoria",
 				"value": 31
 			},
 			{
 				"name": "Akala Outskirts",
+				"name_it-IT": "Punta Akala",
 				"value": 32
 			},
 			{
 				"name": "Malie City",
+				"name_it-IT": "Malie",
 				"value": 33
 			},
 			{
 				"name": "Malie Garden",
+				"name_it-IT": "Giardino di Malie",
 				"value": 34
 			},
 			{
@@ -3989,6 +4014,7 @@ var games = {
 			},
 			{
 				"name": "Mount Hokulani",
+				"name_it-IT": "Picco Hokulani",
 				"value": 36
 			},
 			{
@@ -4003,10 +4029,12 @@ var games = {
 			},
 			{
 				"name": "Secluded Shore",
+				"name_it-IT": "Lido di Ula-Ula",
 				"value": 39
 			},
 			{
 				"name": "Blush Mountain",
+				"name_it-IT": "Monte Tepore",
 				"value": 40
 			},
 			{
@@ -4016,10 +4044,12 @@ var games = {
 			},
 			{
 				"name": "Haina Desert",
+				"name_it-IT": "Deserto Haina",
 				"value": 42
 			},
 			{
 				"name": "Tapu Village",
+				"name_it-IT": "Villaggio Tapu",
 				"value": 43
 			},
 			{
@@ -4029,6 +4059,7 @@ var games = {
 			},
 			{
 				"name": "Aether House",
+				"name_it-IT": "Residenza Æther",
 				"value": 45
 			},
 			{
@@ -4038,6 +4069,7 @@ var games = {
 			},
 			{
 				"name": "Thrifty Megamart",
+				"name_it-IT": "Supermercato Affaroni",
 				"value": 47
 			},
 			{
@@ -4046,11 +4078,13 @@ var games = {
 				"value": 48
 			},
 			{
+				"name_it-IT": "Prato Ula Ula",
 				"name": "Ula'ula Meadow",
 				"value": 49
 			},
 			{
 				"name": "Lake of the Moone/Sunne",
+				"name_it-IT": "Lago Lunare/Solare",
 				"value": 50
 			},
 			{
@@ -4060,78 +4094,97 @@ var games = {
 			},
 			{
 				"name": "Shady House",
+				"name_it-IT": "Villa Losca",
 				"value": 52
 			},
 			{
 				"name": "Seafolk Village",
+				"name_it-IT": "Villaggio del Mare",
 				"value": 53
 			},
 			{
 				"name": "Poni Wilds",
+				"name_it-IT": "Piana di Poni",
 				"value": 54
 			},
 			{
 				"name": "Ancient Poni Path",
+				"name_it-IT": "Via Antica di Poni",
 				"value": 55
 			},
 			{
 				"name": "Poni Breaker Coast",
+				"name_it-IT": "Scogliera Poni",
 				"value": 56
 			},
 			{
 				"name": "Exeggutor Island",
+				"name_it-IT": "Isola Exeggutor",
 				"value": 57
 			},
 			{
 				"name": "Vast Poni Canyon",
+				"name_it-IT": "Canyon di Poni",
 				"value": 58
 			},
 			{
 				"name": "Altar of the Moone/Sunne",
+				"name_it-IT": "Altare Lunare/Solare",
 				"value": 59
 			},
 			{
 				"name": "Mount Lanakila",
+				"name_it-IT": "Monte Lanakila",
 				"value": 60
 			},
 			{
 				"name": "Poni Grove",
+				"name_it-IT": "Foresta di Poni",
 				"value": 61
 			},
 			{
 				"name": "Poni Plains",
+				"name_it-IT": "Prateria di Poni",
 				"value": 62
 			},
 			{
 				"name": "Poni Meadow",
+				"name_it-IT": "Prato Poni",
 				"value": 63
 			},
 			{
 				"name": "Resolution Cave",
+				"name_it-IT": "Caverna Climax",
 				"value": 64
 			},
 			{
 				"name": "Poni Coast",
+				"name_it-IT": "Costa di Poni",
 				"value": 65
 			},
 			{
 				"name": "Poni Gauntlet",
+				"name_it-IT": "Erta di Poni",
 				"value": 66
 			},
 			{
 				"name": "Ruins of Conflict",
+				"name_it-IT": "Tempio del Conflitto",
 				"value": 67
 			},
 			{
 				"name": "Ruins of Life",
+				"name_it-IT": "Tempio della Vita",
 				"value": 68
 			},
 			{
 				"name": "Ruins of Abundance",
+				"name_it-IT": "Tempio del Raccolto",
 				"value": 69
 			},
 			{
 				"name": "Ruins of Hope",
+				"name_it-IT": "Tempio del Passaggio",
 				"value": 70
 			}
 		]
