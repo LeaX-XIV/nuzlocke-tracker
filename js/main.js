@@ -4202,6 +4202,7 @@ var games = {
 			},
 			{
 				"name": "Slumbering Weald",
+				"name_it-IT": "Bosco Assopito",
 				"value": 1
 			},
 			{
@@ -4211,6 +4212,7 @@ var games = {
 			},
 			{
 				"name": "Wedgehurst",
+				"name_it-IT": "Brassbury",
 				"value": 3
 			},
 			{
@@ -4220,38 +4222,47 @@ var games = {
 			},
 			{
 				"name": "Wild Area: Rolling Fields",
+				"name_it-IT": "Pianura Serena",
 				"value": 5
 			},
 			{
 				"name": "Wild Area: Dappled Grove",
+				"name_it-IT": "Boschetto Ombraluce",
 				"value": 6
 			},
 			{
 				"name": "Wild Area: West Lake Axewell",
+				"name_it-IT": "Lago Axew (ovest)",
 				"value": 7
 			},
 			{
 				"name": "Wild Area: Watchtower Ruins",
+				"name_it-IT": "Torre Diroccata",
 				"value": 8
 			},
 			{
 				"name": "Wild Area: East Lake Axewell",
+				"name_it-IT": "Lago Axew (est)",
 				"value": 9
 			},
 			{
 				"name": "Wild Area: South Lake Miloch",
+				"name_it-IT": "Lago Milotic (sud)",
 				"value": 10
 			},
 			{
 				"name": "Wild Area: Giant's Seat",
+				"name_it-IT": "Sedia del Gigante",
 				"value": 11
 			},
 			{
 				"name": "Wild Area: North Lake Miloch",
+				"name_it-IT": "Lago Milotic (nord)",
 				"value": 12
 			},
 			{
 				"name": "Motostoke",
+				"name_it-IT": "Steamington",
 				"value": 13
 			},
 			{
@@ -4261,6 +4272,7 @@ var games = {
 			},
 			{
 				"name": "Galar Mine",
+				"name_it-IT": "Miniera di Galar",
 				"value": 15
 			},
 
@@ -4276,50 +4288,62 @@ var games = {
 			},
 			{
 				"name": "Hulbury",
+				"name_it-IT": "Keelford",
 				"value": 18
 			},
 			{
 				"name": "Galar Mine No. 2",
+				"name_it-IT": "Miniera 2",
 				"value": 19
 			},
 			{
 				"name": "Motostoke Outskirts",
+				"name_it-IT": "Perif. Steamington",
 				"value": 20
 			},
 			{
 				"name": "Motostoke Stadium",
+				"name_it-IT": "Stadio Steamington",
 				"value": 21
 			},
 			{
 				"name": "Wild Area: Motostoke Riverbank",
+				"name_it-IT": "Fiume di Steamington",
 				"value": 22
 			},
 			{
 				"name": "Wild Area: Bridge Field",
+				"name_it-IT": "Piana dei Ponti",
 				"value": 23
 			},
 			{
 				"name": "Wild Area: Stony Wilderness",
+				"name_it-IT": "Landa delle Pietre",
 				"value": 24
 			},
 			{
 				"name": "Wild Area: Giant's Mirror",
+				"name_it-IT": "Specchio del Gigante",
 				"value": 25
 			},
 			{
 				"name": "Wild Area: Dusty Bowl",
+				"name_it-IT": "Conca delle Sabbie",
 				"value": 26
 			},
 			{
 				"name": "Wild Area: Giant's Cap",
+				"name_it-IT": "Berretto del Gigante",
 				"value": 27
 			},
 			{
 				"name": "Wild Area: Hammerlocke Hills",
+				"name_it-IT": "Colle Knuckleburgh",
 				"value": 28
 			},
 			{
 				"name": "Wild Area: Lake of Outrage",
+				"name_it-IT": "Lago Dragofuria",
 				"value": 29
 			},
 			{
@@ -4329,10 +4353,12 @@ var games = {
 			},
 			{
 				"name": "Glimwood Tangle",
+				"name_it-IT": "Bosco Brillabirinto",
 				"value": 31
 			},
 			{
-				"name": "Router 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 32
 			},
 			{
@@ -4347,154 +4373,192 @@ var games = {
 			},
 			{
 				"name": "Wild Area: Axew's Eye",
+				"name_it-IT": "Occhio del Lago Axew",
 				"value": 35
 			},
 			{
 				"name": "Isle of Armor: Fields of Honor",
+				"name_it-IT": "Pianura Inchino",
 				"value": 36
 			},
 			{
 				"name": "Isle of Armor: Soothing Wetlands",
+				"name_it-IT": "Acquitrino Fresco",
 				"value": 37
 			},
 			{
 				"name": "Isle of Armor: Forest of Focus",
+				"name_it-IT": "Bosco Concentrazione",
 				"value": 38
 			},
 			{
 				"name": "Isle of Armor: Challenge Beach",
+				"name_it-IT": "Spiaggia Sfida",
 				"value": 39
 			},
 			{
 				"name": "Isle of Armor: Brawlers' Cave",
+				"name_it-IT": "Antro Scontro",
 				"value": 40
 			},
 			{
 				"name": "Isle of Armor: Challenge Road",
+				"name_it-IT": "Cammino Sfida",
 				"value": 41
 			},
 			{
 				"name": "Isle of Armor: Courageous Cavern",
+				"name_it-IT": "Grotta Grinta",
 				"value": 42
 			},
 			{
 				"name": "Isle of Armor: Loop Lagoon",
+				"name_it-IT": "Baia Circolare",
 				"value": 43
 			},
 			{
 				"name": "Isle of Armor: Training Lowlands",
+				"name_it-IT": "Piana Addestramento",
 				"value": 44
 			},
 			{
 				"name": "Isle of Armor: Warm-Up Tunnel",
+				"name_it-IT": "Tunnel Riscaldamento",
 				"value": 45
 			},
 			{
 				"name": "Isle of Armor: Potbottom Desert",
+				"name_it-IT": "Deserto Paiolo",
 				"value": 46
 			},
 			{
 				"name": "Isle of Armor: Workout Sea",
+				"name_it-IT": "Mar Ginnico",
 				"value": 47
 			},
 			{
 				"name": "Isle of Armor: Stepping-Stone Sea",
+				"name_it-IT": "Mar Lineapelago",
 				"value": 48
 			},
 			{
 				"name": "Isle of Armor: Insular Sea",
+				"name_it-IT": "Mar Sperdipelago",
 				"value": 49
 			},
 			{
 				"name": "Isle of Armor: Honeycalm Sea",
+				"name_it-IT": "Mar Quietarnia",
 				"value": 50
 			},
 			{
 				"name": "Isle of Armor: Honeycalm Island",
+				"name_it-IT": "Isola Quietarnia",
 				"value": 51
 			},
 			{
 				"name": "Crown Tundra: Slippery Slope",
+				"name_it-IT": "Nevi Primoscivolo",
 				"value": 52
 			},
 			{
 				"name": "Crown Tundra: Freezington",
+				"name_it-IT": "Freezedale",
 				"value": 53
 			},
 			{
 				"name": "Crown Tundra: Max Lair",
+				"name_it-IT": "Dynatana max",
 				"value": 54
 			},
 			{
 				"name": "Crown Tundra: Frostpoint Field",
+				"name_it-IT": "Piana Sottozero",
 				"value": 55
 			},
 			{
 				"name": "Crown Tundra: Giant's Bed",
+				"name_it-IT": "Letto del Gigante",
 				"value": 56
 			},
 			{
 				"name": "Crown Tundra: Old Cemetery",
+				"name_it-IT": "Cimitero Antico",
 				"value": 57
 			},
 			{
 				"name": "Crown Tundra: Snowslide Slope",
+				"name_it-IT": "Valle Innevata",
 				"value": 58
 			},
 			{
 				"name": "Crown Tundra: Tunnel to the Top",
+				"name_it-IT": "Tunnel Scalata",
 				"value": 59
 			},
 			{
 				"name": "Crown Tundra: Path to the Peak",
+				"name_it-IT": "Sentiero Biancacima",
 				"value": 60
 			},
 			{
 				"name": "Crown Tundra: Crown Shrine",
+				"name_it-IT": "Tempio Corona",
 				"value": 61
 			},
 			{
 				"name": "Crown Tundra: Giant's Foot",
+				"name_it-IT": "Suola del Gigante",
 				"value": 62
 			},
 			{
 				"name": "Crown Tundra: Roaring-Sea Caves",
+				"name_it-IT": "Grotte Fragormare",
 				"value": 63
 			},
 			{
 				"name": "Crown Tundra: Frigrid Sea",
+				"name_it-IT": "Mar Gelido",
 				"value": 64
 			},
 			{
 				"name": "Crown Tundra: Three-Point Pass",
+				"name_it-IT": "Campo Trivio",
 				"value": 65
 			},
 			{
 				"name": "Crown Tundra: Ballimere Lake",
+				"name_it-IT": "Riva del Lago Ball",
 				"value": 66
 			},
 			{
 				"name": "Crown Tundra: Lakeside Cave",
+				"name_it-IT": "Grotta Rivalago",
 				"value": 67
 			},
 			{
 				"name": "Crown Tundra: Dyna Tree Hill",
+				"name_it-IT": "Collina Dynalbero",
 				"value": 68
 			},
 			{
 				"name": "Crown Tundra: Rock Peak Ruins",
+				"name_it-IT": "Rovine Picco",
 				"value": 69
 			},
 			{
 				"name": "Crown Tundra: Iceberg Ruins",
+				"name_it-IT": "Rovine Iceberg",
 				"value": 70
 			},
 			{
 				"name": "Crown Tundra: Iron Ruins",
+				"name_it-IT": "Rovine Ferro",
 				"value": 71
 			},
 			{
 				"name": "Crown Tundra: Split-Decision Ruins",
+				"name_it-IT": "Rovine della Scelta",
 				"value": 72
 			}
 		]
