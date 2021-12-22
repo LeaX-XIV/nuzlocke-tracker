@@ -2,6 +2,7 @@ var games = {
 	'rby': {
 		'id': 'rby',
 		'title': 'Red, Blue and Yellow',
+		"title_it-IT": "Rosso, Blu e Giallo",
 		'nameLimit': 10,
 		'dexLimit': 151,
 		'loaded': false,
@@ -12,174 +13,217 @@ var games = {
 			},
 			{
 				"name": "Pallet Town",
+				"name_it-IT": "Biancavilla",
 				"value": 1
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 2
 			},
 			{
 				"name": "Viridian City",
+				"name_it-IT": "Smeraldopoli",
 				"value": 3
 			},
 			{
 				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 4
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 5
 			},
 			{
 				"name": "Viridian Forest",
+				"name_it-IT": "Bosco Smeraldo",
 				"value": 6
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 7
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 8
 			},
 			{
 				"name": "Mt. Moon",
+				"name_it-IT": "Monte Luna",
 				"value": 9
 			},
 			{
 				"name": "Cerulean City",
+				"name_it-IT": "Celestopoli",
 				"value": 10
 			},
 			{
 				"name": "Route 24",
+				"name_it-IT": "Percorso 24",
 				"value": 11
 			},
 			{
 				"name": "Route 25",
+				"name_it-IT": "Percorso 25",
 				"value": 12
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 13
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 14
 			},
 			{
 				"name": "Vermillion City",
+				"name_it-IT": "Aranciopoli",
 				"value": 15
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 16
 			},
 			{
 				"name": "Diglett's Cave",
+				"name_it-IT": "Grotta Diglett",
 				"value": 17
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 18
 			},
 			{
 				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 19
 			},
 			{
 				"name": "Rock Tunnel",
+				"name_it-IT": "Tunnel Roccioso",
 				"value": 20
 			},
 			{
 				"name": "Pokémon Tower",
+				"name_it-IT": "Torre Pokémon",
 				"value": 21
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 22
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 23
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 24
 			},
 			{
 				"name": "Celadon City",
+				"name_it-IT": "Azzurropoli",
 				"value": 25
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 26
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 27
 			},
 			{
 				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 28
 			},
 			{
 				"name": "Fuschia City",
+				"name_it-IT": "Fucsiapoli",
 				"value": 29
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 30
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 31
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 32
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 33
 			},
 			{
 				"name": "Power Plant",
+				"name_it-IT": "Centrale Elettrica",
 				"value": 34
 			},
 			{
 				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 35
 			},
 			{
 				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 36
 			},
 			{
 				"name": "Seafoam Islands",
+				"name_it-IT": "Isole Spumarine",
 				"value": 37
 			},
 			{
 				"name": "Cinnabar Island",
+				"name_it-IT": "Isola Cannella",
 				"value": 38
 			},
 			{
 				"name": "Pokémon Mansion",
+				"name_it-IT": "Villa Pokémon",
 				"value": 39
 			},
 			{
 				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 40
 			},
 			{
 				"name": "Route 23",
+				"name_it-IT": "Percorso 23",
 				"value": 41
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 42
 			},
 			{
 				"name": "Cerulean Cave",
+				"name_it-IT": "Grotta Celeste",
 				"value": 43
 			}
 		]
@@ -187,6 +231,7 @@ var games = {
 	'gsc': {
 		'id': 'gsc',
 		'title': 'Gold, Silver and Crystal',
+		"title_it-IT": "Oro, Argento e Cristallo",
 		'nameLimit': 10,
 		'dexLimit': 251,
 		'loaded': false,
@@ -197,346 +242,432 @@ var games = {
 			},
 			{
 				"name": "New Bark Town",
+				"name_it-IT": "Borgo Foglianova",
 				"value": 1
 			},
 			{
 				"name": "Route 29",
+				"name_it-IT": "Percorso 29",
 				"value": 2
 			},
 			{
 				"name": "Cherrygrove City",
+				"name_it-IT": "Fiorpescopoli",
 				"value": 3
 			},
 			{
 				"name": "Route 30",
+				"name_it-IT": "Percorso 30",
 				"value": 4
 			},
 			{
 				"name": "Route 31",
+				"name_it-IT": "Percorso 31",
 				"value": 5
 			},
 			{
 				"name": "Dark Cave",
+				"name_it-IT": "Grotta Scura",
 				"value": 6
 			},
 			{
 				"name": "Violet City",
+				"name_it-IT": "Violapoli",
 				"value": 7
 			},
 			{
 				"name": "Sprout Tower",
+				"name_it-IT": "Torre Sprout",
 				"value": 8
 			},
 			{
 				"name": "Route 32",
+				"name_it-IT": "Percorso 32",
 				"value": 9
 			},
 			{
 				"name": "Ruins of Alph",
+				"name_it-IT": "Rovine d'Alfa",
 				"value": 10
 			},
 			{
 				"name": "Union Cave",
+				"name_it-IT": "Grotta di mezzo",
 				"value": 11
 			},
 			{
 				"name": "Route 33",
+				"name_it-IT": "Percorso 33",
 				"value": 12
 			},
 			{
 				"name": "Azalea Town",
+				"name_it-IT": "Azalina",
 				"value": 13
 			},
 			{
 				"name": "Slowpoke Well",
+				"name_it-IT": "Pozzo Slowpoke",
 				"value": 14
 			},
 			{
 				"name": "Ilex Forest",
+				"name_it-IT": "Bosco di Lecci",
 				"value": 15
 			},
 			{
 				"name": "Route 34",
+				"name_it-IT": "Percorso 34",
 				"value": 16
 			},
 			{
 				"name": "Goldenrod City",
+				"name_it-IT": "Fiordoropoli",
 				"value": 17
 			},
 			{
 				"name": "Route 35",
+				"name_it-IT": "Percorso 35",
 				"value": 18
 			},
 			{
 				"name": "National Park",
+				"name_it-IT": "Parco Nazionale",
 				"value": 19
 			},
 			{
 				"name": "Route 36",
+				"name_it-IT": "Percorso 36",
 				"value": 20
 			},
 			{
 				"name": "Route 37",
+				"name_it-IT": "Percorso 37",
 				"value": 21
 			},
 			{
 				"name": "Ecruteak City",
+				"name_it-IT": "Amarantopoli",
 				"value": 22
 			},
 			{
 				"name": "Burned Tower",
+				"name_it-IT": "Torre Bruciata",
 				"value": 23
 			},
 			{
 				"name": "Tin Tower",
+				"name_it-IT": "Torre di Latta",
 				"value": 24
 			},
 			{
 				"name": "Route 38",
+				"name_it-IT": "Percorso 38",
 				"value": 25
 			},
 			{
 				"name": "Route 39",
+				"name_it-IT": "Percorso 39",
 				"value": 26
 			},
 			{
 				"name": "Olivine City",
+				"name_it-IT": "Olivinopoli",
 				"value": 27
 			},
 			{
 				"name": "Route 40",
+				"name_it-IT": "Percorso 40",
 				"value": 28
 			},
 			{
 				"name": "Route 41",
+				"name_it-IT": "Percorso 41",
 				"value": 29
 			},
 			{
 				"name": "Whirl Islands",
+				"name_it-IT": "Isole Vorticose",
 				"value": 30
 			},
 			{
 				"name": "Cianwood City",
+				"name_it-IT": "Fiorlisopoli",
 				"value": 31
 			},
 			{
 				"name": "Route 42",
+				"name_it-IT": "Percorso 42",
 				"value": 32
 			},
 			{
 				"name": "Mt. Mortar",
+				"name_it-IT": "Monte Scodella",
 				"value": 33
 			},
 			{
 				"name": "Mahogany Town",
+				"name_it-IT": "Mogania",
 				"value": 34
 			},
 			{
 				"name": "Rocket Hideout",
+				"name_it-IT": "Covo Team Rocket",
 				"value": 35
 			},
 			{
 				"name": "Route 43",
+				"name_it-IT": "Percorso 43",
 				"value": 36
 			},
 			{
 				"name": "Lake of Rage",
+				"name_it-IT": "Lago d'Ira",
 				"value": 37
 			},
 			{
 				"name": "Route 44",
+				"name_it-IT": "Percorso 44",
 				"value": 38
 			},
 			{
 				"name": "Ice Path",
+				"name_it-IT": "Via Gelata",
 				"value": 39
 			},
 			{
 				"name": "Blackthorn City",
+				"name_it-IT": "Ebanopoli",
 				"value": 40
 			},
 			{
 				"name": "Dragon's Den",
+				"name_it-IT": "Tana del Drago",
 				"value": 41
 			},
 			{
 				"name": "Route 45",
+				"name_it-IT": "Percorso 45",
 				"value": 42
 			},
 			{
 				"name": "Dark Cave 2",
+				"name_it-IT": "Grotta Scura 2",
 				"value": 43
 			},
 			{
 				"name": "Route 46",
+				"name_it-IT": "Percorso 46",
 				"value": 44
 			},
 			{
 				"name": "Route 27",
+				"name_it-IT": "Percorso 27",
 				"value": 45
 			},
 			{
 				"name": "Tohjo Falls",
+				"name_it-IT": "Cascate Tohjo",
 				"value": 46
 			},
 			{
 				"name": "Route 26",
+				"name_it-IT": "Percorso 26",
 				"value": 47
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 48
 			},
 			{
 				"name": "Indigo Plateau",
+				"name_it-IT": "Altopiano Blu",
 				"value": 49
 			},
 			{
 				"name": "Vermillion City",
+				"name_it-IT": "Aranciopoli",
 				"value": 50
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 51
 			},
 			{
 				"name": "Saffron City",
+				"name_it-IT": "Zafferanopoli",
 				"value": 52
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 53
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 54
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 55
 			},
 			{
 				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 56
 			},
 			{
 				"name": "Rock Tunnel",
+				"name_it-IT": "Tunnel Roccioso",
 				"value": 57
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 58
 			},
 			{
 				"name": "Cerulean City",
+				"name_it-IT": "Celestopoli",
 				"value": 59
 			},
 			{
 				"name": "Route 24",
+				"name_it-IT": "Percorso 24",
 				"value": 60
 			},
 			{
 				"name": "Route 25",
+				"name_it-IT": "Percorso 25",
 				"value": 61
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 62
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 63
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 64
 			},
 			{
 				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 65
 			},
 			{
 				"name": "Fuschia City",
+				"name_it-IT": "Fucsiapoli",
 				"value": 66
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 67
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 68
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 69
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 70
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 71
 			},
 			{
 				"name": "Diglett's Cave",
+				"name_it-IT": "Caverna Diglett",
 				"value": 72
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 73
 			},
 			{
 				"name": "Pewter City",
+				"name_it-IT": "Plumbeopoli",
 				"value": 74
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 75
 			},
 			{
 				"name": "Mt. Moon",
+				"name_it-IT": "Monte Luna",
 				"value": 76
 			},
 			{
 				"name": "Viridian City",
+				"name_it-IT": "Smeraldopoli",
 				"value": 77
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 78
 			},
 			{
 				"name": "Pallet Town",
+				"name_it-IT": "Biancavilla",
 				"value": 79
 			},
 			{
 				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 80
 			},
 			{
 				"name": "Cinnabar Island",
+				"name_it-IT": "Isola Cannella",
 				"value": 81
 			},
 			{
 				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 82
 			},
 			{
 				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 83
 			},
 			{
 				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 84
 			},
 			{
 				"name": "Route 28",
+				"name_it-IT": "Percorso 28",
 				"value": 85
 			},
 			{
 				"name": "Mt. Silver",
+				"name_it-IT": "Monte Argento",
 				"value": 86
 			}
 		]
@@ -544,6 +675,7 @@ var games = {
 	'rse': {
 		'id': 'rse',
 		'title': 'Ruby, Sapphire and Emerald',
+		"title_it-IT": "Rubino, Zaffiro e Smeraldo",
 		'nameLimit': 10,
 		'dexLimit': 386,
 		'loaded': false,
@@ -554,284 +686,354 @@ var games = {
 			},
 			{
 				"name": "Littleroot Town",
+				"name_it-IT": "Albanova",
 				"value": 1
 			},
 			{
 				"name": "Route 101",
+				"name_it-IT": "Percorso 101",
 				"value": 2
 			},
 			{
 				"name": "Route 102",
+				"name_it-IT": "Percorso 102",
 				"value": 3
 			},
 			{
 				"name": "Route 103",
+				"name_it-IT": "Percorso 103",
 				"value": 4
 			},
 			{
 				"name": "Petalburg City",
+				"name_it-IT": "Petalipoli",
 				"value": 5
 			},
 			{
 				"name": "Route 104",
+				"name_it-IT": "Percorso 104",
 				"value": 6
 			},
 			{
 				"name": "Petalburg Woods",
+				"name_it-IT": "Bosco Petalo",
 				"value": 7
 			},
 			{
 				"name": "Rustboro City",
+				"name_it-IT": "Ferrugipoli",
 				"value": 8
 			},
 			{
 				"name": "Route 115",
+				"name_it-IT": "Percorso 115",
 				"value": 9
 			},
 			{
 				"name": "Route 116",
+				"name_it-IT": "Percorso 116",
 				"value": 10
 			},
 			{
 				"name": "Rusturf Tunnel",
+				"name_it-IT": "Tunnel Menferro",
 				"value": 11
 			},
 			{
 				"name": "Dewford Town",
+				"name_it-IT": "Bluruvia",
 				"value": 12
 			},
 			{
 				"name": "Route 106",
+				"name_it-IT": "Percorso 106",
 				"value": 13
 			},
 			{
 				"name": "Granite Cave",
+				"name_it-IT": "Grotta Pietrosa",
 				"value": 14
 			},
 			{
 				"name": "Route 107",
+				"name_it-IT": "Percorso 107",
 				"value": 15
 			},
 			{
 				"name": "Slateport City",
+				"name_it-IT": "Porto Selcepoli",
 				"value": 16
 			},
 			{
 				"name": "Route 110",
+				"name_it-IT": "Percorso 110",
 				"value": 17
 			},
 			{
 				"name": "Altering Cave",
+				"name_it-IT": "Grotta Mutevole",
 				"value": 18
 			},
 			{
 				"name": "New Mauville",
+				"name_it-IT": "Ciclanova",
 				"value": 19
 			},
 			{
 				"name": "Route 117",
+				"name_it-IT": "Percorso 117",
 				"value": 20
 			},
 			{
 				"name": "Route 111",
+				"name_it-IT": "Percorso 111",
 				"value": 21
 			},
 			{
 				"name": "Mirage Tower (Emerald)",
+				"name_it-IT": "Torre Miraggio (Smeraldo)",
 				"value": 22
 			},
 			{
 				"name": "Route 112",
+				"name_it-IT": "Percorso 112",
 				"value": 23
 			},
 			{
 				"name": "Fiery Path",
+				"name_it-IT": "Cammino Ardente",
 				"value": 24
 			},
 			{
 				"name": "Route 113",
+				"name_it-IT": "Percorso 113",
 				"value": 25
 			},
 			{
 				"name": "Route 114",
+				"name_it-IT": "Percorso 114",
 				"value": 26
 			},
 			{
 				"name": "Desert Underpass (Emerald)",
+				"name_it-IT": "Galleria Deserto (Smeraldo)",
 				"value": 27
 			},
 			{
 				"name": "Meteor Falls",
+				"name_it-IT": "Cascate Meteora",
 				"value": 28
 			},
 			{
 				"name": "Jagged Pass",
+				"name_it-IT": "Passo Selvaggio",
 				"value": 29
 			},
 			{
 				"name": "Lavaridge Town",
+				"name_it-IT": "Cuordilava",
 				"value": 30
 			},
 			{
 				"name": "Route 118",
+				"name_it-IT": "Percorso 118",
 				"value": 31
 			},
 			{
 				"name": "Route 119",
+				"name_it-IT": "Percorso 119",
 				"value": 32
 			},
 			{
 				"name": "Fortree City",
+				"name_it-IT": "Forestopoli",
 				"value": 33
 			},
 			{
 				"name": "Route 120",
+				"name_it-IT": "Percorso 120",
 				"value": 34
 			},
 			{
 				"name": "Route 121",
+				"name_it-IT": "Percorso 121",
 				"value": 35
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 36
 			},
 			{
 				"name": "Lilycove City",
+				"name_it-IT": "Porto Alghepoli",
 				"value": 37
 			},
 			{
 				"name": "Route 122",
+				"name_it-IT": "Percorso 122",
 				"value": 38
 			},
 			{
 				"name": "Mt. Pyre",
+				"name_it-IT": "Monte Pira",
 				"value": 39
 			},
 			{
 				"name": "Route 123",
+				"name_it-IT": "Percorso 123",
 				"value": 40
 			},
 			{
 				"name": "Team Magma Hideout (Emerald)",
+				"name_it-IT": "Rifugio Magma (Smeraldo)",
 				"value": 41
 			},
 			{
 				"name": "Route 124",
+				"name_it-IT": "Percorso 124",
 				"value": 42
 			},
 			{
 				"name": "Mossdeep City",
+				"name_it-IT": "Verdeazzupoli",
 				"value": 43
 			},
 			{
 				"name": "Route 125",
+				"name_it-IT": "Percorso 125",
 				"value": 44
 			},
 			{
 				"name": "Shoal Cave",
+				"name_it-IT": "Grotta Ondosa",
 				"value": 45
 			},
 			{
 				"name": "Route 127",
+				"name_it-IT": "Percorso 127",
 				"value": 46
 			},
 			{
 				"name": "Route 128",
+				"name_it-IT": "Percorso 128",
 				"value": 47
 			},
 			{
 				"name": "Seafloor Cavern",
+				"name_it-IT": "Antro Abissale",
 				"value": 48
 			},
 			{
 				"name": "Route 126",
+				"name_it-IT": "Percorso 126",
 				"value": 49
 			},
 			{
 				"name": "Sootopolis City",
+				"name_it-IT": "Ceneride",
 				"value": 50
 			},
 			{
 				"name": "Cave of Origin",
+				"name_it-IT": "Grotta dei Tempi",
 				"value": 51
 			},
 			{
 				"name": "Route 129",
+				"name_it-IT": "Percorso 129",
 				"value": 52
 			},
 			{
 				"name": "Route 130",
+				"name_it-IT": "Percorso 130",
 				"value": 53
 			},
 			{
 				"name": "Route 131",
+				"name_it-IT": "Percorso 131",
 				"value": 54
 			},
 			{
 				"name": "Sky Pillar",
+				"name_it-IT": "Torre dei Cieli",
 				"value": 55
 			},
 			{
 				"name": "Pacifidlog Town",
+				"name_it-IT": "Orocea",
 				"value": 56
 			},
 			{
 				"name": "Mirage Island",
+				"name_it-IT": "Isola Miraggio",
 				"value": 57
 			},
 			{
 				"name": "Route 105",
+				"name_it-IT": "Percorso 105",
 				"value": 58
 			},
 			{
 				"name": "Route 108",
+				"name_it-IT": "Percorso 108",
 				"value": 59
 			},
 			{
 				"name": "Abandoned Ship",
+				"name_it-IT": "Vecchia Nave",
 				"value": 60
 			},
 			{
 				"name": "Route 109",
+				"name_it-IT": "Percorso 109",
 				"value": 61
 			},
 			{
 				"name": "Route 132",
+				"name_it-IT": "Percorso 132",
 				"value": 62
 			},
 			{
 				"name": "Route 133",
+				"name_it-IT": "Percorso 133",
 				"value": 63
 			},
 			{
 				"name": "Route 134",
+				"name_it-IT": "Percorso 134",
 				"value": 64
 			},
 			{
 				"name": "Ever Grande City",
+				"name_it-IT": "Iridopoli",
 				"value": 65
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Iridopoli",
 				"value": 66
 			},
 			{
 				"name": "S.S. Tidal",
+				"name_it-IT": "M/N Marea",
 				"value": 67
 			},
 			{
 				"name": "Battle Frontier",
+				"name_it-IT": "Parco Lotta",
 				"value": 68
 			},
 			{
 				"name": "Artisan Cave",
+				"name_it-IT": "Grotta Artistica",
 				"value": 69
 			}]
 	},
 	'frlg': {
 		'id': 'frlg',
 		'title': 'FireRed and LeafGreen',
+		"title_it-IT": "Rosso Fuoco e Verde Foglia",
 		'nameLimit': 10,
 		'dexLimit': 386,
 		'loaded': false,
@@ -842,278 +1044,347 @@ var games = {
 			},
 			{
 				"name": "Pallet Town",
+				"name_it-IT": "Biancavilla",
 				"value": 1
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 2
 			},
 			{
 				"name": "Viridian City",
+				"name_it-IT": "Smeraldopoli",
 				"value": 3
 			},
 			{
 				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 4
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 5
 			},
 			{
 				"name": "Viridian Forest",
+				"name_it-IT": "Bosco Smeraldo",
 				"value": 6
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 7
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 8
 			},
 			{
 				"name": "Mt. Moon",
+				"name_it-IT": "Monte Luna",
 				"value": 9
 			},
 			{
 				"name": "Cerulean City",
+				"name_it-IT": "Celestopoli",
 				"value": 10
 			},
 			{
 				"name": "Route 24",
+				"name_it-IT": "Percorso 24",
 				"value": 11
 			},
 			{
 				"name": "Route 25",
+				"name_it-IT": "Percorso 25",
 				"value": 12
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 13
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 14
 			},
 			{
 				"name": "Vermillion City",
+				"name_it-IT": "Aranciopoli",
 				"value": 15
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 16
 			},
 			{
 				"name": "Diglett's Cave",
+				"name_it-IT": "Caverna Diglett",
 				"value": 17
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 18
 			},
 			{
 				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 19
 			},
 			{
 				"name": "Rock Tunnel",
+				"name_it-IT": "Tunnel Roccioso",
 				"value": 20
 			},
 			{
 				"name": "Pokémon Tower",
+				"name_it-IT": "Torre Pokémon",
 				"value": 21
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 22
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 23
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 24
 			},
 			{
 				"name": "Celadon City",
+				"name_it-IT": "Azzurropoli",
 				"value": 25
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 26
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 27
 			},
 			{
 				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 28
 			},
 			{
 				"name": "Fuschia City",
+				"name_it-IT": "Fucsiapoli",
 				"value": 29
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 30
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 31
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 32
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 33
 			},
 			{
 				"name": "Power Plant",
+				"name_it-IT": "Centrale Elettrica",
 				"value": 34
 			},
 			{
 				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 35
 			},
 			{
 				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 36
 			},
 			{
 				"name": "Seafoam Islands",
+				"name_it-IT": "Isole Spumarine",
 				"value": 37
 			},
 			{
 				"name": "Cinnabar Island",
+				"name_it-IT": "Isola Cannella",
 				"value": 38
 			},
 			{
 				"name": "Pokémon Mansion",
+				"name_it-IT": "Villa Pokémon",
 				"value": 39
 			},
 			{
 				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 40
 			},
 			{
 				"name": "One Island",
+				"name_it-IT": "Primisola",
 				"value": 41
 			},
 			{
 				"name": "Treasure Beach",
+				"name_it-IT": "Riva del Tesoro",
 				"value": 42
 			},
 			{
 				"name": "Kindle Road",
+				"name_it-IT": "Via Vulcanica",
 				"value": 43
 			},
 			{
 				"name": "Mt. Ember",
+				"name_it-IT": "Monte Brace",
 				"value": 44
 			},
 			{
 				"name": "Cape Brink",
+				"name_it-IT": "Capo Estremo",
 				"value": 45
 			},
 			{
 				"name": "Three Isle Port",
+				"name_it-IT": "Porto Terzisola",
 				"value": 46
 			},
 			{
 				"name": "Bond Bridge",
+				"name_it-IT": "Ponte Abbraccio",
 				"value": 47
 			},
 			{
 				"name": "Berry Forest",
+				"name_it-IT": "Bosco Baccoso",
 				"value": 48
 			},
 			{
 				"name": "Route 23",
+				"name_it-IT": "Percorso 23",
 				"value": 49
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 50
 			},
 			{
 				"name": "Four Island",
+				"name_it-IT": "Quartisola",
 				"value": 51
 			},
 			{
 				"name": "Icefall Cave",
+				"name_it-IT": "Grotta Gelata",
 				"value": 52
 			},
 			{
 				"name": "Five Island",
+				"name_it-IT": "Quintisola",
 				"value": 53
 			},
 			{
 				"name": "Five Isle Meadow",
+				"name_it-IT": "Prato Quintisola",
 				"value": 54
 			},
 			{
 				"name": "Memorial Pillar",
+				"name_it-IT": "Colonna Rocciosa",
 				"value": 55
 			},
 			{
 				"name": "Water Labyrinth",
+				"name_it-IT": "Labirinto Marino",
 				"value": 56
 			},
 			{
 				"name": "Resort Gorgeous",
+				"name_it-IT": "Perla dei Mari",
 				"value": 57
 			},
 			{
 				"name": "Lost Cave",
+				"name_it-IT": "Grotta Sperduta",
 				"value": 58
 			},
 			{
 				"name": "Water Path",
+				"name_it-IT": "Via Marina",
 				"value": 59
 			},
 			{
 				"name": "Green Path",
+				"name_it-IT": "Via Verde",
 				"value": 60
 			},
 			{
 				"name": "Pattern Bush",
+				"name_it-IT": "Bosco Disegnato",
 				"value": 61
 			},
 			{
 				"name": "Outcast Island",
+				"name_it-IT": "Isola Solitaria",
 				"value": 62
 			},
 			{
 				"name": "Altering Cave",
+				"name_it-IT": "Grotta Mutevole",
 				"value": 63
 			},
 			{
 				"name": "Ruin Valley",
+				"name_it-IT": "Valle Antica",
 				"value": 64
 			},
 			{
 				"name": "Trainer Tower",
+				"name_it-IT": "Torre Allenatori",
 				"value": 65
 			},
 			{
 				"name": "Canyon Entrance",
+				"name_it-IT": "Ingresso Canyon",
 				"value": 66
 			},
 			{
 				"name": "Seavault Canyon",
+				"name_it-IT": "Canyon Seption",
 				"value": 67
 			},
 			{
 				"name": "Tanoby Ruins",
+				"name_it-IT": "Rovine Florabeto",
 				"value": 68
 			},
 			{
 				"name": "Cerulean Cave",
+				"name_it-IT": "Grotta Celeste",
 				"value": 69
 			}
 		]
@@ -1121,6 +1392,7 @@ var games = {
 	'dpp': {
 		'id': 'dpp',
 		'title': 'Diamond, Pearl and Platinum',
+		"title_it-IT": "Diamante, Perla e Platino",
 		'nameLimit': 10,
 		'dexLimit': 493,
 		'loaded': false,
@@ -1131,294 +1403,367 @@ var games = {
 			},
 			{
 				"name": "Twinleaf Town",
+				"name_it-IT": "Duefoglie",
 				"value": 1
 			},
 			{
 				"name": "Route 201",
+				"name_it-IT": "Percorso 201",
 				"value": 2
 			},
 			{
 				"name": "Lake Verity",
+				"name_it-IT": "Lago Verità",
 				"value": 3
 			},
 			{
 				"name": "Route 202",
+				"name_it-IT": "Percorso 202",
 				"value": 4
 			},
 			{
 				"name": "Route 203",
+				"name_it-IT": "Percorso 203",
 				"value": 5
 			},
 			{
 				"name": "Oreburgh Gate",
+				"name_it-IT": "Varco Mineropoli",
 				"value": 6
 			},
 			{
 				"name": "Oreburgh City",
+				"name_it-IT": "Mineropoli",
 				"value": 7
 			},
 			{
 				"name": "Oreburgh Mine",
+				"name_it-IT": "Cava di Mineropoli",
 				"value": 8
 			},
 			{
 				"name": "Route 207",
+				"name_it-IT": "Percorso 207",
 				"value": 9
 			},
 			{
 				"name": "Route 204",
+				"name_it-IT": "Percorso 204",
 				"value": 10
 			},
 			{
 				"name": "Ravaged Path",
+				"name_it-IT": "Cammino Roccioso",
 				"value": 11
 			},
 			{
 				"name": "Floaroma Meadow",
+				"name_it-IT": "Giardinfiorito",
 				"value": 12
 			},
 			{
 				"name": "Route 205",
+				"name_it-IT": "Percorso 205",
 				"value": 13
 			},
 			{
 				"name": "Valley Windworks",
+				"name_it-IT": "Impianto Turbine",
 				"value": 14
 			},
 			{
 				"name": "Eterna Forest",
+				"name_it-IT": "Bosco Evopoli",
 				"value": 15
 			},
 			{
 				"name": "The Old Chateau",
+				"name_it-IT": "Antico Chateau",
 				"value": 16
 			},
 			{
 				"name": "Eterna City",
+				"name_it-IT": "Evopoli",
 				"value": 17
 			},
 			{
 				"name": "Route 206",
+				"name_it-IT": "Percorso 206",
 				"value": 18
 			},
 			{
 				"name": "Wayward Cave",
+				"name_it-IT": "Grotta Labirinto",
 				"value": 19
 			},
 			{
 				"name": "Mt. Coronet",
+				"name_it-IT": "Monte Corona",
 				"value": 20
 			},
 			{
 				"name": "Route 208",
+				"name_it-IT": "Percorso 208",
 				"value": 21
 			},
 			{
 				"name": "Hearthome City",
+				"name_it-IT": "Cuoripoli",
 				"value": 22
 			},
 			{
 				"name": "Route 209",
+				"name_it-IT": "Percorso 209",
 				"value": 23
 			},
 			{
 				"name": "The Lost Tower",
+				"name_it-IT": "Torre Memoria",
 				"value": 24
 			},
 			{
 				"name": "Solaceon Ruins",
+				"name_it-IT": "Rovine Flemminia",
 				"value": 25
 			},
 			{
 				"name": "Route 210",
+				"name_it-IT": "Percorso 210",
 				"value": 26
 			},
 			{
 				"name": "Route 215",
+				"name_it-IT": "Percorso 215",
 				"value": 27
 			},
 			{
 				"name": "Veilstone City",
+				"name_it-IT": "Rupepoli",
 				"value": 28
 			},
 			{
 				"name": "Route 212",
+				"name_it-IT": "Percorso 212",
 				"value": 29
 			},
 			{
 				"name": "Trophy Garden",
+				"name_it-IT": "Giardino Trofeo",
 				"value": 30
 			},
 			{
 				"name": "Pastoria City",
+				"name_it-IT": "Pratopoli",
 				"value": 31
 			},
 			{
 				"name": "Great Marsh",
+				"name_it-IT": "Grande Palude",
 				"value": 32
 			},
 			{
 				"name": "Route 213",
+				"name_it-IT": "Percorso 213",
 				"value": 33
 			},
 			{
 				"name": "Valor Lakefront",
+				"name_it-IT": "Riva Valore",
 				"value": 34
 			},
 			{
 				"name": "Lake Valor",
+				"name_it-IT": "Lago Valore",
 				"value": 35
 			},
 			{
 				"name": "Route 214",
+				"name_it-IT": "Percorso 214",
 				"value": 36
 			},
 			{
 				"name": "Ruin Maniac's Cave",
+				"name_it-IT": "Grotta Rovine",
 				"value": 37
 			},
 			{
 				"name": "Ruin Maniac's Tunnel",
+				"name_it-IT": "Tunnel Rovine",
 				"value": 38
 			},
 			{
 				"name": "Celestic Town",
+				"name_it-IT": "Memoride",
 				"value": 39
 			},
 			{
 				"name": "Fuego Ironworks",
+				"name_it-IT": "Fonderie Fuego",
 				"value": 40
 			},
 			{
-				"name": "Routes 219",
+				"name": "Route 219",
+				"name_it-IT": "Percorso 219",
 				"value": 41
 			},
 			{
 				"name": "Route 220",
+				"name_it-IT": "Percorso 220",
 				"value": 42
 			},
 			{
 				"name": "Route 221",
+				"name_it-IT": "Percorso 221",
 				"value": 43
 			},
 			{
 				"name": "Route 218",
+				"name_it-IT": "Percorso 218",
 				"value": 44
 			},
 			{
 				"name": "Canalave City",
+				"name_it-IT": "Canalipoli",
 				"value": 45
 			},
 			{
 				"name": "Iron Island",
+				"name_it-IT": "Isola Ferrosa",
 				"value": 46
 			},
 			{
 				"name": "Route 211",
+				"name_it-IT": "Percorso 211",
 				"value": 47
 			},
 			{
 				"name": "Route 216",
+				"name_it-IT": "Percorso 216",
 				"value": 48
 			},
 			{
 				"name": "Route 217",
+				"name_it-IT": "Percorso 217",
 				"value": 49
 			},
 			{
 				"name": "Acuity Lakefront",
+				"name_it-IT": "Riva Arguzia",
 				"value": 50
 			},
 			{
 				"name": "Lake Acuity",
+				"name_it-IT": "Lago Arguzia",
 				"value": 51
 			},
 			{
 				"name": "Snowpoint Temple",
+				"name_it-IT": "Tempio Nevepoli",
 				"value": 52
 			},
 			{
 				"name": "Route 222",
+				"name_it-IT": "Percorso 222",
 				"value": 53
 			},
 			{
 				"name": "Sunyshore City",
+				"name_it-IT": "Arenipoli",
 				"value": 54
 			},
 			{
 				"name": "Route 223",
+				"name_it-IT": "Percorso 223",
 				"value": 55
 			},
 			{
 				"name": "Pokémon League",
+				"name_it-IT": "Lega Pokémon",
 				"value": 56
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 57
 			},
 			{
 				"name": "Route 224",
+				"name_it-IT": "Percorso 224",
 				"value": 58
 			},
 			{
 				"name": "Route 230",
+				"name_it-IT": "Percorso 230",
 				"value": 59
 			},
 			{
 				"name": "Route 229",
+				"name_it-IT": "Percorso 229",
 				"value": 60
 			},
 			{
 				"name": "Resort Area",
+				"name_it-IT": "Area Svago",
 				"value": 61
 			},
 			{
 				"name": "Route 228",
+				"name_it-IT": "Percorso 228",
 				"value": 62
 			},
 			{
 				"name": "Route 226",
+				"name_it-IT": "Percorso 226",
 				"value": 63
 			},
 			{
 				"name": "Route 227",
+				"name_it-IT": "Percorso 227",
 				"value": 64
 			},
 			{
 				"name": "Stark Mountain",
+				"name_it-IT": "Monte Ostile",
 				"value": 65
 			},
 			{
 				"name": "Route 225",
+				"name_it-IT": "Percorso 225",
 				"value": 66
 			},
 			{
 				"name": "Sendoff Spring",
+				"name_it-IT": "Fonte Saluto",
 				"value": 67
 			},
 			{
 				"name": "Turnback Cave",
+				"name_it-IT": "Grotta Ritorno",
 				"value": 68
 			},
 			{
 				"name": "Distortion World",
+				"name_it-IT": "Mondo Distorto",
 				"value": 69
 			},
 			{
 				"name": "Spear Pillar",
+				"name_it-IT": "Vetta Lancia",
 				"value": 70
 			},
 			{
 				"name": "Newmoon Island",
+				"name_it-IT": "Isola Lunanuova",
 				"value": 71
 			},
 			{
 				"name": "Flower Paradise",
+				"name_it-IT": "Paradiso Fiore",
 				"value": 72
 			},
 			{
 				"name": "Hall of Origin",
+				"name_it-IT": "Spazio Origine",
 				"value": 73
 			}
 		]
@@ -1426,6 +1771,7 @@ var games = {
 	'hgss': {
 		'id': 'hgss',
 		'title': 'HeartGold and SoulSilver',
+		"title_it-IT": "HeartGold e SoulSilver",
 		'nameLimit': 10,
 		'dexLimit': 493,
 		'loaded': false,
@@ -1436,378 +1782,472 @@ var games = {
 			},
 			{
 				"name": "New Bark Town",
+				"name_it-IT": "Borgo Foglianova",
 				"value": 1
 			},
 			{
 				"name": "Route 29",
+				"name_it-IT": "Percorso 29",
 				"value": 2
 			},
 			{
 				"name": "Cherrygrove City",
+				"name_it-IT": "Fiorpescopoli",
 				"value": 3
 			},
 			{
 				"name": "Route 30",
+				"name_it-IT": "Percorso 30",
 				"value": 4
 			},
 			{
 				"name": "Route 31",
+				"name_it-IT": "Percorso 31",
 				"value": 5
 			},
 			{
 				"name": "Dark Cave",
+				"name_it-IT": "Grotta Scura",
 				"value": 6
 			},
 			{
 				"name": "Violet City",
+				"name_it-IT": "Violapoli",
 				"value": 7
 			},
 			{
 				"name": "Sprout Tower",
+				"name_it-IT": "Torre Sprout",
 				"value": 8
 			},
 			{
 				"name": "Route 32",
+				"name_it-IT": "Percorso 32",
 				"value": 9
 			},
 			{
 				"name": "Ruins of Alph",
+				"name_it-IT": "Rovine d'Alfa",
 				"value": 10
 			},
 			{
 				"name": "Union Cave",
+				"name_it-IT": "Grotta di mezzo",
 				"value": 11
 			},
 			{
 				"name": "Route 33",
+				"name_it-IT": "Percorso 33",
 				"value": 12
 			},
 			{
 				"name": "Azalea Town",
+				"name_it-IT": "Azalina",
 				"value": 13
 			},
 			{
 				"name": "Slowpoke Well",
+				"name_it-IT": "Pozzo Slowpoke",
 				"value": 14
 			},
 			{
 				"name": "Ilex Forest",
+				"name_it-IT": "Bosco di Lecci",
 				"value": 15
 			},
 			{
 				"name": "Route 34",
+				"name_it-IT": "Percorso 34",
 				"value": 16
 			},
 			{
 				"name": "Goldenrod City",
+				"name_it-IT": "Fiordoropoli",
 				"value": 17
 			},
 			{
 				"name": "Route 35",
+				"name_it-IT": "Percorso 35",
 				"value": 18
 			},
 			{
 				"name": "National Park",
+				"name_it-IT": "Parco Nazionale",
 				"value": 19
 			},
 			{
 				"name": "Route 36",
+				"name_it-IT": "Percorso 36",
 				"value": 20
 			},
 			{
 				"name": "Route 37",
+				"name_it-IT": "Percorso 37",
 				"value": 21
 			},
 			{
 				"name": "Ecruteak City",
+				"name_it-IT": "Amarantopoli",
 				"value": 22
 			},
 			{
 				"name": "Burned Tower",
+				"name_it-IT": "Torre Bruciata",
 				"value": 23
 			},
 			{
 				"name": "Bell Tower",
+				"name_it-IT": "Torre Campana",
 				"value": 24
 			},
 			{
 				"name": "Route 38",
+				"name_it-IT": "Percorso 38",
 				"value": 25
 			},
 			{
 				"name": "Route 39",
+				"name_it-IT": "Percorso 39",
 				"value": 26
 			},
 			{
 				"name": "Olivine City",
+				"name_it-IT": "Olivinopoli",
 				"value": 27
 			},
 			{
 				"name": "Route 40",
+				"name_it-IT": "Percorso 40",
 				"value": 28
 			},
 			{
 				"name": "Route 41",
+				"name_it-IT": "Percorso 41",
 				"value": 29
 			},
 			{
 				"name": "Whirl Islands",
+				"name_it-IT": "Isole Vorticose",
 				"value": 30
 			},
 			{
 				"name": "Cianwood City",
+				"name_it-IT": "Fiorlisopoli",
 				"value": 31
 			},
 			{
 				"name": "Cliff Edge Gate",
+				"name_it-IT": "Ingresso Falesia",
 				"value": 32
 			},
 			{
 				"name": "Route 47",
+				"name_it-IT": "Percorso 47",
 				"value": 33
 			},
 			{
 				"name": "Cliff Cave",
+				"name_it-IT": "Grotta Falesia",
 				"value": 34
 			},
 			{
 				"name": "Route 48",
+				"name_it-IT": "Percorso 48",
 				"value": 35
 			},
 			{
 				"name": "Safari Zone Gate",
+				"name_it-IT": "Ingresso Safari",
 				"value": 36
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 37
 			},
 			{
 				"name": "Route 42",
+				"name_it-IT": "Percorso 42",
 				"value": 38
 			},
 			{
 				"name": "Mt. Mortar",
+				"name_it-IT": "Monte Scodella",
 				"value": 39
 			},
 			{
 				"name": "Mahogany Town",
+				"name_it-IT": "Mogania",
 				"value": 40
 			},
 			{
 				"name": "Rocket Hideout",
+				"name_it-IT": "Covo Team Rocket",
 				"value": 41
 			},
 			{
 				"name": "Route 43",
+				"name_it-IT": "Percorso 43",
 				"value": 42
 			},
 			{
 				"name": "Lake of Rage",
+				"name_it-IT": "Lago d'Ira",
 				"value": 43
 			},
 			{
 				"name": "Route 44",
+				"name_it-IT": "Percorso 44",
 				"value": 44
 			},
 			{
 				"name": "Ice Path",
+				"name_it-IT": "Via Gelata",
 				"value": 45
 			},
 			{
 				"name": "Blackthorn City",
+				"name_it-IT": "Ebanopoli",
 				"value": 46
 			},
 			{
 				"name": "Dragon's Den",
+				"name_it-IT": "Tana del Drago",
 				"value": 47
 			},
 			{
 				"name": "Route 45",
+				"name_it-IT": "Percorso 45",
 				"value": 48
 			},
 			{
 				"name": "Dark Cave 2",
+				"name_it-IT": "Grotta Scura 2",
 				"value": 49
 			},
 			{
 				"name": "Route 46",
+				"name_it-IT": "Percorso 46",
 				"value": 50
 			},
 			{
 				"name": "Route 27",
+				"name_it-IT": "Percorso 27",
 				"value": 51
 			},
 			{
 				"name": "Tohjo Falls",
+				"name_it-IT": "Cascate Tohjo",
 				"value": 52
 			},
 			{
 				"name": "Route 26",
+				"name_it-IT": "Percorso 26",
 				"value": 53
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 54
 			},
 			{
 				"name": "Indigo Plateau",
+				"name_it-IT": "Altopiano Blu",
 				"value": 55
 			},
 			{
 				"name": "Vermillion City",
+				"name_it-IT": "Aranciopoli",
 				"value": 56
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 57
 			},
 			{
 				"name": "Saffron City",
+				"name_it-IT": "Zafferanopoli",
 				"value": 58
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 59
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 60
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 61
 			},
 			{
 				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 62
 			},
 			{
 				"name": "Power Plant",
+				"name_it-IT": "Centrale Elettrica",
 				"value": 63
 			},
 			{
 				"name": "Rock Tunnel",
+				"name_it-IT": "Tunnel Roccioso",
 				"value": 64
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 65
 			},
 			{
 				"name": "Cerulean City",
+				"name_it-IT": "Celestopoli",
 				"value": 66
 			},
 			{
 				"name": "Route 24",
+				"name_it-IT": "Percorso 24",
 				"value": 67
 			},
 			{
 				"name": "Route 25",
+				"name_it-IT": "Percorso 25",
 				"value": 68
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 69
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 70
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 71
 			},
 			{
 				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 72
 			},
 			{
 				"name": "Fuschia City",
+				"name_it-IT": "Fucsiapoli",
 				"value": 73
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 74
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 75
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 76
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 77
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 78
 			},
 			{
 				"name": "Diglett's Cave",
+				"name_it-IT": "Caverna Diglett",
 				"value": 79
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 80
 			},
 			{
 				"name": "Pewter City",
+				"name_it-IT": "Plumbeopoli",
 				"value": 81
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 82
 			},
 			{
 				"name": "Mt. Moon",
+				"name_it-IT": "Monte Luna",
 				"value": 83
 			},
 			{
 				"name": "Viridian City",
+				"name_it-IT": "Smeraldopoli",
 				"value": 84
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 85
 			},
 			{
 				"name": "Pallet Town",
+				"name_it-IT": "Biancavilla",
 				"value": 86
 			},
 			{
 				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 87
 			},
 			{
 				"name": "Cinnabar Island",
+				"name_it-IT": "Isola Cannella",
 				"value": 88
 			},
 			{
 				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 89
 			},
 			{
 				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 90
 			},
 			{
 				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 91
 			},
 			{
 				"name": "Route 28",
+				"name_it-IT": "Percorso 28",
 				"value": 92
 			},
 			{
 				"name": "Mt. Silver",
+				"name_it-IT": "Monte Argento",
 				"value": 93
 			},
 			{
 				"name": "Cerulean Cave",
+				"name_it-IT": "Grotta Celeste",
 				"value": 94
 			}
 		]
@@ -1815,6 +2255,7 @@ var games = {
 	'bw': {
 		'id': 'bw',
 		'title': 'Black and White',
+		"title_it-IT": "Nero e Bianco",
 		'nameLimit': 10,
 		'dexLimit': 649,
 		'loaded': false,
@@ -1825,194 +2266,242 @@ var games = {
 			},
 			{
 				"name": "Nuvema Town",
+				"name_it-IT": "Soffiolieve",
 				"value": 1
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 2
 			},
 			{
 				"name": "Accumula Town",
+				"name_it-IT": "Quattroventi",
 				"value": 3
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 4
 			},
 			{
 				"name": "Striaton City",
+				"name_it-IT": "Levantopoli",
 				"value": 5
 			},
 			{
 				"name": "Dreamyard",
+				"name_it-IT": "Cantiere dei Sogni",
 				"value": 6
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 7
 			},
 			{
 				"name": "Wellspring Cave",
+				"name_it-IT": "Falda Sotterranea",
 				"value": 8
 			},
 			{
 				"name": "Nacrene City",
+				"name_it-IT": "Zefiropoli",
 				"value": 9
 			},
 			{
 				"name": "Pinwheel Forest",
+				"name_it-IT": "Bosco Girandola",
 				"value": 10
 			},
 			{
 				"name": "Castelia City",
+				"name_it-IT": "Austropoli",
 				"value": 11
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 12
 			},
 			{
 				"name": "Desert Resort",
+				"name_it-IT": "Deserto della Quiete",
 				"value": 13
 			},
 			{
 				"name": "Relic Castle",
+				"name_it-IT": "Castello Sepolto",
 				"value": 14
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 15
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 16
 			},
 			{
 				"name": "Driftveil Drawbridge",
+				"name_it-IT": "Ponte Libecciopoli",
 				"value": 17
 			},
 			{
 				"name": "Driftveil City",
+				"name_it-IT": "Libecciopoli",
 				"value": 18
 			},
 			{
 				"name": "Cold Storage",
+				"name_it-IT": "Deposito Frigo",
 				"value": 19
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 20
 			},
 			{
 				"name": "Mistralton Cave",
+				"name_it-IT": "Cava Ponentopoli",
 				"value": 21
 			},
 			{
 				"name": "Chargestone Cave",
+				"name_it-IT": "Cava Pietrelettrica",
 				"value": 22
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 23
 			},
 			{
 				"name": "Celestial Tower",
+				"name_it-IT": "Torre Cielo",
 				"value": 24
 			},
 			{
 				"name": "Twist Mountain",
+				"name_it-IT": "Monte Vite",
 				"value": 25
 			},
 			{
 				"name": "Iccirus City",
+				"name_it-IT": "Mistralopoli",
 				"value": 26
 			},
 			{
 				"name": "Dragonspiral Tower",
+				"name_it-IT": "Torre Dragospira",
 				"value": 27
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 28
 			},
 			{
 				"name": "Moor of Icirrus",
+				"name_it-IT": "Palude Mistralopoli",
 				"value": 29
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 30
 			},
 			{
 				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 31
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 32
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 33
 			},
 			{
 				"name": "Village Bridge",
+				"name_it-IT": "Ponte Villaggio",
 				"value": 34
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 35
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 36
 			},
 			{
 				"name": "Undella Town",
+				"name_it-IT": "Spiraria",
 				"value": 37
 			},
 			{
 				"name": "Undella Bay",
+				"name_it-IT": "Baia Spiraria",
 				"value": 38
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 39
 			},
 			{
 				"name": "Abundant Shrine",
+				"name_it-IT": "Tempio dell'Abbondanza",
 				"value": 40
 			},
 			{
 				"name": "White Forest",
+				"name_it-IT": "Foresta Bianca/Città Nera",
 				"value": 41
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 42
 			},
 			{
 				"name": "Marvelous Bridge",
+				"name_it-IT": "Ponte Meraviglie",
 				"value": 43
 			},
 			{
 				"name": "Lostlorn Forest",
+				"name_it-IT": "Bosco Smarrimento",
 				"value": 44
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 45
 			},
 			{
 				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 46
 			},
 			{
 				"name": "P2 Laboratory",
+				"name_it-IT": "Laboratorio P&P",
 				"value": 47
 			},
 			{
 				"name": "Liberty Garden",
+				"name_it-IT": "Isola Libertà",
 				"value": 48
 			}
 		]
@@ -2020,6 +2509,7 @@ var games = {
 	'bw2': {
 		'id': 'bw2',
 		'title': 'Black 2 and White 2',
+		"title_it-IT": "Nero 2 e Bianco 2",
 		'nameLimit': 10,
 		'dexLimit': 649,
 		'loaded': false,
@@ -2030,258 +2520,322 @@ var games = {
 			},
 			{
 				"name": "Aspertia City",
+				"name_it-IT": "Alisopoli",
 				"value": 1
 			},
 			{
 				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 2
 			},
 			{
 				"name": "Floccesy Town",
+				"name_it-IT": "Venturia",
 				"value": 3
 			},
 			{
 				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 4
 			},
 			{
 				"name": "Floccesy Ranch",
+				"name_it-IT": "Fattorie di Venturia",
 				"value": 5
 			},
 			{
 				"name": "Aspertia Gym",
+				"name_it-IT": "Palestra di Alisopoli",
 				"value": 6
 			},
 			{
 				"name": "Virbank City",
+				"name_it-IT": "Zondopoli",
 				"value": 7
 			},
 			{
 				"name": "Virbank Complex",
+				"name_it-IT": "Cantiere di Zondopoli",
 				"value": 8
 			},
 			{
 				"name": "Castelia City",
+				"name_it-IT": "Austropoli",
 				"value": 9
 			},
 			{
 				"name": "Castelia Sewers",
+				"name_it-IT": "Fogne di Austropoli",
 				"value": 10
 			},
 			{
 				"name": "Relic Passage",
+				"name_it-IT": "Antico Sentiero",
 				"value": 11
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 12
 			},
 			{
 				"name": "Desert Resort",
+				"name_it-IT": "Deserto della Quiete",
 				"value": 13
 			},
 			{
 				"name": "Relic Castle",
+				"name_it-IT": "Castello Sepolto",
 				"value": 14
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 15
 			},
 			{
 				"name": "Lostlorn Forest",
+				"name_it-IT": "Bosco Smarrimento",
 				"value": 16
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 17
 			},
 			{
 				"name": "Driftveil Drawbridge",
+				"name_it-IT": "Ponte Libecciopoli",
 				"value": 18
 			},
 			{
 				"name": "Driftveil City",
+				"name_it-IT": "Libecciopoli",
 				"value": 19
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 20
 			},
 			{
 				"name": "Mistralton Cave",
+				"name_it-IT": "Cava Ponentopoli",
 				"value": 21
 			},
 			{
 				"name": "Chargestone Cave",
+				"name_it-IT": "Cava Pietrelettrica",
 				"value": 22
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 23
 			},
 			{
 				"name": "Celestial Tower",
+				"name_it-IT": "Torre Cielo",
 				"value": 24
 			},
 			{
 				"name": "Reversal Mountain",
+				"name_it-IT": "Monte Antipodi",
 				"value": 25
 			},
 			{
 				"name": "Strange House",
+				"name_it-IT": "Casa Bizzarra",
 				"value": 26
 			},
 			{
 				"name": "Undella Town",
+				"name_it-IT": "Spiraria",
 				"value": 27
 			},
 			{
 				"name": "Undella Bay",
+				"name_it-IT": "Baia Spiraria",
 				"value": 28
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 29
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 30
 			},
 			{
 				"name": "Village Bridge",
+				"name_it-IT": "Ponte Villaggio",
 				"value": 31
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 32
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 33
 			},
 			{
 				"name": "Seaside Cave",
+				"name_it-IT": "Grotta Costiera",
 				"value": 34
 			},
 			{
 				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 35
 			},
 			{
 				"name": "Humilau City",
+				"name_it-IT": "Grecalopoli",
 				"value": 36
 			},
 			{
 				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 37
 			},
 			{
 				"name": "Giant Chasm",
+				"name_it-IT": "Fossa Gigante",
 				"value": 38
 			},
 			{
 				"name": "Route 23",
+				"name_it-IT": "Percorso 23",
 				"value": 39
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 40
 			},
 			{
 				"name": "Old Victory Road",
+				"name_it-IT": "Vecchia Via Vittoria",
 				"value": 41
 			},
 			{
 				"name": "Marvelous Bridge",
+				"name_it-IT": "Ponte Meraviglie",
 				"value": 42
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 43
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 44
 			},
 			{
 				"name": "Abundant Shrine",
+				"name_it-IT": "Tempio dell'Abbondanza",
 				"value": 45
 			},
 			{
 				"name": "Moor of Icirrus",
+				"name_it-IT": "Palude Mistralopoli",
 				"value": 46
 			},
 			{
 				"name": "Icirrus City",
+				"name_it-IT": "Mistralopoli",
 				"value": 47
 			},
 			{
 				"name": "Dragonspiral Tower",
+				"name_it-IT": "Torre Dragospira",
 				"value": 48
 			},
 			{
 				"name": "Twist Mountain",
+				"name_it-IT": "Monte Vite",
 				"value": 49
 			},
 			{
 				"name": "Clay Tunnel",
+				"name_it-IT": "Passo di Rafan",
 				"value": 50
 			},
 			{
 				"name": "Underground Ruins",
+				"name": "Sala Picco",
 				"value": 51
 			},
 			{
 				"name": "Pinwheel Forest",
+				"name_it-IT": "Bosco Girandola",
 				"value": 52
 			},
 			{
 				"name": "Nacrene City",
+				"name_it-IT": "Zefiropoli",
 				"value": 53
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 54
 			},
 			{
 				"name": "Wellspring Cave",
+				"name_it-IT": "Falda Sotterranea",
 				"value": 55
 			},
 			{
 				"name": "Striaton City",
+				"name_it-IT": "Levantopoli",
 				"value": 56
 			},
 			{
 				"name": "Dreamyard",
+				"name_it-IT": "Cantiere dei Sogni",
 				"value": 57
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 58
 			},
 			{
 				"name": "Accumula Town",
+				"name_it-IT": "Quattroventi",
 				"value": 59
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 60
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 61
 			},
 			{
 				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 62
 			},
 			{
 				"name": "P2 Laboratory",
+				"name_it-IT": "Laboratorio P&P",
 				"value": 63
 			},
 			{
 				"name": "Nature Preserve",
+				"name_it-IT": "Riserva Naturale",
 				"value": 64
 			}
 		]
@@ -2289,6 +2843,7 @@ var games = {
 	'xy': {
 		'id': 'xy',
 		'title': 'X and Y',
+		"title_it-IT": "X e Y",
 		'nameLimit': 12,
 		'dexLimit': 721,
 		'loaded': false,
@@ -2299,178 +2854,222 @@ var games = {
 			},
 			{
 				"name": "Aquacorde Town",
+				"name_it-IT": "Rio Acquerello",
 				"value": 1
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 2
 			},
 			{
 				"name": "Santalune Forest",
+				"name_it-IT": "Bosco di Novartopoli",
 				"value": 3
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 4
 			},
 			{
 				"name": "Route 22",
+				"name_it-IT": "Percorso 22",
 				"value": 5
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 6
 			},
 			{
 				"name": "Lumiose City",
+				"name_it-IT": "Luminopoli",
 				"value": 7
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 8
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 9
 			},
 			{
 				"name": "Parfum Palace",
+				"name_it-IT": "Reggia Aurea",
 				"value": 10
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 11
 			},
 			{
 				"name": "Battle Chateau",
+				"name_it-IT": "Castello Lotta",
 				"value": 12
 			},
 			{
 				"name": "Connecting Cave",
+				"name_it-IT": "Grotta Trait d'Union",
 				"value": 13
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 14
 			},
 			{
 				"name": "Ambrette Town",
+				"name_it-IT": "Petroglifari",
 				"value": 15
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 16
 			},
 			{
 				"name": "Glittering Cave",
+				"name_it-IT": "Grotta dei Bagliori",
 				"value": 17
 			},
 			{
 				"name": "Cyllage City",
+				"name_it-IT": "Altoripoli",
 				"value": 18
 			},
 			{
 				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 19
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 20
 			},
 			{
 				"name": "Reflection Cave",
+				"name_it-IT": "Grotta dei Riflessi",
 				"value": 21
 			},
 			{
 				"name": "Shalour City",
+				"name_it-IT": "Yantaropoli",
 				"value": 22
 			},
 			{
 				"name": "Tower of Mystery",
+				"name_it-IT": "Torre Maestra",
 				"value": 23
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 24
 			},
 			{
 				"name": "Azure Bay",
+				"name_it-IT": "Baia Azzurra",
 				"value": 25
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 26
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 27
 			},
 			{
 				"name": "Laverre City",
+				"name_it-IT": "Romantopoli",
 				"value": 28
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 29
 			},
 			{
 				"name": "Lost Hotel",
+				"name_it-IT": "Albergo Diroccato",
 				"value": 30
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 31
 			},
 			{
 				"name": "Frost Cavern",
+				"name_it-IT": "Caverna Gelata",
 				"value": 32
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 33
 			},
 			{
 				"name": "Team Flare Secret HQ",
+				"name_it-IT": "Covo del Team Flare",
 				"value": 34
 			},
 			{
 				"name": "Route 18",
+				"name_it-IT": "Percorso 18",
 				"value": 35
 			},
 			{
 				"name": "Couriway Town",
+				"name_it-IT": "Ponte Mosaico",
 				"value": 36
 			},
 			{
 				"name": "Route 19",
+				"name_it-IT": "Percorso 19",
 				"value": 37
 			},
 			{
 				"name": "Route 20",
+				"name_it-IT": "Percorso 20",
 				"value": 38
 			},
 			{
 				"name": "Pokémon Village",
+				"name_it-IT": "Valle dei Pokémon",
 				"value": 39
 			},
 			{
 				"name": "Route 21",
+				"name_it-IT": "Percorso 21",
 				"value": 40
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
 				"value": 41
 			},
 			{
 				"name": "Terminus Cave",
+				"name_it-IT": "Grotta Climax",
 				"value": 42
 			},
 			{
 				"name": "Sea Spirit's Den",
+				"name_it-IT": "Antro Talassico",
 				"value": 43
 			},
 			{
 				"name": "Friend Safari",
+				"name_it-IT": "Safari Amici",
 				"value": 44
 			}
 		]
@@ -2478,6 +3077,7 @@ var games = {
 	'oras': {
 		'id': 'oras',
 		'title': 'Omega Ruby and Alpha Sapphire',
+		"title_it-IT": "Rubino Omega e Zaffiro Alpha",
 		'nameLimit': 12,
 		'dexLimit': 721,
 		'loaded': false,
@@ -2488,314 +3088,392 @@ var games = {
 			},
 			{
 				"name": "Littleroot Town",
+				"name_it-IT": "Albanova",
 				"value": 1
 			},
 			{
 				"name": "Route 101",
+				"name_it-IT": "Percorso 101",
 				"value": 2
 			},
 			{
 				"name": "Route 102",
+				"name_it-IT": "Percorso 102",
 				"value": 3
 			},
 			{
 				"name": "Route 103",
+				"name_it-IT": "Percorso 103",
 				"value": 4
 			},
 			{
 				"name": "Petalburg City",
+				"name_it-IT": "Petalipoli",
 				"value": 5
 			},
 			{
 				"name": "Route 104",
+				"name_it-IT": "Percorso 104",
 				"value": 6
 			},
 			{
 				"name": "Petalburg Woods",
+				"name_it-IT": "Bosco Petalo",
 				"value": 7
 			},
 			{
 				"name": "Rustboro City",
+				"name_it-IT": "Ferrugipoli",
 				"value": 8
 			},
 			{
 				"name": "Route 115",
+				"name_it-IT": "Percorso 115",
 				"value": 9
 			},
 			{
 				"name": "Route 116",
+				"name_it-IT": "Percorso 116",
 				"value": 10
 			},
 			{
 				"name": "Rusturf Tunnel",
+				"name_it-IT": "Tunnel Menferro",
 				"value": 11
 			},
 			{
 				"name": "Dewford Town",
+				"name_it-IT": "Bluruvia",
 				"value": 12
 			},
 			{
 				"name": "Route 106",
+				"name_it-IT": "Percorso 106",
 				"value": 13
 			},
 			{
 				"name": "Granite Cave",
+				"name_it-IT": "Grotta Pietrosa",
 				"value": 14
 			},
 			{
 				"name": "Route 107",
+				"name_it-IT": "Percorso 107",
 				"value": 15
 			},
 			{
 				"name": "Slateport City",
+				"name_it-IT": "Porto Selcepoli",
 				"value": 16
 			},
 			{
 				"name": "Route 110",
+				"name_it-IT": "Percorso 110",
 				"value": 17
 			},
 			{
 				"name": "Altering Cave",
+				"name_it-IT": "Grotta Mutevole",
 				"value": 18
 			},
 			{
 				"name": "New Mauville",
+				"name_it-IT": "Ciclanova",
 				"value": 19
 			},
 			{
 				"name": "Route 117",
+				"name_it-IT": "Percorso 117",
 				"value": 20
 			},
 			{
 				"name": "Route 111",
+				"name_it-IT": "Percorso 111",
 				"value": 21
 			},
 			{
 				"name": "Route 112",
+				"name_it-IT": "Percorso 112",
 				"value": 22
 			},
 			{
 				"name": "Fiery Path",
+				"name_it-IT": "Cammino Ardente",
 				"value": 23
 			},
 			{
 				"name": "Route 113",
+				"name_it-IT": "Percorso 113",
 				"value": 24
 			},
 			{
 				"name": "Route 114",
+				"name_it-IT": "Percorso 114",
 				"value": 25
 			},
 			{
 				"name": "Meteor Falls",
+				"name_it-IT": "Cascate Meteora",
 				"value": 26
 			},
 			{
 				"name": "Jagged Pass",
+				"name_it-IT": "Passo Selvaggio",
 				"value": 27
 			},
 			{
 				"name": "Lavaridge Town",
+				"name_it-IT": "Cuordilava",
 				"value": 28
 			},
 			{
 				"name": "Route 118",
+				"name_it-IT": "Percorso 118",
 				"value": 29
 			},
 			{
 				"name": "Southern Island",
+				"name_it-IT": "Isola Remota",
 				"value": 30
 			},
 			{
 				"name": "Route 119",
+				"name_it-IT": "Percorso 119",
 				"value": 31
 			},
 			{
 				"name": "Fortree City",
+				"name_it-IT": "Forestopoli",
 				"value": 32
 			},
 			{
 				"name": "Route 120",
+				"name_it-IT": "Percorso 120",
 				"value": 33
 			},
 			{
 				"name": "Route 121",
+				"name_it-IT": "Percorso 121",
 				"value": 34
 			},
 			{
 				"name": "Safari Zone",
+				"name_it-IT": "Zona Safari",
 				"value": 35
 			},
 			{
 				"name": "Lilycove City",
+				"name_it-IT": "Porto Alghepoli",
 				"value": 36
 			},
 			{
 				"name": "Route 122",
+				"name_it-IT": "Percorso 122",
 				"value": 37
 			},
 			{
 				"name": "Mt. Pyre",
+				"name_it-IT": "Monte Pira",
 				"value": 38
 			},
 			{
 				"name": "Route 123",
+				"name_it-IT": "Percorso 123",
 				"value": 39
 			},
 			{
 				"name": "Team Aqua/Magma Hideout Entrance",
+				"name_it-IT": "Rifugio Idro/Magma",
 				"value": 40
 			},
 			{
 				"name": "Route 124",
+				"name_it-IT": "Percorso 124",
 				"value": 41
 			},
 			{
 				"name": "Mossdeep City",
+				"name_it-IT": "Verdeazzupoli",
 				"value": 42
 			},
 			{
 				"name": "Route 125",
+				"name_it-IT": "Percorso 125",
 				"value": 43
 			},
 			{
 				"name": "Shoal Cave",
+				"name_it-IT": "Grotta Ondosa",
 				"value": 44
 			},
 			{
 				"name": "Route 127",
+				"name_it-IT": "Percorso 127",
 				"value": 45
 			},
 			{
 				"name": "Route 128",
+				"name_it-IT": "Percorso 128",
 				"value": 46
 			},
 			{
 				"name": "Seafloor Cavern",
+				"name_it-IT": "Antro Abissale",
 				"value": 47
 			},
 			{
 				"name": "Route 126",
+				"name_it-IT": "Percorso 126",
 				"value": 48
 			},
 			{
 				"name": "Sootopolis City",
+				"name_it-IT": "Ceneride",
 				"value": 49
 			},
 			{
 				"name": "Cave of Origin",
+				"name_it-IT": "Grotta dei Tempi",
 				"value": 50
 			},
 			{
 				"name": "Soaring",
+				"name_it-IT": "Ipersfera",
 				"value": 51
 			},
 			{
 				"name": "Route 129",
+				"name_it-IT": "Percorso 129",
 				"value": 52
 			},
 			{
 				"name": "Route 130",
+				"name_it-IT": "Percorso 130",
 				"value": 53
 			},
 			{
 				"name": "Route 131",
+				"name_it-IT": "Percorso 131",
 				"value": 54
 			},
 			{
 				"name": "Sky Pillar",
+				"name_it-IT": "Torre dei Cieli",
 				"value": 55
 			},
 			{
 				"name": "Pacifidlog Town",
+				"name_it-IT": "Orocea",
 				"value": 56
 			},
 			{
 				"name": "Mirage Island",
+				"name_it-IT": "Isola Miraggio",
 				"value": 57
 			},
 			{
 				"name": "Route 105",
+				"name_it-IT": "Percorso 105",
 				"value": 58
 			},
 			{
 				"name": "Route 108",
+				"name_it-IT": "Percorso 108",
 				"value": 59
 			},
 			{
 				"name": "Abandoned Ship",
+				"name_it-IT": "Vecchia Nave",
 				"value": 60
 			},
 			{
 				"name": "Route 109",
+				"name_it-IT": "Percorso 109",
 				"value": 61
 			},
 			{
 				"name": "Route 132",
+				"name_it-IT": "Percorso 132",
 				"value": 62
 			},
 			{
 				"name": "Route 133",
+				"name_it-IT": "Percorso 133",
 				"value": 63
 			},
 			{
 				"name": "Route 134",
+				"name_it-IT": "Percorso 134",
 				"value": 64
 			},
 			{
 				"name": "Ever Grande City",
+				"name_it-IT": "Iridopoli",
 				"value": 65
 			},
 			{
 				"name": "Victory Road",
+				"name_it-IT": "Iridopoli",
 				"value": 66
 			},
 			{
 				"name": "S.S. Tidal",
+				"name_it-IT": "Motonave Marea",
 				"value": 67
 			},
 			{
 				"name": "Pathless Plain",
+				"name_it-IT": "Piana Senza Nome",
 				"value": 68
 			},
 			{
 				"name": "Nameless Cavern",
+				"name_it-IT": "Caverna Ignota",
 				"value": 69
 			},
 			{
 				"name": "Fabled Cave",
+				"name_it-IT": "Grotta Sfuggente",
 				"value": 70
 			},
 			{
 				"name": "Gnarled Den",
+				"name_it-IT": "Fossa Informe",
 				"value": 71
 			},
 			{
 				"name": "Trackless Forest",
+				"name_it-IT": "Foresta Vergine",
 				"value": 72
 			},
 			{
 				"name": "Crescent Isle",
+				"name_it-IT": "Isola Arcodiluna",
 				"value": 73
 			},
 			{
 				"name": "Battle Resort",
+				"name_it-IT": "Resort Lotta",
 				"value": 74
 			},
 			{
 				"name": "Mirage Cave",
+				"name_it-IT": "Grotta Miraggio",
 				"value": 75
 			},
 			{
 				"name": "Mirage Forest",
+				"name_it-IT": "Selva Miraggio",
 				"value": 76
 			},
 			{
 				"name": "Mirage Island",
+				"name_it-IT": "Isola Miraggio",
 				"value": 77
 			},
 			{
 				"name": "Mirage Mountain",
+				"name_it-IT": "Monte Miraggio",
 				"value": 78
 			}
 		]
@@ -2803,6 +3481,7 @@ var games = {
 	'sm': {
 		'id': 'sm',
 		'title': 'Sun and Moon',
+		"title_it-IT": "Sole e Luna",
 		'nameLimit': 12,
 		'dexLimit': 802,
 		'loaded': false,
@@ -2813,278 +3492,347 @@ var games = {
 			},
 			{
 				"name": "Hau'oli Outskirts",
+				"name_it-IT": "Periferia di Hau'oli",
 				"value": 1
 			},
 			{
 				"name": "Iki Town",
+				"name_it-IT": "Lili",
 				"value": 2
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 3
 			},
 			{
 				"name": "Melemele Sea",
+				"name_it-IT": "Mare di Mele-Mele",
 				"value": 4
 			},
 			{
 				"name": "Hau'oli City",
+				"name_it-IT": "Hau'oli",
 				"value": 5
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 6
 			},
 			{
 				"name": "Berry Fields",
+				"name_it-IT": "Orto delle Bacche",
 				"value": 7
 			},
 			{
 				"name": "Verdant Cavern",
+				"name_it-IT": "Grotta Sottobosco",
 				"value": 8
 			},
 			{
 				"name": "Hau'oli Cemetery",
+				"name_it-IT": "Cimitero di Hau'oli",
 				"value": 9
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 10
 			},
 			{
 				"name": "Melemele Meadow",
+				"name_it-IT": "Prato Mele Mele",
 				"value": 11
 			},
 			{
 				"name": "Seaward Cave",
+				"name_it-IT": "Grotta Pratomare",
 				"value": 12
 			},
 			{
 				"name": "Kala'e Bay",
+				"name_it-IT": "Baia Kala'e",
 				"value": 13
 			},
 			{
 				"name": "Ten Carat Hill",
+				"name_it-IT": "Collina Diecicarati",
 				"value": 14
 			},
 			{
 				"name": "Hano Beach",
+				"name_it-IT": "Spiaggia Hanu Hanu",
 				"value": 15
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 16
 			},
 			{
 				"name": "Paniola Town",
+				"name_it-IT": "Ohana",
 				"value": 17
 			},
 			{
 				"name": "Paniola Ranch",
+				"name_it-IT": "Fattoria Ohana",
 				"value": 18
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 19
 			},
 			{
 				"name": "Brooklet Hill",
+				"name_it-IT": "Collina Scrosciante",
 				"value": 20
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 21
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 22
 			},
 			{
 				"name": "Wela Volcano Park",
+				"name_it-IT": "Parco Vulcano Wela",
 				"value": 23
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 24
 			},
 			{
 				"name": "Fossil Restoration Center",
+				"name_it-IT": "Centro Ristorazione Fossili",
 				"value": 25
 			},
 			{
 				"name": "Lush Jungle",
+				"name_it-IT": "Giungla Ombrosa",
 				"value": 26
 			},
 			{
 				"name": "Diglett's Tunnel",
+				"name_it-IT": "Tunnel Diglett",
 				"value": 27
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 28
 			},
 			{
 				"name": "Konikoni City",
+				"name_it-IT": "Konikoni",
 				"value": 29
 			},
 			{
 				"name": "Memorial Hill",
+				"name_it-IT": "Colle della Memoria",
 				"value": 30
 			},
 			{
 				"name": "Akala Outskirts",
+				"name_it-IT": "Punta Akala",
 				"value": 31
 			},
 			{
 				"name": "Malie City",
+				"name_it-IT": "Malie",
 				"value": 32
 			},
 			{
 				"name": "Malie Garden",
+				"name_it-IT": "Giardino di Malie",
 				"value": 33
 			},
 			{
 				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 34
 			},
 			{
 				"name": "Mount Hokulani",
+				"name_it-IT": "Picco Hokulani",
 				"value": 35
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 36
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 37
 			},
 			{
 				"name": "Secluded Shore",
+				"name_it-IT": "Lido di Ula-Ula",
 				"value": 38
 			},
 			{
 				"name": "Blush Mountain",
+				"name_it-IT": "Monte Tepore",
 				"value": 39
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 40
 			},
 			{
 				"name": "Haina Desert",
+				"name_it-IT": "Deserto Haina",
 				"value": 41
 			},
 			{
 				"name": "Tapu Village",
+				"name_it-IT": "Villaggio Tapu",
 				"value": 42
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 43
 			},
 			{
 				"name": "Aether House",
+				"name_it-IT": "Residenza Æther",
 				"value": 44
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 45
 			},
 			{
 				"name": "Thrifty Megamart",
+				"name_it-IT": "Supermercato Affaroni",
 				"value": 46
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 47
 			},
 			{
 				"name": "Ula'ula Meadow",
+				"name_it-IT": "Prato Ula Ula",
 				"value": 48
 			},
 			{
 				"name": "Lake of the Moone/Sunne",
+				"name_it-IT": "Lago Lunare/Solare",
 				"value": 49
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 50
 			},
 			{
 				"name": "Shady House",
+				"name_it-IT": "Villa Losca",
 				"value": 51
 			},
 			{
 				"name": "Seafolk Village",
+				"name_it-IT": "Villaggio del Mare",
 				"value": 52
 			},
 			{
 				"name": "Poni Wilds",
+				"name_it-IT": "Piana di Poni",
 				"value": 53
 			},
 			{
 				"name": "Ancient Poni Path",
+				"name_it-IT": "Via Antica di Poni",
 				"value": 54
 			},
 			{
 				"name": "Poni Breaker Coast",
+				"name_it-IT": "Scogliera Poni",
 				"value": 55
 			},
 			{
 				"name": "Exeggutor Island",
+				"name_it-IT": "Isola Exeggutor",
 				"value": 56
 			},
 			{
 				"name": "Vast Poni Canyon",
+				"name_it-IT": "Canyon di Poni",
 				"value": 57
 			},
 			{
 				"name": "Altar of the Moone/Sunne",
+				"name_it-IT": "Altare Lunare/Solare",
 				"value": 58
 			},
 			{
 				"name": "Mount Lanakila",
+				"name_it-IT": "Monte Lanakila",
 				"value": 59
 			},
 			{
 				"name": "Poni Grove",
+				"name_it-IT": "Foresta di Poni",
 				"value": 60
 			},
 			{
 				"name": "Poni Plains",
+				"name_it-IT": "Prateria di Poni",
 				"value": 61
 			},
 			{
 				"name": "Poni Meadow",
+				"name_it-IT": "Prato Poni",
 				"value": 62
 			},
 			{
 				"name": "Resolution Cave",
+				"name_it-IT": "Caverna Climax",
 				"value": 63
 			},
 			{
 				"name": "Poni Coast",
+				"name_it-IT": "Costa di Poni",
 				"value": 64
 			},
 			{
 				"name": "Poni Gauntlet",
+				"name_it-IT": "Erta di Poni",
 				"value": 65
 			},
 			{
 				"name": "Ruins of Conflict",
+				"name_it-IT": "Tempio del Conflitto",
 				"value": 66
 			},
 			{
 				"name": "Ruins of Life",
+				"name_it-IT": "Tempio della Vita",
 				"value": 67
 			},
 			{
 				"name": "Ruins of Abundance",
+				"name_it-IT": "Tempio del Raccolto",
 				"value": 68
 			},
 			{
 				"name": "Ruins of Hope",
+				"name_it-IT": "Tempio del Passaggio",
 				"value": 69
 			}
 		]
@@ -3092,6 +3840,7 @@ var games = {
 	'usum': {
 		'id': 'usum',
 		'title': 'Ultra Sun and Ultra Moon',
+		"title_it-IT": "Ultrasole e Ultraluna",
 		'nameLimit': 12,
 		'dexLimit': 807,
 		'loaded': false,
@@ -3102,282 +3851,352 @@ var games = {
 			},
 			{
 				"name": "Hau'oli Outskirts",
+				"name_it-IT": "Periferia di Hau'oli",
 				"value": 1
 			},
 			{
 				"name": "Iki Town",
+				"name_it-IT": "Lili",
 				"value": 2
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 3
 			},
 			{
 				"name": "Melemele Sea",
+				"name_it-IT": "Mare di Mele-Mele",
 				"value": 4
 			},
 			{
 				"name": "Hau'oli City",
+				"name_it-IT": "Hau'oli",
 				"value": 5
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 6
 			},
 			{
 				"name": "Berry Fields",
+				"name_it-IT": "Orto delle Bacche",
 				"value": 7
 			},
 			{
 				"name": "Verdant Cavern",
+				"name_it-IT": "Grotta Sottobosco",
 				"value": 8
 			},
 			{
 				"name": "Hau'oli Cemetery",
+				"name_it-IT": "Cimitero di Hau'oli",
 				"value": 9
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 10
 			},
 			{
 				"name": "Melemele Meadow",
+				"name_it-IT": "Prato Mele Mele",
 				"value": 11
 			},
 			{
 				"name": "Seaward Cave",
+				"name_it-IT": "Grotta Pratomare",
 				"value": 12
 			},
 			{
 				"name": "Kala'e Bay",
+				"name_it-IT": "Baia Kala'e",
 				"value": 13
 			},
 			{
 				"name": "Ten Carat Hill",
+				"name_it-IT": "Collina Diecicarati",
 				"value": 14
 			},
 			{
 				"name": "Hano Beach",
+				"name_it-IT": "Spiaggia Hanu Hanu",
 				"value": 15
 			},
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 16
 			},
 			{
 				"name": "Paniola Town",
+				"name_it-IT": "Ohana",
 				"value": 17
 			},
 			{
 				"name": "Paniola Ranch",
+				"name_it-IT": "Fattoria Ohana",
 				"value": 18
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 19
 			},
 			{
 				"name": "Brooklet Hill",
+				"name_it-IT": "Collina Scrosciante",
 				"value": 20
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 21
 			},
 			{
 				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 22
 			},
 			{
 				"name": "Wela Volcano Park",
+				"name_it-IT": "Parco Vulcano Wela",
 				"value": 23
 			},
 			{
 				"name": "Dividing Peak Tunnel",
+				"name_it-IT": "Tunnel del Vulcano",
 				"value": 24
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 25
 			},
 			{
 				"name": "Fossil Restoration Center",
+				"name_it-IT": "Centro Ristorazione Fossili",
 				"value": 26
 			},
 			{
 				"name": "Lush Jungle",
+				"name_it-IT": "Giungla Ombrosa",
 				"value": 27
 			},
 			{
 				"name": "Diglett's Tunnel",
+				"name_it-IT": "Tunnel Diglett",
 				"value": 28
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 29
 			},
 			{
 				"name": "Konikoni City",
+				"name_it-IT": "Konikoni",
 				"value": 30
 			},
 			{
 				"name": "Memorial Hill",
+				"name_it-IT": "Colle della Memoria",
 				"value": 31
 			},
 			{
 				"name": "Akala Outskirts",
+				"name_it-IT": "Punta Akala",
 				"value": 32
 			},
 			{
 				"name": "Malie City",
+				"name_it-IT": "Malie",
 				"value": 33
 			},
 			{
 				"name": "Malie Garden",
+				"name_it-IT": "Giardino di Malie",
 				"value": 34
 			},
 			{
 				"name": "Route 10",
+				"name_it-IT": "Percorso 10",
 				"value": 35
 			},
 			{
 				"name": "Mount Hokulani",
+				"name_it-IT": "Picco Hokulani",
 				"value": 36
 			},
 			{
 				"name": "Route 11",
+				"name_it-IT": "Percorso 11",
 				"value": 37
 			},
 			{
 				"name": "Route 12",
+				"name_it-IT": "Percorso 12",
 				"value": 38
 			},
 			{
 				"name": "Secluded Shore",
+				"name_it-IT": "Lido di Ula-Ula",
 				"value": 39
 			},
 			{
 				"name": "Blush Mountain",
+				"name_it-IT": "Monte Tepore",
 				"value": 40
 			},
 			{
 				"name": "Route 13",
+				"name_it-IT": "Percorso 13",
 				"value": 41
 			},
 			{
 				"name": "Haina Desert",
+				"name_it-IT": "Deserto Haina",
 				"value": 42
 			},
 			{
 				"name": "Tapu Village",
+				"name_it-IT": "Villaggio Tapu",
 				"value": 43
 			},
 			{
 				"name": "Route 15",
+				"name_it-IT": "Percorso 15",
 				"value": 44
 			},
 			{
 				"name": "Aether House",
+				"name_it-IT": "Residenza Æther",
 				"value": 45
 			},
 			{
 				"name": "Route 14",
+				"name_it-IT": "Percorso 14",
 				"value": 46
 			},
 			{
 				"name": "Thrifty Megamart",
+				"name_it-IT": "Supermercato Affaroni",
 				"value": 47
 			},
 			{
 				"name": "Route 16",
+				"name_it-IT": "Percorso 16",
 				"value": 48
 			},
 			{
+				"name_it-IT": "Prato Ula Ula",
 				"name": "Ula'ula Meadow",
 				"value": 49
 			},
 			{
 				"name": "Lake of the Moone/Sunne",
+				"name_it-IT": "Lago Lunare/Solare",
 				"value": 50
 			},
 			{
 				"name": "Route 17",
+				"name_it-IT": "Percorso 17",
 				"value": 51
 			},
 			{
 				"name": "Shady House",
+				"name_it-IT": "Villa Losca",
 				"value": 52
 			},
 			{
 				"name": "Seafolk Village",
+				"name_it-IT": "Villaggio del Mare",
 				"value": 53
 			},
 			{
 				"name": "Poni Wilds",
+				"name_it-IT": "Piana di Poni",
 				"value": 54
 			},
 			{
 				"name": "Ancient Poni Path",
+				"name_it-IT": "Via Antica di Poni",
 				"value": 55
 			},
 			{
 				"name": "Poni Breaker Coast",
+				"name_it-IT": "Scogliera Poni",
 				"value": 56
 			},
 			{
 				"name": "Exeggutor Island",
+				"name_it-IT": "Isola Exeggutor",
 				"value": 57
 			},
 			{
 				"name": "Vast Poni Canyon",
+				"name_it-IT": "Canyon di Poni",
 				"value": 58
 			},
 			{
 				"name": "Altar of the Moone/Sunne",
+				"name_it-IT": "Altare Lunare/Solare",
 				"value": 59
 			},
 			{
 				"name": "Mount Lanakila",
+				"name_it-IT": "Monte Lanakila",
 				"value": 60
 			},
 			{
 				"name": "Poni Grove",
+				"name_it-IT": "Foresta di Poni",
 				"value": 61
 			},
 			{
 				"name": "Poni Plains",
+				"name_it-IT": "Prateria di Poni",
 				"value": 62
 			},
 			{
 				"name": "Poni Meadow",
+				"name_it-IT": "Prato Poni",
 				"value": 63
 			},
 			{
 				"name": "Resolution Cave",
+				"name_it-IT": "Caverna Climax",
 				"value": 64
 			},
 			{
 				"name": "Poni Coast",
+				"name_it-IT": "Costa di Poni",
 				"value": 65
 			},
 			{
 				"name": "Poni Gauntlet",
+				"name_it-IT": "Erta di Poni",
 				"value": 66
 			},
 			{
 				"name": "Ruins of Conflict",
+				"name_it-IT": "Tempio del Conflitto",
 				"value": 67
 			},
 			{
 				"name": "Ruins of Life",
+				"name_it-IT": "Tempio della Vita",
 				"value": 68
 			},
 			{
 				"name": "Ruins of Abundance",
+				"name_it-IT": "Tempio del Raccolto",
 				"value": 69
 			},
 			{
 				"name": "Ruins of Hope",
+				"name_it-IT": "Tempio del Passaggio",
 				"value": 70
 			}
 		]
@@ -3385,6 +4204,7 @@ var games = {
 	'swsh': {
 		'id': 'swsh',
 		'title': 'Sword and Shield',
+		"title_it-IT": "Spada e Scudo",
 		'nameLimit': 12,
 		'dexLimit': 898,
 		'loaded': false,
@@ -3395,291 +4215,363 @@ var games = {
 			},
 			{
 				"name": "Slumbering Weald",
+				"name_it-IT": "Bosco Assopito",
 				"value": 1
 			},
 			{
 				"name": "Route 1",
+				"name_it-IT": "Percorso 1",
 				"value": 2
 			},
 			{
 				"name": "Wedgehurst",
+				"name_it-IT": "Brassbury",
 				"value": 3
 			},
 			{
 				"name": "Route 2",
+				"name_it-IT": "Percorso 2",
 				"value": 4
 			},
 			{
 				"name": "Wild Area: Rolling Fields",
+				"name_it-IT": "Pianura Serena",
 				"value": 5
 			},
 			{
 				"name": "Wild Area: Dappled Grove",
+				"name_it-IT": "Boschetto Ombraluce",
 				"value": 6
 			},
 			{
 				"name": "Wild Area: West Lake Axewell",
+				"name_it-IT": "Lago Axew (ovest)",
 				"value": 7
 			},
 			{
 				"name": "Wild Area: Watchtower Ruins",
+				"name_it-IT": "Torre Diroccata",
 				"value": 8
 			},
 			{
 				"name": "Wild Area: East Lake Axewell",
+				"name_it-IT": "Lago Axew (est)",
 				"value": 9
 			},
 			{
 				"name": "Wild Area: South Lake Miloch",
+				"name_it-IT": "Lago Milotic (sud)",
 				"value": 10
 			},
 			{
 				"name": "Wild Area: Giant's Seat",
+				"name_it-IT": "Sedia del Gigante",
 				"value": 11
 			},
 			{
 				"name": "Wild Area: North Lake Miloch",
+				"name_it-IT": "Lago Milotic (nord)",
 				"value": 12
 			},
 			{
 				"name": "Motostoke",
+				"name_it-IT": "Steamington",
 				"value": 13
 			},
 			{
 				"name": "Route 3",
+				"name_it-IT": "Percorso 3",
 				"value": 14
 			},
 			{
 				"name": "Galar Mine",
+				"name_it-IT": "Miniera di Galar",
 				"value": 15
 			},
 
 			{
 				"name": "Route 4",
+				"name_it-IT": "Percorso 4",
 				"value": 16
 			},
 			{
 				"name": "Route 5",
+				"name_it-IT": "Percorso 5",
 				"value": 17
 			},
 			{
 				"name": "Hulbury",
+				"name_it-IT": "Keelford",
 				"value": 18
 			},
 			{
 				"name": "Galar Mine No. 2",
+				"name_it-IT": "Miniera 2",
 				"value": 19
 			},
 			{
 				"name": "Motostoke Outskirts",
+				"name_it-IT": "Perif. Steamington",
 				"value": 20
 			},
 			{
 				"name": "Motostoke Stadium",
+				"name_it-IT": "Stadio Steamington",
 				"value": 21
 			},
 			{
 				"name": "Wild Area: Motostoke Riverbank",
+				"name_it-IT": "Fiume di Steamington",
 				"value": 22
 			},
 			{
 				"name": "Wild Area: Bridge Field",
+				"name_it-IT": "Piana dei Ponti",
 				"value": 23
 			},
 			{
 				"name": "Wild Area: Stony Wilderness",
+				"name_it-IT": "Landa delle Pietre",
 				"value": 24
 			},
 			{
 				"name": "Wild Area: Giant's Mirror",
+				"name_it-IT": "Specchio del Gigante",
 				"value": 25
 			},
 			{
 				"name": "Wild Area: Dusty Bowl",
+				"name_it-IT": "Conca delle Sabbie",
 				"value": 26
 			},
 			{
 				"name": "Wild Area: Giant's Cap",
+				"name_it-IT": "Berretto del Gigante",
 				"value": 27
 			},
 			{
 				"name": "Wild Area: Hammerlocke Hills",
+				"name_it-IT": "Colle Knuckleburgh",
 				"value": 28
 			},
 			{
 				"name": "Wild Area: Lake of Outrage",
+				"name_it-IT": "Lago Dragofuria",
 				"value": 29
 			},
 			{
 				"name": "Route 6",
+				"name_it-IT": "Percorso 6",
 				"value": 30
 			},
 			{
 				"name": "Glimwood Tangle",
+				"name_it-IT": "Bosco Brillabirinto",
 				"value": 31
 			},
 			{
-				"name": "Router 7",
+				"name": "Route 7",
+				"name_it-IT": "Percorso 7",
 				"value": 32
 			},
 			{
 				"name": "Route 8",
+				"name_it-IT": "Percorso 8",
 				"value": 33
 			},
 			{
 				"name": "Route 9",
+				"name_it-IT": "Percorso 9",
 				"value": 34
 			},
 			{
 				"name": "Wild Area: Axew's Eye",
+				"name_it-IT": "Occhio del Lago Axew",
 				"value": 35
 			},
 			{
 				"name": "Isle of Armor: Fields of Honor",
+				"name_it-IT": "Pianura Inchino",
 				"value": 36
 			},
 			{
 				"name": "Isle of Armor: Soothing Wetlands",
+				"name_it-IT": "Acquitrino Fresco",
 				"value": 37
 			},
 			{
 				"name": "Isle of Armor: Forest of Focus",
+				"name_it-IT": "Bosco Concentrazione",
 				"value": 38
 			},
 			{
 				"name": "Isle of Armor: Challenge Beach",
+				"name_it-IT": "Spiaggia Sfida",
 				"value": 39
 			},
 			{
 				"name": "Isle of Armor: Brawlers' Cave",
+				"name_it-IT": "Antro Scontro",
 				"value": 40
 			},
 			{
 				"name": "Isle of Armor: Challenge Road",
+				"name_it-IT": "Cammino Sfida",
 				"value": 41
 			},
 			{
 				"name": "Isle of Armor: Courageous Cavern",
+				"name_it-IT": "Grotta Grinta",
 				"value": 42
 			},
 			{
 				"name": "Isle of Armor: Loop Lagoon",
+				"name_it-IT": "Baia Circolare",
 				"value": 43
 			},
 			{
 				"name": "Isle of Armor: Training Lowlands",
+				"name_it-IT": "Piana Addestramento",
 				"value": 44
 			},
 			{
 				"name": "Isle of Armor: Warm-Up Tunnel",
+				"name_it-IT": "Tunnel Riscaldamento",
 				"value": 45
 			},
 			{
 				"name": "Isle of Armor: Potbottom Desert",
+				"name_it-IT": "Deserto Paiolo",
 				"value": 46
 			},
 			{
 				"name": "Isle of Armor: Workout Sea",
+				"name_it-IT": "Mar Ginnico",
 				"value": 47
 			},
 			{
 				"name": "Isle of Armor: Stepping-Stone Sea",
+				"name_it-IT": "Mar Lineapelago",
 				"value": 48
 			},
 			{
 				"name": "Isle of Armor: Insular Sea",
+				"name_it-IT": "Mar Sperdipelago",
 				"value": 49
 			},
 			{
 				"name": "Isle of Armor: Honeycalm Sea",
+				"name_it-IT": "Mar Quietarnia",
 				"value": 50
 			},
 			{
 				"name": "Isle of Armor: Honeycalm Island",
+				"name_it-IT": "Isola Quietarnia",
 				"value": 51
 			},
 			{
 				"name": "Crown Tundra: Slippery Slope",
+				"name_it-IT": "Nevi Primoscivolo",
 				"value": 52
 			},
 			{
 				"name": "Crown Tundra: Freezington",
+				"name_it-IT": "Freezedale",
 				"value": 53
 			},
 			{
 				"name": "Crown Tundra: Max Lair",
+				"name_it-IT": "Dynatana max",
 				"value": 54
 			},
 			{
 				"name": "Crown Tundra: Frostpoint Field",
+				"name_it-IT": "Piana Sottozero",
 				"value": 55
 			},
 			{
 				"name": "Crown Tundra: Giant's Bed",
+				"name_it-IT": "Letto del Gigante",
 				"value": 56
 			},
 			{
 				"name": "Crown Tundra: Old Cemetery",
+				"name_it-IT": "Cimitero Antico",
 				"value": 57
 			},
 			{
 				"name": "Crown Tundra: Snowslide Slope",
+				"name_it-IT": "Valle Innevata",
 				"value": 58
 			},
 			{
 				"name": "Crown Tundra: Tunnel to the Top",
+				"name_it-IT": "Tunnel Scalata",
 				"value": 59
 			},
 			{
 				"name": "Crown Tundra: Path to the Peak",
+				"name_it-IT": "Sentiero Biancacima",
 				"value": 60
 			},
 			{
 				"name": "Crown Tundra: Crown Shrine",
+				"name_it-IT": "Tempio Corona",
 				"value": 61
 			},
 			{
 				"name": "Crown Tundra: Giant's Foot",
+				"name_it-IT": "Suola del Gigante",
 				"value": 62
 			},
 			{
 				"name": "Crown Tundra: Roaring-Sea Caves",
+				"name_it-IT": "Grotte Fragormare",
 				"value": 63
 			},
 			{
 				"name": "Crown Tundra: Frigrid Sea",
+				"name_it-IT": "Mar Gelido",
 				"value": 64
 			},
 			{
 				"name": "Crown Tundra: Three-Point Pass",
+				"name_it-IT": "Campo Trivio",
 				"value": 65
 			},
 			{
 				"name": "Crown Tundra: Ballimere Lake",
+				"name_it-IT": "Riva del Lago Ball",
 				"value": 66
 			},
 			{
 				"name": "Crown Tundra: Lakeside Cave",
+				"name_it-IT": "Grotta Rivalago",
 				"value": 67
 			},
 			{
 				"name": "Crown Tundra: Dyna Tree Hill",
+				"name_it-IT": "Collina Dynalbero",
 				"value": 68
 			},
 			{
 				"name": "Crown Tundra: Rock Peak Ruins",
+				"name_it-IT": "Rovine Picco",
 				"value": 69
 			},
 			{
 				"name": "Crown Tundra: Iceberg Ruins",
+				"name_it-IT": "Rovine Iceberg",
 				"value": 70
 			},
 			{
 				"name": "Crown Tundra: Iron Ruins",
+				"name_it-IT": "Rovine Ferro",
 				"value": 71
 			},
 			{
 				"name": "Crown Tundra: Split-Decision Ruins",
+				"name_it-IT": "Rovine della Scelta",
 				"value": 72
 			}
 		]
@@ -3687,6 +4579,7 @@ var games = {
 	'custom': {
 		'id': 'custom',
 		'title': 'Custom Game',
+		"title_it-IT": "Gioco Personalizzato",
 		'nameLimit': 12,
 		'dexLimit': 898,
 		'loaded': false,
@@ -8427,7 +9320,7 @@ var pkmnData = [
 	}
 ];
 
-if (!localStorage.getItem('selectedGame')) {
+if(!localStorage.getItem('selectedGame')) {
 	localStorage.setItem('selectedGame', 'rby');
 }
 
@@ -8436,7 +9329,7 @@ var selectedGame = games[localStorage.getItem('selectedGame')] ? localStorage.ge
 function escapeHTML(str, jsContext) {
 	var string = new Option(str).innerHTML;
 
-	if (jsContext) {
+	if(jsContext) {
 		string.replace(/"/g, '"').replace(/'/g, "'").replace(/\n/g, '\\n').replace(/\/r/g, '\\r');
 	} else {
 		string.replace(/"/g, '&quot;');
@@ -8445,57 +9338,63 @@ function escapeHTML(str, jsContext) {
 	return string;
 }
 
+function localize(obj, field, locale = navigator.language) {
+	if(obj[field + '_' + locale]) return obj[field + '_' + locale];
+
+	return obj[field];
+}
+
 function renderMain() {
 	var linksString = '';
 	var segmentsString = '';
 
-	for (var game in games) {
-		linksString += '<a class="item" data-tab="' + games[game].id + '">' + games[game].title + '</a>';
+	for(var game in games) {
+		linksString += '<a class="item" data-tab="' + games[game].id + '">' + localize(games[game], 'title') + '</a>';
 
 		segmentsString += '<div class="ui bottom attached segment tab" data-tab="' + games[game].id + '">' +
 			'<div class="ui secondary stackable menu">' +
-				'<div class="horizontally fitted item">' +
-					'<h2 class="ui header">' + games[game].title + '</h2>' +
-				'</div>' +
-				'<div class="right horizontally fitted item">' +
-					'<button class="ui basic fluid button addLocation"><i class="plus icon"></i>Add location</button>' +
-					'<button class="ui basic button gameSettings" title="Game settings"><i class="settings icon"></i></button>' +
-				'</div>' +
+			'<div class="horizontally fitted item">' +
+			'<h2 class="ui header">' + localize(games[game], 'title') + '</h2>' +
+			'</div>' +
+			'<div class="right horizontally fitted item">' +
+			'<button class="ui basic fluid button addLocation"><i class="plus icon"></i>Add location</button>' +
+			'<button class="ui basic button gameSettings" title="Game settings"><i class="settings icon"></i></button>' +
+			'</div>' +
 			'</div>' +
 			'<table class="ui table sortable selectable">' +
-				'<thead>' +
-					'<tr>' +
-						'<th class="center aligned four wide">Location</th>' +
-						'<th class="center aligned four wide">Encounter</th>' +
-						'<th class="center aligned four wide">Nickname</th>' +
-						'<th class="center aligned three wide">Status</th>' +
-						'<th class="center aligned no-sort one wide disabled"></th>' +
-					'</tr>' +
-				'</thead>' +
-				'<tbody id="' + games[game].id + '-locations">' +
-				'</tbody>' +
+			'<thead>' +
+			'<tr>' +
+			'<th class="center aligned four wide">Location</th>' +
+			'<th class="center aligned four wide">Encounter</th>' +
+			'<th class="center aligned four wide">Nickname</th>' +
+			'<th class="center aligned three wide">Status</th>' +
+			'<th class="center aligned no-sort one wide disabled"></th>' +
+			'</tr>' +
+			'</thead>' +
+			'<tbody id="' + games[game].id + '-locations">' +
+			'</tbody>' +
 			'</table>' +
-		'</div>';
+			'</div>';
 	};
 
 
 	return '<div class="ui stackable top attached borderless menu">' +
 		'<div id="gameMenu" class="ui dropdown item">' +
-			'<i class="sidebar icon"></i>' +
-			'Games' +
-			'<i class="dropdown icon"></i>' +
-			'<div class="menu">' +
-				linksString +
-			'</div>' +
+		'<i class="sidebar icon"></i>' +
+		'Games' +
+		'<i class="dropdown icon"></i>' +
+		'<div class="menu">' +
+		linksString +
+		'</div>' +
 		'</div>' +
 		'<div class="right horizontally fitted item dataControls">' +
-			'<button id="saveData" class="ui green button"><i class="download icon"></i>Export</button>' +
-			'<input id="fileLoader" accept=".json, application/json" type="file">' +
-			'<label id="loadData" class="ui blue button fileInput" for="fileLoader"><i class="upload icon"></i>Import</label>' +
-			'<button id="resetData" class="ui red button"><i class="remove icon"></i>Reset</button>' +
+		'<input id="fileLoader" accept=".json, application/json" type="file">' +
+		'<label id="loadData" class="ui blue button fileInput" for="fileLoader"><i class="download icon"></i>Import</label>' +
+		'<button id="saveData" class="ui green button"><i class="upload icon"></i>Export</button>' +
+		'<button id="resetData" class="ui red button"><i class="remove icon"></i>Reset</button>' +
 		'</div>' +
-	'</div>' +
-	segmentsString;
+		'</div>' +
+		segmentsString;
 }
 
 function renderLocations(game, darkTheme) {
@@ -8504,38 +9403,38 @@ function renderLocations(game, darkTheme) {
 	game.locations.forEach(function(location, index) {
 		var locationValue = escapeHTML(location.value);
 
-		string += '<tr' + (location.order !== undefined ? ' class="customLocation"' : '' ) + '>' +
-			'<td data-sort-value="' + index + '">' + '<div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic show-sm float-right singleReset icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div>' + escapeHTML(location.name) + '</td>' +
+		string += '<tr' + (location.order !== undefined ? ' class="customLocation"' : '') + '>' +
+			'<td data-sort-value="' + index + '">' + '<div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic show-sm float-right singleReset icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div>' + escapeHTML(localize(location, 'name')) + '</td>' +
 			'<td data-sort-value="' + escapeHTML(localStorage.getItem(game.id + location.value + '-encounter')) + '">' +
-				'<div data-name="' + (localStorage.getItem(game.id + location.value + '-name') ? escapeHTML(localStorage.getItem(game.id + location.value + '-name')) : '') + '" id="' + game.id + locationValue + '-encounter" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid search selection long dropdown encounter-picker">' +
-					'<input value="' + (localStorage.getItem(game.id + location.value + '-encounter') ? escapeHTML(localStorage.getItem(game.id + location.value + '-encounter'), true) : '') + '" name="pokemon" type="hidden">' +
-					'<i class="dropdown icon"></i>' +
-					'<div class="default text">Encounter</div>' +
-					'<div class="menu"></div>' +
-				'</div>' +
+			'<div data-name="' + (localStorage.getItem(game.id + location.value + '-name') ? escapeHTML(localStorage.getItem(game.id + location.value + '-name')) : '') + '" id="' + game.id + locationValue + '-encounter" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid search selection long dropdown encounter-picker">' +
+			'<input value="' + (localStorage.getItem(game.id + location.value + '-encounter') ? escapeHTML(localStorage.getItem(game.id + location.value + '-encounter'), true) : '') + '" name="pokemon" type="hidden">' +
+			'<i class="dropdown icon"></i>' +
+			'<div class="default text">Encounter</div>' +
+			'<div class="menu"></div>' +
+			'</div>' +
 			'</td>' +
 			'<td data-sort-value="' + escapeHTML(localStorage.getItem(game.id + location.value + '-nickname')) + '">' +
-				'<div class="ui' + (darkTheme ? ' inverted' : '') + ' fluid input">' +
-					'<input autocomplete="off" maxlength="' + game.nameLimit + '" class="nickname-input" value="' + (localStorage.getItem(game.id + location.value + '-nickname') ? escapeHTML(localStorage.getItem(game.id + location.value + '-nickname')) : '') + '" id="' + game.id + locationValue + '-nickname" name="nickname" placeholder="Nickname" type="text">' +
-				'</div>' +
+			'<div class="ui' + (darkTheme ? ' inverted' : '') + ' fluid input">' +
+			'<input autocomplete="off" maxlength="' + game.nameLimit + '" class="nickname-input" value="' + (localStorage.getItem(game.id + location.value + '-nickname') ? escapeHTML(localStorage.getItem(game.id + location.value + '-nickname')) : '') + '" id="' + game.id + locationValue + '-nickname" name="nickname" placeholder="Nickname" type="text">' +
+			'</div>' +
 			'</td>' +
 			'<td data-sort-value="' + escapeHTML(localStorage.getItem(game.id + location.value + '-status')) + '">' +
-				'<div id="' + game.id + locationValue + '-status" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid selection long dropdown">' +
-					'<input value="' + (localStorage.getItem(game.id + location.value + '-status') ? escapeHTML(localStorage.getItem(game.id + location.value + '-status')) : '') + '" name="status" type="hidden">' +
-					'<i class="dropdown icon"></i>' +
-					'<div class="default text">Status</div>' +
-					'<div class="menu">' +
-						'<div class="item" data-value="captured"><i class="checkmark icon"></i>Captured</div>' +
-						'<div class="item" data-value="received"><i class="gift icon"></i>Received</div>' +
-						'<div class="item" data-value="traded"><i class="exchange icon"></i>Traded</div>' +
-						'<div class="item" data-value="missed"><i class="ban icon"></i>Missed</div>' +
-						'<div class="item" data-value="stored"><i class="hdd outline icon"></i>Stored</div>' +
-						'<div class="item" data-value="deceased"><i class="remove user icon"></i>Deceased</div>' +
-					'</div>' +
-				'</div>' +
+			'<div id="' + game.id + locationValue + '-status" class="ui' + (darkTheme ? ' inverted' : '') + ' fluid selection long dropdown">' +
+			'<input value="' + (localStorage.getItem(game.id + location.value + '-status') ? escapeHTML(localStorage.getItem(game.id + location.value + '-status')) : '') + '" name="status" type="hidden">' +
+			'<i class="dropdown icon"></i>' +
+			'<div class="default text">Status</div>' +
+			'<div class="menu">' +
+			'<div class="item" data-value="captured"><i class="checkmark icon"></i>Captured</div>' +
+			'<div class="item" data-value="received"><i class="gift icon"></i>Received</div>' +
+			'<div class="item" data-value="traded"><i class="exchange icon"></i>Traded</div>' +
+			'<div class="item" data-value="missed"><i class="ban icon"></i>Missed</div>' +
+			'<div class="item" data-value="stored"><i class="hdd outline icon"></i>Stored</div>' +
+			'<div class="item" data-value="deceased"><i class="remove user icon"></i>Deceased</div>' +
+			'</div>' +
+			'</div>' +
 			'</td>' +
 			'<td class="hide-sm"><div title="Delete" class="ui' + (darkTheme ? ' inverted' : '') + ' basic singleReset fluid icon button" data-location-id="' + locationValue + '"><i class="remove icon"></i></div></td>' +
-		'</tr>';
+			'</tr>';
 	});
 
 	return string;
@@ -8546,7 +9445,7 @@ function resetGame(game, removeLocations) {
 		clearLocation(selectedGame + location.value);
 	});
 
-	if (removeLocations) {
+	if(removeLocations) {
 		localStorage.removeItem(selectedGame + '-custom-locations');
 
 		games[selectedGame].locations = games[selectedGame].locations.filter(function(location) {
@@ -8561,7 +9460,7 @@ function filterByProperty(array, property) {
 	return array.filter(function(entry) {
 		var value = entry[property];
 
-		if (values[value] !== undefined) {
+		if(values[value] !== undefined) {
 			return false;
 		} else {
 			values[value] = true;
@@ -8571,15 +9470,15 @@ function filterByProperty(array, property) {
 }
 
 function uploadFile(input) {
-	if (input.files && input.files[0]) {
+	if(input.files && input.files[0]) {
 		file = input.files[0];
 		fr = new FileReader();
 
-		fr.onload = function () {
+		fr.onload = function() {
 			try {
 				var data = JSON.parse(fr.result);
 
-				if (data && data.hasOwnProperty('locations')) {
+				if(data && data.hasOwnProperty('locations')) {
 					var locations = filterByProperty(data.locations, 'id');
 
 					resetGame(data.id, true);
@@ -8590,7 +9489,7 @@ function uploadFile(input) {
 					$('#allowCustomPokemon').prop('checked', data.settings && data.settings.allowCustomPokemon);
 					togglePokemonAddition(data.id);
 
-					if (data.customLocations.length) {
+					if(data.customLocations.length) {
 						var customLocations = filterByProperty(data.customLocations, 'value');
 
 						localStorage.setItem(data.id + '-custom-locations', JSON.stringify(customLocations));
@@ -8604,7 +9503,7 @@ function uploadFile(input) {
 
 					updateTab(data.id, true);
 
-					if (localStorage.getItem('selectedGame') !== data.id) {
+					if(localStorage.getItem('selectedGame') !== data.id) {
 						$('#gameMenu .menu').find('.item[data-tab="' + data.id + '"]').click();
 					}
 				} else {
@@ -8612,7 +9511,7 @@ function uploadFile(input) {
 					$('#messageHeader').text('Incorrect format');
 					$('#messageContent').text('The uploaded file contains invalid data');
 				}
-			} catch (e) {
+			} catch(e) {
 				console.error(e);
 
 				$('#errorMessage').removeClass('hidden');
@@ -8631,7 +9530,7 @@ function populateLocation(game, data) {
 	var nicknameElm = $('#' + id + '-nickname');
 	var statusElm = $('#' + id + '-status');
 
-	if (data.encounter !== null && data.encounter !== '') {
+	if(data.encounter !== null && data.encounter !== '') {
 		encounterElm.dropdown('set value', data.encounter);
 		encounterElm.dropdown('set text', '<img class="pkmn" src="img/' + data.encounter + '">' + data.name);
 		encounterElm.data('name', data.name);
@@ -8644,7 +9543,7 @@ function populateLocation(game, data) {
 		localStorage.removeItem(id + '-name');
 	}
 
-	if (data.nickname !== null && data.nickname !== '') {
+	if(data.nickname !== null && data.nickname !== '') {
 		nicknameElm.val(data.nickname);
 		localStorage.setItem(id + '-nickname', data.nickname);
 	} else {
@@ -8652,7 +9551,7 @@ function populateLocation(game, data) {
 		localStorage.removeItem(id + '-nickname');
 	}
 
-	if (data.status !== null && data.status !== '') {
+	if(data.status !== null && data.status !== '') {
 		statusElm.dropdown('set selected', data.status);
 		localStorage.setItem(id + '-status', data.status);
 	} else {
@@ -8689,7 +9588,7 @@ function sortLocations(game) {
 
 	var initialLength = customLocations.length;
 
-	if (initialLength) {
+	if(initialLength) {
 		//Sort by order property, ensuring that all locations ordered directly after hardcoded locations get sorted first
 		//which potentially reduces the number of iterations to complete
 		customLocations.sort(function(a, b) {
@@ -8700,14 +9599,14 @@ function sortLocations(game) {
 		//The actual order of the locations as is doesn't necessarily relate to the aformentioned property, since it's subject to change
 		//which is why we're simply iterating over the array until it's empty.
 		//This is almost certainly unoptimal, but it works.
-		while (customLocations.length !== 0) {
+		while(customLocations.length !== 0) {
 			var locationRemoval = [];
 			initialLength = customLocations.length;
 
 			customLocations.forEach(function(customLocation, index) {
 				var insertIndex = locations.findIndex(function(e) { return e.value == customLocation.order; });
 
-				if (insertIndex !== -1) {
+				if(insertIndex !== -1) {
 					//Insert location into the main location array
 					locations.splice(insertIndex + 1, 0, customLocations[index]);
 
@@ -8722,7 +9621,7 @@ function sortLocations(game) {
 			});
 
 			//If the initialLength is unchanged by the end of the iteration, something's gone wrong and the loop will never end unless we break out
-			if (initialLength === customLocations.length) {
+			if(initialLength === customLocations.length) {
 				break;
 			}
 		}
@@ -8734,7 +9633,7 @@ function sortLocations(game) {
 function toggleDexLimit(tab) {
 	var value = $('#disableDexLimit').prop('checked');
 
-	if (value) {
+	if(value) {
 		localStorage.setItem(tab + 'disable-dex-limit', true);
 	} else {
 		localStorage.removeItem(tab + 'disable-dex-limit');
@@ -8751,7 +9650,7 @@ function toggleDexLimit(tab) {
 function togglePokemonAddition(tab) {
 	var value = $('#allowCustomPokemon').prop('checked');
 
-	if (value) {
+	if(value) {
 		localStorage.setItem(tab + 'allow-custom-pokemon', true);
 	} else {
 		localStorage.removeItem(tab + 'allow-custom-pokemon');
@@ -8791,7 +9690,7 @@ function initTab(tab) {
 
 			elm.find('.search').val('');
 
-			if (value !== '') {
+			if(value !== '') {
 				elm.dropdown('set selected', value);
 			} else {
 				elm.dropdown('restore placeholder text');
@@ -8831,11 +9730,11 @@ function saveData(game) {
 		settings: {}
 	};
 
-	if (localStorage.getItem(game + 'disable-dex-limit')) {
+	if(localStorage.getItem(game + 'disable-dex-limit')) {
 		blobData.settings.disableDexLimit = true;
 	}
 
-	if (localStorage.getItem(game + 'allow-custom-pokemon')) {
+	if(localStorage.getItem(game + 'allow-custom-pokemon')) {
 		blobData.settings.allowCustomPokemon = true;
 	}
 
@@ -8845,14 +9744,14 @@ function saveData(game) {
 		var nickname = localStorage.getItem(game + location.value + '-nickname');
 		var status = localStorage.getItem(game + location.value + '-status');
 
-		if (encounter !== null || name !== null || nickname !== null || status !== null) {
-			blobData.locations.push({'id': location.value, 'encounter': encounter, 'name': name, 'nickname': nickname, 'status': status});
+		if(encounter !== null || name !== null || nickname !== null || status !== null) {
+			blobData.locations.push({ 'id': location.value, 'encounter': encounter, 'name': name, 'nickname': nickname, 'status': status });
 		}
 	});
 
 	blobData = JSON.stringify(blobData);
 
-	var blob = new Blob([blobData], {type: 'application/json;charset=utf-8'});
+	var blob = new Blob([blobData], { type: 'application/json;charset=utf-8' });
 
 	saveAs(blob, game + '.' + new Date().toISOString().slice(0, 10) + '.json');
 }
@@ -8860,7 +9759,7 @@ function saveData(game) {
 function addLocation(location, game) {
 	var customLocations = JSON.parse(localStorage.getItem(game + '-custom-locations') || '[]');
 
-	if (customLocations.length) {
+	if(customLocations.length) {
 		location.value = 'c' + (parseInt((customLocations[customLocations.length - 1]).value.slice(1)) + 1);
 	} else {
 		location.value = 'c0';
@@ -8868,7 +9767,7 @@ function addLocation(location, game) {
 
 	var duplicateLocationOrder = customLocations.findIndex(function(e) { return e.order == location.order; });
 
-	if (duplicateLocationOrder !== -1) {
+	if(duplicateLocationOrder !== -1) {
 		customLocations[duplicateLocationOrder].order = location.value;
 	}
 
@@ -8881,10 +9780,10 @@ function addLocation(location, game) {
 
 function removeLocation(value, game) {
 	var customLocations = JSON.parse(localStorage.getItem(game + '-custom-locations') || '[]');
-	var location = customLocations.find(function(location) {location.value == value});
+	var location = customLocations.find(function(location) { location.value == value });
 	var dependantLocation = customLocations.findIndex(function(e) { return e.order == location.value; });
 
-	if (dependantLocation) {
+	if(dependantLocation) {
 		customLocations[dependantLocation].order = location.order;
 	}
 
@@ -8901,7 +9800,7 @@ function updateTab(game, updateDropdown) {
 	$('#' + game + '-locations').html(renderLocations(games[game], localStorage.getItem('darkTheme') === 'true'));
 	initTab(game);
 
-	if (updateDropdown) {
+	if(updateDropdown) {
 		updateLocationDropdown();
 	}
 
@@ -8912,7 +9811,7 @@ function updateLocationDropdown() {
 	var locations = [];
 
 	games[selectedGame].locations.forEach(function(location) {
-		locations.push({'name': 'After ' + escapeHTML(location.name), 'value': location.value});
+		locations.push({ 'name': 'After ' + escapeHTML(localize(location, 'name')), 'value': location.value });
 	});
 
 	$('#locationOrder').dropdown('change values', locations);
@@ -8924,16 +9823,16 @@ sortLocations(selectedGame);
 var darkTheme = localStorage.getItem('darkTheme') === 'true';
 
 $('#dark-theme').prop('checked', darkTheme)
-.on('change', function() {
-	localStorage.setItem('darkTheme', this.checked);
-	document.body.classList = this.checked ? 'dark-theme' : '';
+	.on('change', function() {
+		localStorage.setItem('darkTheme', this.checked);
+		document.body.classList = this.checked ? 'dark-theme' : '';
 
-	if (this.checked) {
-		$('.ui:not(.footer)').addClass('inverted');
-	} else {
-		$('.ui:not(.footer)').removeClass('inverted');
-	}
-});
+		if(this.checked) {
+			$('.ui:not(.footer)').addClass('inverted');
+		} else {
+			$('.ui:not(.footer)').removeClass('inverted');
+		}
+	});
 
 $('#disableDexLimit').on('change', function() {
 	toggleDexLimit(selectedGame);
@@ -8945,7 +9844,7 @@ $('#allowCustomPokemon').on('change', function() {
 
 document.body.classList = darkTheme ? 'dark-theme' : '';
 
-if (darkTheme) {
+if(darkTheme) {
 	$('.ui.loading.segment').addClass('inverted');
 }
 
@@ -8964,7 +9863,7 @@ $(function() {
 	}).on('click', '.singleReset.button', function() {
 		var id = selectedGame + $(this).data('locationId');
 
-		if ($(this).closest('tr').hasClass('customLocation')) {
+		if($(this).closest('tr').hasClass('customLocation')) {
 			$('#clearModal').data('target', $(this).data('locationId'));
 			$('#clearModal').modal('show');
 		} else {
@@ -8973,7 +9872,7 @@ $(function() {
 	}).on('change', '.nickname-input', function() {
 		var elm = $(this);
 
-		if (elm.val() !== '' && elm.val() !== null) {
+		if(elm.val() !== '' && elm.val() !== null) {
 			elm.closest('td').data('sortValue', elm.val());
 			localStorage.setItem(elm.prop('id'), elm.val());
 		} else {
@@ -8991,9 +9890,9 @@ $(function() {
 
 	$('#clearModal').modal({
 		onApprove: function(e) {
-			if (e.data('action') === 'clear') {
+			if(e.data('action') === 'clear') {
 				clearLocation($(this).data('target'));
-			} else if (e.data('action') === 'remove') {
+			} else if(e.data('action') === 'remove') {
 				removeLocation($(this).data('target'), selectedGame);
 			}
 
@@ -9017,11 +9916,11 @@ $(function() {
 
 			$('#customLocationName').parent().toggleClass('error', locationName == false);
 
-			if (locationName == false) {
+			if(locationName == false) {
 				return false;
 			}
 
-			addLocation({'name': locationName, 'order': $('#locationOrder').dropdown('get value') || "0"}, selectedGame);
+			addLocation({ 'name': locationName, 'order': $('#locationOrder').dropdown('get value') || "0" }, selectedGame);
 
 			$('#customLocationName').val('');
 			$('#locationOrder').dropdown('set selected', '0');
@@ -9040,7 +9939,7 @@ $(function() {
 
 	$('#gameMenu .menu .item').tab({
 		onFirstLoad: function(tabPath) {
-			if (!games[tabPath].loaded) {
+			if(!games[tabPath].loaded) {
 				updateTab(tabPath, false);
 			}
 		},
@@ -9079,7 +9978,7 @@ $(function() {
 		}
 	});
 
-	if (darkTheme) {
+	if(darkTheme) {
 		$('.ui:not(.footer)').addClass('inverted');
 	}
 
