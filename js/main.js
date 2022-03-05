@@ -4576,6 +4576,385 @@ var games = {
 			}
 		]
 	},
+	'bdsp': {
+		'id': 'bdsp',
+		'title': 'Brilliant Diamond and Shining Pearl',
+		"title_it-IT": "Diamante Lucente e Perla Splendente",
+		'nameLimit': 12,
+		'dexLimit': 493,
+		'loaded': false,
+		'locations': [
+			{
+				"name": "Starter",
+				"value": 0
+			},
+			{
+				"name": "Twinleaf Town",
+				"name_it-IT": "Duefoglie",
+				"value": 1
+			},
+			{
+				"name": "Route 201",
+				"name_it-IT": "Percorso 201",
+				"value": 2
+			},
+			{
+				"name": "Lake Verity",
+				"name_it-IT": "Lago Verità",
+				"value": 3
+			},
+			{
+				"name": "Route 202",
+				"name_it-IT": "Percorso 202",
+				"value": 4
+			},
+			{
+				"name": "Route 203",
+				"name_it-IT": "Percorso 203",
+				"value": 5
+			},
+			{
+				"name": "Oreburgh Gate",
+				"name_it-IT": "Varco Mineropoli",
+				"value": 6
+			},
+			{
+				"name": "Oreburgh City",
+				"name_it-IT": "Mineropoli",
+				"value": 7
+			},
+			{
+				"name": "Oreburgh Mine",
+				"name_it-IT": "Cava di Mineropoli",
+				"value": 8
+			},
+			{
+				"name": "Route 207",
+				"name_it-IT": "Percorso 207",
+				"value": 9
+			},
+			{
+				"name": "Route 204",
+				"name_it-IT": "Percorso 204",
+				"value": 10
+			},
+			{
+				"name": "Ravaged Path",
+				"name_it-IT": "Cammino Roccioso",
+				"value": 11
+			},
+			{
+				"name": "Floaroma Meadow",
+				"name_it-IT": "Giardinfiorito",
+				"value": 12
+			},
+			{
+				"name": "Route 205",
+				"name_it-IT": "Percorso 205",
+				"value": 13
+			},
+			{
+				"name": "Valley Windworks",
+				"name_it-IT": "Impianto Turbine",
+				"value": 14
+			},
+			{
+				"name": "Eterna Forest",
+				"name_it-IT": "Bosco Evopoli",
+				"value": 15
+			},
+			{
+				"name": "The Old Chateau",
+				"name_it-IT": "Antico Chateau",
+				"value": 16
+			},
+			{
+				"name": "Eterna City",
+				"name_it-IT": "Evopoli",
+				"value": 17
+			},
+			{
+				"name": "Route 206",
+				"name_it-IT": "Percorso 206",
+				"value": 18
+			},
+			{
+				"name": "Wayward Cave",
+				"name_it-IT": "Grotta Labirinto",
+				"value": 19
+			},
+			{
+				"name": "Mt. Coronet",
+				"name_it-IT": "Monte Corona",
+				"value": 20
+			},
+			{
+				"name": "Route 208",
+				"name_it-IT": "Percorso 208",
+				"value": 21
+			},
+			{
+				"name": "Hearthome City",
+				"name_it-IT": "Cuoripoli",
+				"value": 22
+			},
+			{
+				"name": "Route 209",
+				"name_it-IT": "Percorso 209",
+				"value": 23
+			},
+			{
+				"name": "The Lost Tower",
+				"name_it-IT": "Torre Memoria",
+				"value": 24
+			},
+			{
+				"name": "Solaceon Ruins",
+				"name_it-IT": "Rovine Flemminia",
+				"value": 25
+			},
+			{
+				"name": "Route 210",
+				"name_it-IT": "Percorso 210",
+				"value": 26
+			},
+			{
+				"name": "Route 215",
+				"name_it-IT": "Percorso 215",
+				"value": 27
+			},
+			{
+				"name": "Veilstone City",
+				"name_it-IT": "Rupepoli",
+				"value": 28
+			},
+			{
+				"name": "Route 212",
+				"name_it-IT": "Percorso 212",
+				"value": 29
+			},
+			{
+				"name": "Trophy Garden",
+				"name_it-IT": "Giardino Trofeo",
+				"value": 30
+			},
+			{
+				"name": "Pastoria City",
+				"name_it-IT": "Pratopoli",
+				"value": 31
+			},
+			{
+				"name": "Great Marsh",
+				"name_it-IT": "Grande Palude",
+				"value": 32
+			},
+			{
+				"name": "Route 213",
+				"name_it-IT": "Percorso 213",
+				"value": 33
+			},
+			{
+				"name": "Valor Lakefront",
+				"name_it-IT": "Riva Valore",
+				"value": 34
+			},
+			{
+				"name": "Lake Valor",
+				"name_it-IT": "Lago Valore",
+				"value": 35
+			},
+			{
+				"name": "Route 214",
+				"name_it-IT": "Percorso 214",
+				"value": 36
+			},
+			{
+				"name": "Ruin Maniac's Cave",
+				"name_it-IT": "Grotta Rovine",
+				"value": 37
+			},
+			{
+				"name": "Ruin Maniac's Tunnel",
+				"name_it-IT": "Tunnel Rovine",
+				"value": 38
+			},
+			{
+				"name": "Celestic Town",
+				"name_it-IT": "Memoride",
+				"value": 39
+			},
+			{
+				"name": "Fuego Ironworks",
+				"name_it-IT": "Fonderie Fuego",
+				"value": 40
+			},
+			{
+				"name": "Route 219",
+				"name_it-IT": "Percorso 219",
+				"value": 41
+			},
+			{
+				"name": "Route 220",
+				"name_it-IT": "Percorso 220",
+				"value": 42
+			},
+			{
+				"name": "Route 221",
+				"name_it-IT": "Percorso 221",
+				"value": 43
+			},
+			{
+				"name": "Route 218",
+				"name_it-IT": "Percorso 218",
+				"value": 44
+			},
+			{
+				"name": "Canalave City",
+				"name_it-IT": "Canalipoli",
+				"value": 45
+			},
+			{
+				"name": "Iron Island",
+				"name_it-IT": "Isola Ferrosa",
+				"value": 46
+			},
+			{
+				"name": "Route 211",
+				"name_it-IT": "Percorso 211",
+				"value": 47
+			},
+			{
+				"name": "Route 216",
+				"name_it-IT": "Percorso 216",
+				"value": 48
+			},
+			{
+				"name": "Route 217",
+				"name_it-IT": "Percorso 217",
+				"value": 49
+			},
+			{
+				"name": "Acuity Lakefront",
+				"name_it-IT": "Riva Arguzia",
+				"value": 50
+			},
+			{
+				"name": "Lake Acuity",
+				"name_it-IT": "Lago Arguzia",
+				"value": 51
+			},
+			{
+				"name": "Snowpoint Temple",
+				"name_it-IT": "Tempio Nevepoli",
+				"value": 52
+			},
+			{
+				"name": "Route 222",
+				"name_it-IT": "Percorso 222",
+				"value": 53
+			},
+			{
+				"name": "Sunyshore City",
+				"name_it-IT": "Arenipoli",
+				"value": 54
+			},
+			{
+				"name": "Route 223",
+				"name_it-IT": "Percorso 223",
+				"value": 55
+			},
+			{
+				"name": "Pokémon League",
+				"name_it-IT": "Lega Pokémon",
+				"value": 56
+			},
+			{
+				"name": "Victory Road",
+				"name_it-IT": "Via Vittoria",
+				"value": 57
+			},
+			{
+				"name": "Route 224",
+				"name_it-IT": "Percorso 224",
+				"value": 58
+			},
+			{
+				"name": "Route 230",
+				"name_it-IT": "Percorso 230",
+				"value": 59
+			},
+			{
+				"name": "Route 229",
+				"name_it-IT": "Percorso 229",
+				"value": 60
+			},
+			{
+				"name": "Resort Area",
+				"name_it-IT": "Area Svago",
+				"value": 61
+			},
+			{
+				"name": "Route 228",
+				"name_it-IT": "Percorso 228",
+				"value": 62
+			},
+			{
+				"name": "Route 226",
+				"name_it-IT": "Percorso 226",
+				"value": 63
+			},
+			{
+				"name": "Route 227",
+				"name_it-IT": "Percorso 227",
+				"value": 64
+			},
+			{
+				"name": "Stark Mountain",
+				"name_it-IT": "Monte Ostile",
+				"value": 65
+			},
+			{
+				"name": "Route 225",
+				"name_it-IT": "Percorso 225",
+				"value": 66
+			},
+			{
+				"name": "Sendoff Spring",
+				"name_it-IT": "Fonte Saluto",
+				"value": 67
+			},
+			{
+				"name": "Turnback Cave",
+				"name_it-IT": "Grotta Ritorno",
+				"value": 68
+			},
+			{
+				"name": "Distortion World",
+				"name_it-IT": "Mondo Distorto",
+				"value": 69
+			},
+			{
+				"name": "Spear Pillar",
+				"name_it-IT": "Vetta Lancia",
+				"value": 70
+			},
+			{
+				"name": "Newmoon Island",
+				"name_it-IT": "Isola Lunanuova",
+				"value": 71
+			},
+			{
+				"name": "Flower Paradise",
+				"name_it-IT": "Paradiso Fiore",
+				"value": 72
+			},
+			{
+				"name": "Hall of Origin",
+				"name_it-IT": "Spazio Origine",
+				"value": 73
+			}
+		]
+	},
 	'custom': {
 		'id': 'custom',
 		'title': 'Custom Game',
