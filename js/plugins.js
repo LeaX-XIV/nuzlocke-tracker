@@ -80,6 +80,19 @@
             // Run sorting asynchronously on a timeout to force browser redraw after
             // `tablesort:start` callback. Also avoids locking up the browser too much.
             setTimeout(function() {
+
+                statusValueToPosition = function(value) {
+                    switch(value) {
+                        case 'captured': return 0;
+                        case 'received': return 1;
+                        case 'traded': return 2;
+                        case 'missed': return 3;
+                        case 'stored': return 4;
+                        case 'deceased': return 5;
+                        default: return value;
+                    }
+                }
+
                 self.$sortCells.removeClass(self.settings.asc + ' ' + self.settings.desc);
                 for(var i = 0, length = unsortedValues.length; i < length; i++) {
                     sortedMap.push({
@@ -87,7 +100,7 @@
                         // TODO: Add information about location order for extra degree of ordering
                         cell: cells[unsortedValues[i].idx],
                         row: rows[unsortedValues[i].idx],
-                        value: unsortedValues[i].value
+                        value: statusValueToPosition(unsortedValues[i].value)
                     });
                 }
 
