@@ -1,7 +1,7 @@
 // Avoid `console` errors in browsers that lack a console.
 (function() {
     var method;
-    var noop = function () {};
+    var noop = function() { };
     var methods = [
         'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
         'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
@@ -11,11 +11,11 @@
     var length = methods.length;
     var console = (window.console = window.console || {});
 
-    while (length--) {
+    while(length--) {
         method = methods[length];
 
         // Only stub undefined methods.
-        if (!console[method]) {
+        if(!console[method]) {
             console[method] = noop;
         }
     }
@@ -29,7 +29,7 @@
 */
 
 (function($) {
-    $.tablesort = function ($table, settings) {
+    $.tablesort = function($table, settings) {
         var self = this;
         this.$table = $table;
         this.$thead = this.$table.find('thead');
@@ -56,16 +56,16 @@
                 sortedMap = [];
 
             var unsortedValues = cells.map(function(idx, cell) {
-                return $(this).data().sortValue;
+                return { value: $(this).data().sortValue, idx: idx };
             });
-            if (unsortedValues.length === 0) return;
+            if(unsortedValues.length === 0) return;
 
             //click on a different column
-            if (this.index !== th.index()) {
+            if(this.index !== th.index()) {
                 this.direction = 'asc';
                 this.index = th.index();
             }
-            else if (direction !== 'asc' && direction !== 'desc')
+            else if(direction !== 'asc' && direction !== 'desc')
                 this.direction = this.direction === 'asc' ? 'desc' : 'asc';
             else
                 this.direction = direction;
@@ -80,18 +80,32 @@
             // Run sorting asynchronously on a timeout to force browser redraw after
             // `tablesort:start` callback. Also avoids locking up the browser too much.
             setTimeout(function() {
+
+                statusValueToPosition = function(value) {
+                    switch(value) {
+                        case 'captured': return 0;
+                        case 'received': return 1;
+                        case 'traded': return 2;
+                        case 'missed': return 3;
+                        case 'stored': return 4;
+                        case 'deceased': return 5;
+                        default: return value;
+                    }
+                }
+
                 self.$sortCells.removeClass(self.settings.asc + ' ' + self.settings.desc);
-                for (var i = 0, length = unsortedValues.length; i < length; i++)
-                {
+                for(var i = 0, length = unsortedValues.length; i < length; i++) {
                     sortedMap.push({
                         index: i,
-                        cell: cells[i],
-                        row: rows[i],
-                        value: unsortedValues[i]
+                        // TODO: Add information about location order for extra degree of ordering
+                        cell: cells[unsortedValues[i].idx],
+                        row: rows[unsortedValues[i].idx],
+                        value: statusValueToPosition(unsortedValues[i].value)
                     });
                 }
 
                 sortedMap.sort(function(a, b) {
+                    // TODO: Add extra sorting based on location order
                     return self.settings.compare(a.value, b.value, direction) * direction;
                 });
 
@@ -129,9 +143,9 @@
         asc: 'sorted ascending',
         desc: 'sorted descending',
         compare: function(a, b, direction) {
-            if (a === "" || a === null) return direction === 1 ? 1 : -1;
-            if (b === "" || b === null) return direction === 1 ? -1 : 1;
-            if (a === b) return 0;
+            if(a === "" || a === null) return direction === 1 ? 1 : -1;
+            if(b === "" || b === null) return direction === 1 ? -1 : 1;
+            if(a === b) return 0;
             return a < b ? -1 : 1;
         }
     };
